@@ -1,0 +1,2736 @@
+{
+	"home": {
+		"now": {
+			"title": "Now"
+		},
+		"feed": {
+			"title": "Feed",
+			"trending": "热门",
+			"recent": "最近的",
+			"popular": "受欢迎的"
+		},
+		"section": {
+			"tab": {
+				"recommend": "For you",
+				"hot": "Hot"
+			}
+		}
+	},
+	"community": {
+		"listModal": {
+			"title": "进入主页",
+			"allCommunities": "全部社区",
+			"myCommunities": "我的社区"
+		},
+		"officialTag": "官方",
+		"joinButton": "Join",
+		"official": {
+			"seeAllButton": "查看全部"
+		},
+		"writeButton": "%{communityName}社区上发布新帖",
+		"createProfile": {
+			"title": "创建新的个人资料",
+			"inputPlaceholder": "昵称",
+			"joinButton": "Go Go!"
+		},
+		"userBio": {
+			"inputPlaceholder": "介绍语"
+		},
+		"joinedButton": "Joined",
+		"editProfile": {
+			"title": "编辑个人资料",
+			"changeImage": "更改个人头像",
+			"selectPhoto": "从相册中选择",
+			"useDefaultImage": "使用默认图片"
+		},
+		"profile": {
+			"myPostsTitle": "我的帖子",
+			"myCommentsTitle": "我的评论",
+			"announcementsTitle": "公告通知",
+			"pointBoxTitle": "积分盒",
+			"missionTitle": "任务"
+		},
+		"announcement": {
+			"title": "公告通知"
+		},
+		"postingSheet": {
+			"newPost": "新帖子",
+			"editPost": "修改帖子",
+			"postButton": "发布",
+			"cancelButton": "取消",
+			"writePost": "写帖子",
+			"placeholder": "添加正文"
+		},
+		"mission": {
+			"title": "Mission",
+			"process": {
+				"description": "Process",
+				"status": {
+					"scheduled": "预期",
+					"inProgress": "进行中",
+					"finished": "结束"
+				},
+				"countdown": {
+					"untilEnd": "至过程结束",
+					"untilNext": "至下一过程"
+				}
+			},
+			"checkMissionButton": "确认任务",
+			"task": {
+				"notReady": "正在准备中。\n敬请期待本次过程！"
+			},
+			"status": {
+				"notDone": "未参与",
+				"done": "参与结束"
+			},
+			"label": {
+				"order": "确认%{order}"
+			}
+		},
+		"main": {
+			"tab": {
+				"main": "主要的",
+				"feed": "订阅"
+			}
+		},
+		"artist": {
+			"profile": {
+				"label": "个人资料",
+				"birth": "生日",
+				"debut": "出道",
+				"group": "团体",
+				"agency": "经纪公司"
+			}
+		}
+	},
+	"common": {
+		"more": "详情",
+		"copyLink": "Copy URL",
+		"enter": "入场",
+		"ok": "确认",
+		"cancel": "取消",
+		"close": "关闭",
+		"confirm": "确认",
+		"login": "登录",
+		"save": "保存",
+		"next": "下一步",
+		"precautions": "<注意事项>",
+		"agreeTerms": "全部同意",
+		"agreeAll": "全部同意",
+		"readMore": "Read More",
+		"linkOpen": "link",
+		"link": "link",
+		"long": {
+			"agree": "Yes, I agree.",
+			"disagree": "No, I don't agree."
+		},
+		"processDate": "处理日期: %{processDate}",
+		"whole": "全部",
+		"earning": "累计",
+		"exhaustion": "无余",
+		"termOfValidity": "有效期",
+		"label": {
+			"advertisement": "Ad"
+		},
+		"tab": {
+			"alphabetical": "Alphabetical",
+			"recent": "Recent"
+		},
+		"filter": {
+			"oldest": "Oldest",
+			"most": {
+				"recent": "最新发布",
+				"popular": "最多点赞"
+			}
+		},
+		"video": {
+			"counts": "%{count} video(s)"
+		},
+		"agree": "同意",
+		"disconnect": "解除",
+		"ad": {
+			"failed": {
+				"title": "广告搜索失败",
+				"description": "广告搜索失败。\n请重试。 如果继续失败，请联系客服中心。",
+				"retry": "重试"
+			}
+		},
+		"vote": {
+			"perVote": "每 回",
+			"remainVoteCount": "剩余投票次数 %{canVoteCount} 次",
+			"pointVoteLack": "投票次数或者我的积分不够",
+			"castEachArtist": "* 按照输入的投票次数给各艺人投票。",
+			"usedPoint": "已使用Mple积分",
+			"remainPoint": "剩余Mple积分",
+			"doneAll": "完成了所有投票！",
+			"pointFloatingButton": "积累Mple积分后可参与投票"
+		},
+		"maximum": "最大/ 最多",
+		"myPoint": "我的Mple积分",
+		"voteCert": {
+			"multiCert": "%{voteWeight}次投票认证书"
+		},
+		"earn": "积累"
+	},
+	"toast": {
+		"linkCopied": "LINK COPIED.",
+		"saved": "已保存",
+		"voteCert": {
+			"saved": "Saved to Camera Roll"
+		},
+		"codeCopied": "CODE COPIED.",
+		"resetPassword": {
+			"success": "密码重置完毕，已登录。"
+		},
+		"faceId": {
+			"connected": "已完成设置面部识别登录。",
+			"disconnected": "面部识别登录已解除。"
+		},
+		"touchId": {
+			"connected": "已完成设置指纹识别登录。",
+			"disconnected": "指纹识别登录已解除。"
+		}
+	},
+	"alert": {
+		"community": {
+			"list": {
+				"all": "查看全部"
+			},
+			"createProfile": {
+				"joinSuccess": "恭喜您！成功加入%{communityName}社区。"
+			},
+			"leaveConfirm": "您要注销%{communityName}社区吗？",
+			"leaveComplete": "您已从%{communityName}社区上注销。",
+			"editProfile": {
+				"success": "昵称已更改。"
+			},
+			"postingSheet": {
+				"imageCountExceeded": "图片最多可上传10张。"
+			},
+			"join": {
+				"already": "您已经加入该社区。"
+			}
+		},
+		"needLogin": "您需要先登录。现在登录吗？",
+		"popup": {
+			"login": {
+				"label": "登录"
+			},
+			"join": {
+				"label": "加入"
+			},
+			"community": {
+				"username": {
+					"inuse": "该昵称已被使用。"
+				}
+			},
+			"post": {
+				"report": {
+					"confirm": "确定要举报此帖子和用户吗？",
+					"done": "已举报該帖子和用户。"
+				},
+				"delete": {
+					"confirm": "确定要删除该帖吗？",
+					"done": "该帖已删除。"
+				}
+			},
+			"comment": {
+				"report": {
+					"confirm": "确定要举报此评论和用户吗？"
+				},
+				"delete": {
+					"confirm": "要删除该留言吗？"
+				}
+			},
+			"confirm": {
+				"writing": {
+					"cancel": "目前为止编辑的内容都将消失。是否继续？"
+				}
+			},
+			"vote": {
+				"need": {
+					"join1": "参与投票，须加入",
+					"join2": "社区。"
+				},
+				"abuse": {
+					"warn": "检测到异常的重复投票行为。如果继续进行，您的投票将受到限制。",
+					"block": "确认存在异常的反复投票行为，您的服务使用将受到限制。",
+					"device": "根据投票运营政策，您无法使用此服务。"
+				}
+			},
+			"alert": {
+				"ok": {
+					"label": "确认"
+				}
+			},
+			"signup": {
+				"abuse": {
+					"warn": "检测到异常的会员注册。 如果继续尝试，注册会员可能受到限制。",
+					"block": "会员注册方式异常，无法注册为会员。"
+				},
+				"invalidcode": "验证码不匹配或验证码已过期。"
+			},
+			"invalid": {
+				"email": "该邮箱地址无效。"
+			}
+		},
+		"needMembership": "您需要先加入%{communityName}社区后使用。现在加入吗?",
+		"communityprofile": {
+			"username": {
+				"invalid": "昵称可以输入2~16个字，无法使用特殊文字或表情。"
+			}
+		},
+		"post": {
+			"already": {
+				"reported": "该帖子已被举报。"
+			},
+			"deleted": "该贴文不存在。",
+			"share": {
+				"copied": "已复制到剪贴板。"
+			},
+			"report": {
+				"confirm": "您要举报此帖吗？",
+				"success": "举报已处理。"
+			},
+			"delete": {
+				"confirm": "您确定要删除这篇帖子吗？",
+				"success": "已被删除。"
+			}
+		},
+		"comment": {
+			"report": {
+				"success": "已举报該评论和用户。",
+				"confirm": "您要删除此评论/回复吗？"
+			},
+			"already": {
+				"reported": "该留言已被举报。"
+			},
+			"delete": {
+				"success": "留言已删除。",
+				"confirm": "您要举报此评论/回复吗？"
+			},
+			"filter": {
+				"popular": "受欢迎的",
+				"recent": "最近的"
+			},
+			"read": {
+				"more": "查看更多"
+			},
+			"needTwoLetters": "发布评论时，需要输入至少2个字符的信息。",
+			"sameCharacters": "不能重复输入相同文本。",
+			"noText": "没有要输入的字符。需满足最少输入的字符数。",
+			"needFiveLetters": "输入的字符数不足。最少需要输入5个字符。",
+			"timeLimitApplied": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"距发布下一条评论/回复的时间间隔限制为“30秒”。",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"距发布下一条评论/回复的时间间隔限制为“45秒”。",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"距发布下一条评论/回复的时间间隔限制为“60秒”。",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"距发布下一条评论/回复的时间间隔限制为“75秒”。"
+			],
+			"exceededMaxNumber": "已超过允许发布的评论数。"
+		},
+		"reply": {
+			"report": {
+				"confirm": "确定要举报此回复和用户吗？",
+				"success": "已举报該回复和用户。"
+			},
+			"already": {
+				"reported": "该回复已被举报。"
+			},
+			"delete": {
+				"confirm": "要删除该回复吗？",
+				"success": "回复已删除。"
+			},
+			"reply": {
+				"block": "回复下方不可添加新的回复。"
+			}
+		},
+		"imageMaxGif": "GIF形式的文件只能上传一个。",
+		"imageMaxSize": "只能上传10MB以下的图片。",
+		"imageViewer": {
+			"saved": "保存成功！"
+		},
+		"vote": {
+			"needPreviousStep": "稍等，请先进行上一步的投票。",
+			"optionNotSelected": "请选择%{optionChoiceNumber}个选项。",
+			"groupOptionNotSelected": "请每步选择%{optionChoiceNumber}个选项。",
+			"optionSelectExceeded": "选项最多可以选择%{optionChoiceNumber}个。",
+			"option": {
+				"choice": {
+					"confirm": "此投票最多可选择%{optionChoiceNumber}个。要继续投票吗？"
+				}
+			},
+			"voteConfirmMessage": "确定要投票吗？",
+			"needLogin": "参与投票须先登录。",
+			"needMembership": "参与投票，须加入社区。",
+			"voteSuccess": "投票完成！",
+			"closed": "投票时间已截止。",
+			"notOpened": "投票还没开始。",
+			"notopened": "投票还没开始。",
+			"geoBlocked": "无法在当前国家地区投票。",
+			"captcha": {
+				"invalid": "有效期已过，需从头开始投票。"
+			},
+			"advertisement": {
+				"cta": "go to the Advertiser's website"
+			},
+			"restrict": "您没有投票权限。 详细信息请在该社区确认。",
+			"app": {
+				"only": "该投票可在Mnet Plus APP参与活动。"
+			},
+			"needAppUpdate": "为了进行投票，请更新到最新应用程序。",
+			"user": {
+				"abnormal": "因被识别为异常账户，您无法参与投票。"
+			},
+			"alreadyvoted": "已经提交了。",
+			"blance": {
+				"not": {
+					"enough": "您拥有的粉丝积分不足"
+				}
+			},
+			"exhausted": {
+				"vote": "额外投票次数已用完，您无法继续投票"
+			},
+			"certificate": {
+				"notfound": "Sorry, the page you requested cannot be found."
+			},
+			"right": {
+				"code": {
+					"already": "已使用的代码。",
+					"wrong": "验证码无效。"
+				},
+				"did": {
+					"already": "代码输入的设备。"
+				},
+				"user": {
+					"already": "已输入代码的账户。"
+				}
+			},
+			"firstcome": {
+				"exhausted": "Tickets are sold out.\r\nPlease try again."
+			}
+		},
+		"liveChat": {
+			"needLogin": "参与聊天，须加入“社区名” 社区。"
+		},
+		"login": {
+			"email": {
+				"not": {
+					"exist": "该邮箱没有被注册。请确认后重新输入。"
+				}
+			},
+			"password": {
+				"not": {
+					"match": "密码不匹配。"
+				}
+			},
+			"passwordNotMatch": {
+				"title": "登录失败5次以上。",
+				"content": "电子邮件验证后，是否要重设密码？"
+			}
+		},
+		"account": {
+			"information": "账号信息",
+			"username": {
+				"invalid": "用户名可以输入2~16个字，无法使用特殊文字或表情。"
+			},
+			"password": {
+				"not": {
+					"match": "密码不匹配。"
+				},
+				"inuse": "不能使用与当前密码相同的密码，请输入其他密码。"
+			},
+			"current": {
+				"password": {
+					"not": {
+						"match": "当前密码不匹配。"
+					}
+				}
+			},
+			"old": {
+				"password": {
+					"match": "不能重复使用以前使用的密码，请输入其他密码。"
+				}
+			},
+			"forgotPassword": {
+				"snsOnlyUser": "通过社交媒体快捷注册的会员无法更改密码。如需变更密码，请前往您注册的社交媒体平台进行更改。"
+			},
+			"email": {
+				"check": {
+					"snsOnlyUser": "是通过其他社交媒体注册的电子邮件。 请确认一下社交媒体账号。",
+					"snsOnlyUser-google": "您在 Mnet Plus 上使用了相同的电子邮件地址。请通过选择 Google 进行登录。",
+					"snsOnlyUser-apple": "您在 Mnet Plus 上使用了相同的电子邮件地址。请通过选择 Apple 进行登录。",
+					"snsOnlyUser-kakao": "您在 Mnet Plus 上使用了相同的电子邮件地址。请通过选择 Kakao 进行登录。",
+					"snsOnlyUser-line": "您在 Mnet Plus 上使用了相同的电子邮件地址。请通过选择 LINE 进行登录。"
+				}
+			},
+			"login": {
+				"withdrawnEmail": "退出Mnet Plus的电子邮件。 请转接另一个账号。"
+			}
+		},
+		"signup": {
+			"duplicatedEmail": "该邮箱已被使用。请确认后重新输入。",
+			"authcode": {
+				"not": {
+					"match": "验证码不匹配或验证码已过期。"
+				}
+			},
+			"captcha": {
+				"invalid": "CAPTCHA有效期已过，您需要重新进行会员注册。"
+			}
+		},
+		"temporary": {
+			"email": {
+				"is": {
+					"not": {
+						"exist": "此电子邮件无效。请确认后重新输入。"
+					}
+				},
+				"not": {
+					"allow": "此电子邮件无效。请确认后重新输入。"
+				}
+			}
+		},
+		"authCodeSent": {
+			"title": "验证码已发送至您的邮箱",
+			"body": "有效时间为 60 分钟。如果您没有收到电子邮件，请查看您的垃圾邮件文件夹。"
+		},
+		"email": {
+			"already": {
+				"inuse": "该邮箱已被使用。请确认后重新输入。",
+				"requested": "1分钟后可以重新发送。"
+			},
+			"deleted-user": {
+				"rejoin": "此账户信息已被删除。您在一段时间内将无法使用相同的电子邮件注册，以防止数据处理和服务的不当使用。"
+			}
+		},
+		"profileEdit": {
+			"usernameChanged": "用户名已成功变更。",
+			"profileImageChanged": "头像图片已成功变更。",
+			"profileImageUploadFailed": "图片没有正常上传。 请确认以下内容。\n - 推荐图像分辨率：240*240\n - 只能上传10MB以下的图片\n - 可以上传JPG、PNG文件\n - 无法上传GIF文件",
+			"passwordSheet": {
+				"success": "您的密码已成功更改。"
+			},
+			"deleteAccount": {
+				"confirm": "确定要删除账号吗？"
+			}
+		},
+		"error": {
+			"page": "对不起，找不到此页面。",
+			"common": "对不起，您的页面发生错误。"
+		},
+		"terms": {
+			"omni": {
+				"agreeSuccess": "Mnet Plus CJ Omni综合促销同意处理完毕。",
+				"disagreeSucess": "Mnet Plus CJ Omni综合促销活动使用同意被取消。"
+			}
+		},
+		"poll": {
+			"max": {
+				"limit": "您最多可以选择 ${max}。"
+			}
+		},
+		"invalidAccess": "无效的访问。",
+		"invalidApp": "Shut down the App due to abnormal execution.",
+		"write": {
+			"image": {
+				"single": "只能上传一张图片。"
+			},
+			"exitWarning": "您所撰写的内容将全部消失。您是否要继续？"
+		},
+		"captcha": {
+			"invalid": "无效的CAPTCHA。"
+		},
+		"photoAccess": "请进入“设置”画面开启照片的使用权限。",
+		"forceUpdate": "最新版本已更新。请移动至APP下载页面。",
+		"system": {
+			"bad": {
+				"request": "错误的请求。"
+			},
+			"lowBattery": "请解除低功耗模式并参与进来。"
+		},
+		"update": {
+			"lastest": {
+				"version": "当前版本不支持此功能。请更新到最新版本的应用程序。"
+			}
+		},
+		"deletedOriginalComment": "找不到原始注释。",
+		"unavailable": {
+			"community": {
+				"service": "This is a read-only community."
+			},
+			"support": "You cannot support this applicant."
+		},
+		"user": {
+			"blocked": {
+				"feed": {
+					"service": "此帐户被限制使用该服务, 联系客服。"
+				}
+			}
+		},
+		"block": {
+			"success": "已屏蔽。"
+		},
+		"headerFix": {
+			"autoRelease": "After checking the TOP POST (fixed), the prevvious fixed post will be automatically released at registration."
+		},
+		"artist": {
+			"write": {
+				"title": "您确定要完成吗？",
+				"body": "该帖子将立即发布给粉丝"
+			}
+		},
+		"title": {
+			"freeChargeSuccess": "已发放粉丝积分！请查看粉丝积分明细。",
+			"freeChargeExhausted": "您已用完今天视频可观看次数。",
+			"freeChargeCooldown": "3个小时后可以再次参与免费充值。",
+			"adExhausted": "准备好的视频广告都用完了。 24小时后请再次参与吧！",
+			"additionalVote": "您已投票\n您确定要用粉丝积分进行额外投票吗？",
+			"lackPointBalance": "您拥有的粉丝积分不足",
+			"additionalVoteExhausted": "额外投票次数已用完，您无法继续投票"
+		},
+		"body": {
+			"freeChargeSuccess": "* 如停止收看将不予发放奖励积分,奖励积分的发放根据情况有时会延迟。",
+			"freeChargeExhausted": "* 视频每天最多可观看3次，视频可观看次数每天午夜12点初始化。",
+			"freeChargeCooldown": "* 午夜12点后可以立即再次参与。"
+		},
+		"comp": {
+			"point": {
+				"remaining": "距离初始化所剩时间 :",
+				"recentTime": "我最近收看的时间 :"
+			},
+			"vote": {
+				"additionalVote": "* 剩余额外投票次数 :"
+			},
+			"pointGuide": "请参考粉丝积分充值方法"
+		},
+		"cannotTranslate": "那是无法翻译的语言。",
+		" not support language": "那是无法翻译的语言。",
+		" no text": "那是无法翻译的语言。",
+		"content": {
+			"forbidden": {
+				"nick": "限制使用的昵称。"
+			}
+		},
+		"order": {
+			"exclusiveProductAlreadyPurchased": "You have already purchased the product.",
+			"soldOut": "All tickets have been sold out."
+		},
+		"excessivePasswordError": "密码错误次数已超出。\n请重新设置密码。",
+		"invalidEmailByPolicy": "根据运营政策限制，您的电子邮件地址无法注册。",
+		"restrictedEmail": "您的电子邮件地址因运营政策限制，无法注册。",
+		"socialLogin": {
+			"errorOccurred": "发生暂时性问题。 请使用 Mnet Plus 邮箱账号。"
+		},
+		"socialConnect": {
+			"emailNotExist": "您使用的电子邮件未在 Mnet Plus 注册。请进行快捷注册。"
+		},
+		"sns": {
+			"oauth": {
+				"link": {
+					"hasOtherLinkedSns": "已连接的账号。请输入其他账号或进行快捷注册。",
+					"alreadyConnected": {
+						"easySignUpNotAllow": "已经与其他SNS频道连接的账号。\n请使用连接的SNS频道或Mnetplus邮箱登录。"
+					}
+				},
+				"noEmailUseAnother": "由于此邮箱地址无注册信息，您无法便捷注册 Mnet Plus。\n请使用包含邮箱地址的其他社交渠道，或通过注册 Mnet Plus 完成此操作。",
+				"emailNotProvided": "为了简便加入Mnet Plus，需要\"电子邮件信息\"。 允许提供后，请使用"
+			}
+		},
+		"socialConnected": "已连接到 Mnet Plus 账号。",
+		"socialDisconnect": {
+			"title": "您确定要断开连接吗？",
+			"body": "解除连接后，仅删除社交媒体快捷登录方式，不会删除（注销）Mnet Plus 账号信息。"
+		},
+		"socialDisconnected": "已与Mnet Plus账号断开连接。",
+		"loginWithMnetPlus": "请使用 Mnet Plus 账号登录。",
+		"noFaceId": "无登记的面部信息。 请在手机上设置后再使用。",
+		"accessBiometrics": "使用手机上登记的信息（脸部/指纹）连接登录。",
+		"disconnectFaceId": "您确定要解除面部识别登录吗？",
+		"noTouchId": "无登记的指纹信息。 请在手机上设置后再使用。",
+		"disconnectTouchId": "您确定要解除指纹识别登录吗？",
+		"voteAbuse": "检测到异常投票尝试。若重复尝试，可能会限制您的使用权限。",
+		"mama": {
+			"superfan": {
+				"applicant": {
+					"alreadyExistingUser": "您已经完成申请。\n请积极参与超级粉丝画廊的活动。"
+				}
+			}
+		},
+		"stf": {
+			"vote": {
+				"voteSuccess": "Vote Ticketing Complete"
+			}
+		},
+		"iland": {
+			"metaballInsufficient": "Your current Metaball balance is insufficient.",
+			"cannotSupport": "You can support every day from 0:00 to 23:50 (KST)."
+		}
+	},
+	"mcountdown": {
+		"onAirDate": "发送日期"
+	},
+	"promotion": {
+		"event": {
+			"begin": "活动已经开始。"
+		}
+	},
+	"post": {
+		"report": "举报",
+		"edit": "修改",
+		"delete": "删除",
+		"like": "顶",
+		"share": "分享",
+		"empty": {
+			"common": "还没有帖子。",
+			"users": "没有发布过的帖子。"
+		}
+	},
+	"comment": {
+		"filter": {
+			"popular": "受欢迎的",
+			"recent": "最近的"
+		},
+		"writeButton": "写评论",
+		"edit": {
+			"title": "修改留言"
+		},
+		"write": {
+			"placeholder": "要写评论吗？",
+			"addImageButton": "添加照片"
+		},
+		"title": "评论",
+		"readMore": "查看更多",
+		"editButton": "修改",
+		"deleteButton": "删除",
+		"status": {
+			"hidden": "此评论因发现不当言论而被隐藏。"
+		},
+		"delete": {
+			"user": "此评论已被作者删除。"
+		},
+		"empty": {
+			"users": "没有发布过的评论。",
+			"common": "还没有评论。"
+		}
+	},
+	"reply": {
+		"write": {
+			"title": "回复",
+			"placeholder": "精彩的评论和回复！"
+		},
+		"writeButton": "Reply to",
+		"edit": {
+			"title": "修改回复"
+		},
+		"seeOriginalContent": "查看原文"
+	},
+	"imageViewer": {
+		"title": "图片"
+	},
+	"vote": {
+		"information": {
+			"tab": "介绍",
+			"title": "投票信息",
+			"createDate": "创建日期",
+			"period": "投票时间",
+			"optionChoiceNumber": "共选择%{optionChoiceNumber}个",
+			"optionChoiceNumberFlex": "共选择%{optionChoiceNumber}个或更少",
+			"dailyLimit": "1天可进行%{limitCount}次投票",
+			"periodLimit": "规定时间内可进行%{limitCount}次投票",
+			"policyDaily": "每日可以投票一次",
+			"policyOnce": "一共可以投票一次",
+			"liveVote": "直播时进行现场投票"
+		},
+		"vote": {
+			"tab": "投票",
+			"title": "VOTE NOW",
+			"voted": "投票已完成。"
+		},
+		"result": {
+			"tab": "结果",
+			"title": "结果",
+			"totalVotes": "总投票数",
+			"totalVoteCount": "%{totalVotes}票",
+			"releaseDate": "投票结果将于%{year}年%{month}月%{day}日%{hour}:%{minute}公布。",
+			"hidden": {
+				"descriptionTitle": "投票结果不会立即公开。",
+				"descriptionSubtitle": "详情参考“介绍栏”"
+			}
+		},
+		"voteButton": {
+			"vote": "进行投票",
+			"seeResult": "查看投票结果",
+			"closed": "该投票已结束"
+		},
+		"confirmSheet": {
+			"voteButton": "进行投票"
+		},
+		"invalidApp": "因为发现了异常行为,所以不能参加投票。",
+		"installedCloneApp": "Please delete the following app to vote."
+	},
+	"desc": {
+		"content": {
+			"vote": {
+				"mayDisplayAds": "Video advertisements may be displayed when you vote. You must complete watching the video to finalize your submission."
+			},
+			"badge": {
+				"onAir": "播放中",
+				"voting": "投票中",
+				"upcoming": "即将播放",
+				"replay": "重播"
+			}
+		},
+		"voteHistory": "投票详情",
+		"voteComplete": {
+			"dailyCount": "每日可以进行 %{count} 次投票，剩余可投票次数为 %{currentCount} 次。",
+			"periodCount": "在投票期间您可以进行 %{limitCount} 次投票，剩余可投票次数为 %{currentCount} 次。"
+		},
+		"language": {
+			"en": "English",
+			"ko": "Korean",
+			"ja": "Japanese"
+		},
+		"common": {
+			"rememberMe": "自动登录",
+			"selectSubtitles": "Select Subtitles"
+		},
+		"terms": {
+			"thirdPartyAgree": "[必选] 个人信息提供给第三方的同意书",
+			"update": {
+				"privacy": {
+					"dearCustomer": "Dear, customer.\nThank you so much for using Mnet Plus service.\nWe inform you that the Mnet Plus Privacy Policy will be revised as follows.",
+					"effectDate": "The revised Privacy Policy will take effect on %{effectiveDate}",
+					"warn": "※ This revision of the personal information processing policy is essential, and members of Mnet Plus, the data subject, can express their refusal, but if you refuse, the service will not be available.\n\n- Out of membership: ${link}",
+					"safelyUtilizes": "※ Mnet Plus safely utilizes your personal information and protects it in accordance with relevant laws and regulations.",
+					"agree": "Yes, I agree.",
+					"disagree": "No, I don't agree.",
+					"additionalItems": "Please enter ${additionalItems} to collect.",
+					"cannotBeModified": "After entering it, the submitted information cannot be modified, so please fill it out carefully."
+				}
+			}
+		},
+		"signup": {
+			"terms": {
+				"mnet": {
+					"service": "${[必选]} 同意服务使用条款",
+					"privacy": "${[必选]} 同意收集和使用个人信息",
+					"marketing": "[可选] 同意收集和使用个人信息提供与服务相关的广告信息"
+				},
+				"omni": {
+					"all": "[可选] 同意使用 CJ Omni 服务",
+					"cj": "[Optional] Consent to provide personal information to CJ CheilJedang Co., Ltd.",
+					"logistics": "[Optional] Consent to provide personal information to CJ Logistics",
+					"oliveYoung": "[Optional] Consent to provide personal information to CJ OLIVE YOUNG Co., Ltd.",
+					"oliveNetworks": "[Optional] Consent to provide personal information to CJ OliveNetworks Co., Ltd.",
+					"cgv": "[Optional] Consent to provide personal information to CJ CGV Co., Ltd.",
+					"foodvil": "[Optional] Consent to provide personal information to CJ Foodville Co., Ltd.",
+					"tving": "[Optional] Consent to provide personal information to Tving Co., Ltd."
+				}
+			}
+		},
+		"setting": {
+			"terms": {
+				"omni": {
+					"title": "同意使用CJ Omni服务",
+					"subtitle": "所有同意都是选择事项, 可以个别选择同意 即使拒绝同意,也可以使用该Omni服务以外的服务。"
+				}
+			}
+		},
+		"preference": {
+			"duplicate": "You may select as many as possible."
+		},
+		"denyNightPush": "夜间推送通知\n(22:00 ~ 08:00)",
+		"pushDeny": "拒绝推送",
+		"fixed": "已锁定",
+		"closeForDay": "歇业一天",
+		"point": {
+			"empty": "无粉丝积分明细",
+			"emptyGuide": "请通过活动积攒积分！",
+			"freeCharge": "免费充值",
+			"retained": "现有粉丝积分",
+			"expireIn": "本月将失效的粉丝积分",
+			"currentSix": "只显示最近6个月的明细"
+		},
+		"vote": {
+			"agreePrivacy": "[必选] 同意收集和使用个人信息"
+		},
+		"exitBanner": {
+			"timer": "You can close the app after %{remainTime} seconds.",
+			"backButton": "Press the Back button to exit the app."
+		},
+		"pluschat": {
+			"letsPlay": "Let’s Play!",
+			"withArtist": "with %{artistName} and chat!"
+		},
+		"all": "全部",
+		"profile": "个人资料",
+		"announcement": "公告",
+		"helpCenter": "客户服务中心",
+		"artistCommunity": "艺术家社区",
+		"mnetPrograms": "Mnet节目",
+		"concert": "音乐会",
+		"mnetPlusOriginal": "Mnet Plus 原创",
+		"mnetDigitalStudio": "Mnet 数字工作室",
+		"etc": "其他",
+		"languageSetting": "语言设置",
+		"ad": {
+			"inquiry": {
+				"title": "广告咨询",
+				"body": "尝试在Mnet Plus上展示广告!"
+			}
+		},
+		"plusChat": "Plus Chat",
+		"plusLive": "Plus LIVE",
+		"plusShop": "Plus Shop",
+		"plusMagazine": "Plus Magazine",
+		"plusCON": "Plus CON",
+		"adid": {
+			"askNotTrack": "要求应用程序不要跟踪",
+			"allowToUpgrade": "$[允许升级]Mnet Plus$[的个性化服务]。",
+			"ifYouAllow": "如果您\"允许\"许可,",
+			"baseOnYourPreference": "根据您的喜好\n帮助$[您推荐和开发定制内容]",
+			"exposureUninterest": "接触不适当或$[不感兴趣的广告是有限的]。",
+			"willAskPermission": "用户行为数据权限请求在下一个屏幕上继续。",
+			"canChangeAfter": "可以在设置 > 隐私和安全 > 跟踪中随时更改。"
+		},
+		"permission": {
+			"title": "App Access Rights for Mnet Plus",
+			"madatoryPermission": "Required Access Permission",
+			"deviceLog": "Device and App Log",
+			"appUsability": "For improving app usability and checking errors",
+			"deviceId": "Device ID",
+			"adTracking": "For identifying devices and tracking advertisement",
+			"optionalPermission": "Optional Access Permission",
+			"youCanUseService": "You can use the app even if you do not agree to the optional permissions.",
+			"takePhoto": "For taking photos when posting",
+			"media": "Photos/Media/Files",
+			"mediaStorage": "For attaching stored files when posting",
+			"registerPush": "For sending push notifications",
+			"howToRevoke": "How to Manage Optional Permissions:",
+			"revokeGuide": "Setting > Personal (Credit) Information Protection > App Permissions > Revoke Permissions (OS must be upgraded to 6.0 or above)"
+		},
+		"camera": "Camera",
+		"notifications": "Notifications",
+		"recommendCommunity": "recommended",
+		"recommendProgram": "recommended",
+		"account": {
+			"changePasswordForSafe": "请更改您的密码，以确保您的个人信息安全。",
+			"changePassword": "更改密码"
+		},
+		"section": {
+			"title": {
+				"allProgram": "全节目"
+			}
+		},
+		"voteCert": {
+			"voteCert": "VOTING CERTIFICATE",
+			"guarantee": "This Certificate validates that your vote has been successfully cast.",
+			"shareWithHashtag": "Share your Certificate with these hashtags!"
+		},
+		"userName": "User Name",
+		"voteDate": "Poll Completed",
+		"order": {
+			"history": "Order History"
+		},
+		"membership": {
+			"contents": "Membership Content",
+			"buy": "Unlock special benefits by purchasing KCON EXPRESS now!",
+			"expired": "The service period has expired.",
+			"only": "仅限已购买 KCON EXPRESS 的客户观看。"
+		},
+		"empty": {
+			"order": "No order history",
+			"notice": "No announcements available",
+			"vod": "Coming Soon"
+		},
+		"reservation": {
+			"code": "Presale Code"
+		},
+		"offlineVote": {
+			"alreadyVoted": "该设备上的投票已经完成。",
+			"noRight": "只有通过QR码认证的用户才能投票。"
+		},
+		"activateAccount": {
+			"hasBeenInactivate": "Your account has been placed in inactive status due to prolonged lack of activity.",
+			"resumeByClick": "You can resume using the service by clicking the [Reactivate] button and completing email verfication.",
+			"enterEmail": "Enter the email you used to sign up",
+			"sendCode": "Click Send Email Verfication Code button",
+			"enterCode": "Enter the 6-digit code you received in the email for verfication",
+			"accountInformation": "Account Information(ID)"
+		},
+		"inactivatedAccount": "Inactive Account: [%{account}]",
+		"dormantedDate": "Inactive Conversion Date: [%{date}]",
+		"progressDate": "Date of processing: %{date}",
+		"loginOrSignup": "登录/注册",
+		"loginOrSignupWithMnetPlus": "请用Mnet Plus账号登录或注册。",
+		"setPassword": "请设置登录密码。",
+		"enterBirthYear": "请输入出生年份",
+		"least14years": "仅支持14岁以上用户注册。",
+		"enterGender": "请选择性别",
+		"gender": {
+			"female": "女",
+			"male": "男",
+			"nonBinary": "非二元性别",
+			"etc": "其他"
+		},
+		"pleaseAgreeTerms": "请同意以下条款",
+		"pleaseAgreeTermsToMnetPlus": "为使用 Mnet Plus 服务，请同意以下条款：",
+		"verifyEmail": "请验证您的电子邮箱。",
+		"verifyEmailSended": "我们已经向您提供的电子邮箱地址发送了一封验证邮件。\n请通过电子邮件中的链接完成注册。",
+		"verifyEmailCanBeSpam": "未收到认证邮件时，请尝试重新发送认证邮件或确认(广告）垃圾邮件箱。",
+		"turnOnSoftbankEmail": "如果您使用的是SoftBank邮箱，请确保在设置中“允许接收”邮件。",
+		"signupSuccessed": "完成注册",
+		"canAccess3rdPartyWithMnetPlus": "使用 Mnet Plus 账号，您可以访问 Plus Chat、PlusCon 及其他相关服务。",
+		"emailAddress": "邮箱地址",
+		"verificationCode": "验证码",
+		"pleaseResetPassword": "请重新设置密码",
+		"connectSocialAccount": "连接账户",
+		"connectSocialExistMnetPlus": "您使用了相同的电子邮件注册了 Mnet Plus 账号，请连接您的社交媒体账号，以便更便捷地使用。（会员信息将同步）",
+		"socialAllowEasyLogin": "通过连接至 Mnet Plus 账号，您可以使用社交媒体账号轻松登录。",
+		"selectedAccount": "选择的账号",
+		"connectedSocial": "已链接的社交媒体账户",
+		"faceIdSignIn": "脸部识别登录",
+		"touchIdSignIn": "指纹识别登录",
+		"remainSeats": "Remaining Seats",
+		"iland": {
+			"unpredictable": "${Unpredictable diversity of 'N'}\n${Endless possiblities of 'α'}\nWhere you surpass your limits, break through fear, and discover your true self\n${[I-LAND2 : N/α]}",
+			"revolutionaryCollaboration": "2024, the world's eagerly anticipated next iconic girl group emerges through the revolutionary collaboration.\n\n${Two worlds coexist within I-LAND}\n${'I-LAND'}, a dream space where everything is provided under best conditions,\n${'GROUND'}, a proving ground for trainees striving to enter I-LAND.\nDebut opportunities are exclusively awarded to 'I-LAND' survivors.\n\nI-LAND, the uncharted place\nnow unfolds\na new adventure to find I(N/a)!\n\n${FIND YOUR I}",
+			"groundbreakingBirth": "The birth of a groundbreaking girlgroup,\nproduced by the world-class producer Teddy,\nknown for ${BIGBANG, 2NE1, BLACKPINK}\n\n${Part.2} where the official debut competition begins\nA fierce survival competition between 12 I-LANDERs risking their fate!\n\nWho will achieve ${their dream debut}\nby surviving until the end!\n\nThe final countdown to debut has begun.\n${[I-LAND2 : FINAL COUNTDOWN]}",
+			"iland": "I-LAND 2",
+			"cast": "Cast",
+			"nasuriAndImate": "NaSURI & I-MATE",
+			"nasuri": "NaSURI",
+			"cuteBabyFox": "A cute baby fox born in Metaball",
+			"aboutNasuri": "Metaball is an object with infinite possibilities, capable of become anything.\nInside it contains a variety of unpredictable energies.\n\nThen one day,\nfrom the vast energy of Metaball, an incomplete baby fox named NaSURI is born.\nNaSURI makes a special contract with an unknown entity to become a complete fox.\n\n${\"Help girls who join I-LAND to find 'me'}\n${and become a groundbreaking girl group.\"}\n\nWith about 100 days left, \nNASURI helps girls with various potential to grow...\nWill it succeed in gathering the energy of Metaball and become a full-fledged fox?",
+			"iMate": "I-MATE",
+			"compoundWord": "A compound word combining 'I' from IDOL and 'MATE' meaning friends",
+			"findFavoriteIdol": "It refers to global fans who will find their favorite idol(I) \nand become friends(MATE) with them, sharing the destiny.",
+			"storyteller": "Storyteller",
+			"guideIland": "Guide of I-LAND",
+			"songkang": "Song Kang",
+			"sunghanbin": "SUNG HAN BIN",
+			"aboutSongkang": "The central figure leading the world of I-LAND,\nconveying stories unfolding within I-LAND and connecting the global fans to the applicants.",
+			"producer": "Producer",
+			"executiveProducer": "Executive Producer",
+			"teddy": "TEDDY",
+			"aboutTeddy": "Billboard's 'The Most Outstanding Producer of the 21st Century,'\nutilizing expertise from creating world-class idols BIGBANG, 2NE1, and BLACKPINK,\nwill manage the production of I-LAND applicants to develop them into global stars.",
+			"mainProducer": "Main Producer",
+			"teayang": "TAEYANG",
+			"aboutTeayang": "The main vocal and main dancer of 'BIGBANG'!\nHe assists the applicants by offering technical advices as a legendary all-around artist with global stage experience,\nand providing practical advices based on his long-term experience.",
+			"musicProducer": "Music Producer",
+			"twentyFour": "24",
+			"about24": "As the exclusive producer of THE BLACK LABEL, renowned for its work with BIGBANG, BLACKPINK, and JEON SOMI,\nhe understands the musical abilities of I-LAND 2 applicants better than anyone else.",
+			"profile": "[Profile]",
+			"profile24": "Composed 'Ddu-Du Ddu-Du,' 'Kill This Love,' 'How You Like That,' 'Lovesick Girls,' 'Pink Venom,' Shut Down' by BLACKPINK \n'SOLO' by JENNIE \n'DUMB DUMB,' 'XOXO' by JEON SOMI \n'LAST DANCE,' 'Still Life' by BIGBANG and more.",
+			"vvn": "VVN",
+			"aboutVVN": "THE BLACK LABEL's elite producer from UC Berkeley\nShe will produce for I-LAND 2 applicants, not only in music but also in various other aspects.",
+			"profileVVN": "Composed 'Flower', 'All Eyes On Me' by JISOO \n'Ready For Love', 'Yeah Yeah Yeah' by BLACKPINK\n'Still Life' by BIGBANG \n'Nightfall' by TAEYANG \n'Fxxked Up' by JEON SOMI and more.",
+			"director": "Director",
+			"performanceDirector": "Performance Director",
+			"monika": "MONIKA",
+			"aboutMonika": "The Performance legend! An overwhelmingly charismatic choreographer,\ndevelops applicants' self-producing abilities with a calm, objective gaze.",
+			"profileMonika": "<Street Dance Girls Fighter> Master, <Street Woman Fighter 2> Fight Jersey\nAwarded  Minister of Culture, Sports, and Tourism Commendation at the 14th Korean Popular Culture and Arts Awards in 2023\nCurrently a member of 'Proudman' and 'MOLIP' crews",
+			"leejung": "Leejung Lee",
+			"aboutLeejung": "Choreographer of global K-POP hits,\ncompletes the star quality of the applicants with her ability to read global trends.",
+			"profileLeejung": "Choreographed for 'The GIRLS' by BLACKPINK\n'You&Me' by JENNIE\n'LALISA', 'MONEY' by LISA\n'XOXO', 'Dumb Dumb' by JEON SOMI\n'Alcohol-Free', by TWICE\n'WANNABE' by ITZY",
+			"yearsOld": "%{years} years old",
+			"dateOfBirth": "Date of Birth",
+			"nationality": "Nationality",
+			"preparePeriod": "준비기간",
+			"mbti": "MBTI",
+			"hashtags": "Hashtags",
+			"applicants": "Applicants",
+			"image": "Image",
+			"videos": "Videos",
+			"iland2": "I-LAND 2",
+			"all": "All",
+			"episodeClips": "Episode Clips",
+			"stagePerformances": "Stage Performances",
+			"highlight": "Highlights",
+			"behinds": "Behinds",
+			"teaser": "Trailer/Preview",
+			"trailer": "Trailer",
+			"preview": "Preview",
+			"others": "Others",
+			"byCategory": "Category",
+			"byEpisode": "Episodes",
+			"ep": "Ep.%{episode}",
+			"viewVoteCertificate": "View your Certificate",
+			"viewApplicants": "View applicants",
+			"program": {
+				"title": "I-LAND 2 : N/a"
+			},
+			"modal": {
+				"intro": {
+					"hello": "Hello, I-MATE!",
+					"welcom": "Welcome! NaSURI's friend, I-MATE!\nWelcome to the world of I-LAND💜\n\nJoin NaSURI\nand go on an adventure to find your fave 'I'!\nIt's going to be so much fun, so get excited✨",
+					"nasuri": "ME? NaSURI!",
+					"nasuriCheer": "NaSURI will cheer for your fave 'I' with you!\nYou'll be happy today, tomorrow, and beyond!\n\nIf you're ready to join NaSURI,\nplease press enter💜"
+				}
+			},
+			"onAirTime": "Thu Evening 09:30 (KST)",
+			"mission": "MISSION",
+			"nasuriRoom": "NaSURI's Room",
+			"metaballToSupport": "Please collect Metaballs!",
+			"goCollectMetaball": "Go collect Metaballs",
+			"media": "MEDIA",
+			"producerRoom": "Producer's Room",
+			"findYourI": "FIND YOUR I",
+			"aboutProgram": "About Program",
+			"increaseNasuriHappy": "${Please use Metaballs} to increase NaSURI's happiness",
+			"below50": "Below top 50%",
+			"above50": "Above top 50%",
+			"percent30": "30%",
+			"percent10": "10%",
+			"percent5": "5%",
+			"currentMetaballStatus": "Current Metaball Status",
+			"usedMetaball": "Used Metaballs",
+			"top50": "Top 50%",
+			"topRank": "Top %{rank}%",
+			"bottom50": "Bottom 50%",
+			"loginRequired": "Login required",
+			"nasuriDiary": "NaSURI's Diary",
+			"collectMetaball": "Collect Metaballs",
+			"attendCheck": "Attendance Check",
+			"ads": "Ads",
+			"viewResult": "View Results",
+			"metaball": "%{metaballCount} Metaball",
+			"completeAttend": "Attendance Check Complete!\nEarned ${10 Metaballs}",
+			"searchAds": "Searching for Ads",
+			"completeAds": "Ads Viewed!\n${Earned 5} Metaballs",
+			"accumulatedMetaball": "Accumulated Metaballs",
+			"history": "History",
+			"noMetaballEarned": "No Metaballs earned yet",
+			"collectMetaballMission": "Collect Metaballs through missions!",
+			"noMetaballUsed": "No Metaballs used yet",
+			"whatIsMetaball": "What is Metaball?",
+			"metaballIs": "'Metaball' serves as a key channel, connecting the uncharted space I-LAND with our world, while also representing an energy collection with infinite possibilities\n\nI-MATE can collect hidden Metaballs within Mnet Plus to support applicants during their time in I-LAND.",
+			"howMetaballUsed": "How can Metaballs be used?",
+			"cheerByMetaball": "I-MATE can support the applicants they cheer for by using their Metaballs!",
+			"asManyMetaball": "You can support the applicant with as many Metaballs as you have, without any limits.",
+			"howMetaballCollect": "How to collect Metaballs?",
+			"earnMetaball": "Earn %{metaballCount} Metaballs",
+			"earn20MetaballWithEvent": "Earn up to 20 Metaballs by participating two events",
+			"noCooltime": "You can view ads up to 25 times per day.",
+			"canAdsRestrict": "You must complete watching the ad to earn Metaballs.",
+			"emptyVideoInFilter": "No videos in this filter yet.",
+			"eliminated": "Eliminated",
+			"currentLocation": "Current Location",
+			"supportStatus": "Support Status",
+			"ranking": "Ranking",
+			"locationForRound": "Location for Each Round",
+			"rankingTrand": "Ranking Trend",
+			"supportToI": "Give ${special support}\n${to your 'I'}!",
+			"myMetaball": "My Metaballs",
+			"achieved": "Achieved",
+			"supportCompleted": "Support Completed",
+			"enterMetaballCount": "Enter the number of Metaballs\nto support %{applicantName}.",
+			"currentMetaball": "Current Metaballs",
+			"supportMetaball": "Supporting %{applicantName} with %{metaballCount} Metaballs.",
+			"enterName": "Enter Name",
+			"metaballInsufficient": "Your current Metaball balance is insufficient.",
+			"achiveStatus": "Status",
+			"support1": "1st Support",
+			"support2": "2nd Support",
+			"period": "Support period",
+			"maxPeopleCount": "Max %{peopleCount} applicants",
+			"support3": "3rd Support",
+			"rank": {
+				"st": "%{rank}st",
+				"nd": "%{rank}nd",
+				"rd": "%{rank}rd",
+				"th": "%{rank}th"
+			},
+			"forDays": "For %{period} days",
+			"note": "NOTE",
+			"supportWarn1": "Each support will be awarded upon reaching 100% achievement. If the maximum number of recipients is exceeded, it will be awarded on a first-come, first-served basis, determined by the time of reaching the achievement point.",
+			"supportWarn2": "The number of Metaballs required to achieve support varies for each round, and the Metaballs received by the applicants are not carried over or accumulated for the next round.",
+			"supportWarn3": "The support progress for each applicant is updated once a day, and any additional Metaballs collected beyond the required amount for achievement won't be saved for future rounds.",
+			"supportWarn4": "There is a limit to the support achievement rate for each applicant, which may vary depending on the criteria for each round.",
+			"supportWarn5": "Applicants eliminated in the show will not receive support even if they met the support criteria.",
+			"supportWarn6": "If you participate in the support violating the policy or through improper means, this may result in the Metaballs used being confiscated or revoked.",
+			"supportWarn7": "Support details for each round may be subject to change due to internal circumstances.",
+			"supportedApplicants": "Supported Applicants",
+			"supportEnded": "The %{supportNumber} has ended.",
+			"ing": "In Progress",
+			"failure": "Failed",
+			"ready": "Coming Soon",
+			"adLoading": "Loading Ad",
+			"notSupported": "This feature is not supported in the current version. Please update to the latest version.",
+			"completed": "Completed",
+			"metaballEarned": "Metaball Earned!",
+			"supportApplyAt": "The supported Metaballs\nwill be reflected daily at 12:00 A.M. (KST)."
+		},
+		"recommendedVideo": "Recommended"
+	},
+	"button": {
+		"voteHistory": "确认投票详情",
+		"nightPushSetting": "夜间推送设置",
+		"headerFix": "TOP POST",
+		"termsUpdate": {
+			"checkUpdate": "Review changed terms and conditions"
+		},
+		"pluschat": {
+			"move": "Move"
+		},
+		"ad": {
+			"inquiry": "广告咨询"
+		},
+		"allow": "允许",
+		"checkPermissionRequest": "检查权限请求",
+		"saveImage": "Save Image",
+		"share": "Share",
+		"common": {
+			"off": "Off"
+		},
+		"startWithEmail": "使用邮箱登录",
+		"reset": "重置",
+		"confirmPassword": "确认秘密",
+		"signup": "注册",
+		"resendEmail": "重新发送认证邮件",
+		"backToLogin": "返回登录",
+		"backToHome": "转到首页",
+		"connectSocialToMnetPlus": "与 Mnet Plus 账号连接",
+		"socialSignUp": "快捷注册",
+		"socialConnect": "连接",
+		"socialDisconnect": "解除",
+		"viewVoteCertificate": "View your Certificate",
+		"iland": {
+			"oldest": "Oldest",
+			"applicants": "Applicants",
+			"vote": "Vote",
+			"mission": "Mission",
+			"media": "Media",
+			"talk": "Talk",
+			"prev": "Previous",
+			"next": "Next",
+			"join": "Join",
+			"receive": "Receive",
+			"participate": "Participate",
+			"view": "View",
+			"guide": "Guide",
+			"all": "All",
+			"earned": "Earned",
+			"used": "Used",
+			"viewAds": "View Ads",
+			"joinVote": "Vote",
+			"support": "Support",
+			"marketingEvent": "Events",
+			"doSupport": "Support",
+			"exclusive": "Exclusive",
+			"byApplicant": "By Applicant",
+			"collect": "Collect",
+			"cancel": "Cancel",
+			"confirm": "Confirm"
+		}
+	},
+	"liveChat": {
+		"title": "LIVE CHAT",
+		"placeholder": "发送信息",
+		"cooltime": "无法重复发送信息。",
+		"connecting": "正在连接直播聊天。"
+	},
+	"tooltip": {
+		"liveChat": "请通过LIVE CHAT应援艺术家！",
+		"recentLogin": "最近登录",
+		"socialLogin": {
+			"title": "社交媒体账号连接设置指南",
+			"easyLogin": "将SNS账号与 Mnet Plus 账号绑定，可以实现快捷登录。",
+			"cannotMultiple": "同一个 Mnet Plus 账号无法绑定多个SNS账号。"
+		}
+	},
+	"vtogether": {
+		"limit": {
+			"locale": "此视频在您所在区域被限制播放。"
+		}
+	},
+	"profile": {
+		"logouted": {
+			"greeting": "您好！",
+			"guide": "请用邮箱创建新账号或登录。"
+		},
+		"signupButton": "加入会员",
+		"signup": {
+			"title": "加入会员"
+		},
+		"announcementsButton": "公告通知",
+		"helpCenterButton": "客服中心",
+		"terms": "服务使用条款",
+		"privacy": "个人信息保护方针",
+		"license": "Open Source License",
+		"youth": "青少年保护政策"
+	},
+	"navigation": {
+		"title": {
+			"signup": "加入会员",
+			"profile": "档案",
+			"voteCert": "Voting Certificate"
+		}
+	},
+	"setting": {
+		"language": {
+			"title": "语言设置"
+		},
+		"notification": {
+			"title": "通知设置"
+		},
+		"serviceNotification": {
+			"title": "服务通知",
+			"serviceNotification": "服务通知设置",
+			"announcement": "服务公告和注意事项提示"
+		},
+		"communityNotification": {
+			"communityNotification": "社群通知设置",
+			"noJoinCommunity": "没有加入的社区。",
+			"goToCommunity": "社区浏览",
+			"myFeed": {
+				"title": "我的动态通知",
+				"postThread": "有人发表跟帖/回复时",
+				"like": "有人点赞时",
+				"artistLike": "收到艺术家的‘点赞’时"
+			},
+			"artistFeed": {
+				"title": "艺术家动态通知",
+				"writePost": "艺术家的新贴文创建",
+				"postThread": "艺术家的新跟帖/回复"
+			},
+			"contents": {
+				"title": "内容通知",
+				"vtogether": "新的V-together",
+				"liveEvent": "新的直播活动",
+				"officialPost": "新的官方内容",
+				"vote": "开启新一轮投票",
+				"plusLive": "开始收看 Plus LIVE节目"
+			},
+			"title": "社群通知",
+			"community": {
+				"announcement": "社群公告事项",
+				"pointBox": "粉丝积分通知"
+			}
+		},
+		"notificationMethodSetting": {
+			"title": "设置通知方式"
+		},
+		"app": {
+			"version": "版本信息"
+		},
+		"screenSetting": {
+			"sectionTitle": "屏幕设置",
+			"title": "社区屏幕"
+		}
+	},
+	"login": {
+		"email": {
+			"placeholder": "邮箱地址"
+		},
+		"password": {
+			"placeholder": "密码"
+		},
+		"signupGuide": "没有账号？",
+		"findPasswordGuide": "忘记密码了？",
+		"needLoginTitle": "请先登录。",
+		"selectAccount": "请选择登录账号。",
+		"error": {
+			"passwordNotMatch": "密码不匹配。(%{errorCount}/5)"
+		}
+	},
+	"signup": {
+		"email": {
+			"placeholder": "邮箱地址"
+		},
+		"password": {
+			"placeholder": "密码"
+		},
+		"terms": {
+			"service": "我同意Mnet Plus的服务条款和收集和利用个人信息，并允许热门内容和活动推送。",
+			"notification": "允许推送热门内容和活动（可选）",
+			"agreeAll": "全部同意。",
+			"required": {
+				"service": "[必选] 同意服务使用条款",
+				"privacy": "[必选] 同意收集和使用个人信息"
+			},
+			"age": "${[必选]}您必须年满14岁。"
+		},
+		"confirmPassword": {
+			"placeholder": "确认密码"
+		},
+		"code": {
+			"guide": "点击发送按钮，验证码将发送至邮箱。",
+			"verification": {
+				"label": "电子邮件验证"
+			},
+			"placeholder": "6位验证码",
+			"sendButton": "发送",
+			"resendButton": "重新发送",
+			"sent": "已向您的电子邮箱发送验证码。",
+			"sentGuide": "1分钟后方可修改电子邮件及再次传送认证码。",
+			"verifyButton": "验证",
+			"verifySuccess": "已完成验证。",
+			"verifyFail": "验证码不匹配。",
+			"codeSent": "验证码已发送至您的邮箱（有效时间为 60 分钟）。如果您没有收到电子邮件，请查看您的垃圾邮件文件夹。"
+		},
+		"loginButton": "登录",
+		"loginGuide": "已有账号？",
+		"complete": {
+			"title": "欢迎您加入Mnet Plus会员！",
+			"subtitle": "您可以使用Mnet Plus相关服务并参与各种活动。",
+			"toServiceMainButton": "进入主页"
+		},
+		"birthdate": {
+			"guide": "请输入出生年月日。",
+			"inputPlaceholder": "生年月日"
+		},
+		"gender": {
+			"guide": "Please enter your gender."
+		}
+	},
+	"findPassword": {
+		"email": {
+			"placeholder": "邮箱地址"
+		},
+		"title": "忘记密码了？",
+		"code": {
+			"placeholder": "6位验证码"
+		},
+		"subtitle": "1. 请输入您注册时使用的邮件地址。\n2. 请点击发送。\n3. 输入邮件收到的6位验证码后单击验证。"
+	},
+	"profileEdit": {
+		"information": {
+			"title": "账号信息",
+			"username": "用户名",
+			"changeButton": "变更",
+			"changeUsernamePlaceholder": "变更用户名"
+		},
+		"security": {
+			"title": "安全",
+			"changePassword": "更改密码",
+			"deleteAccount": "删除账号"
+		},
+		"notification": {
+			"title": "推送",
+			"description": "同意推送活动通知。"
+		},
+		"logoutButton": "退出",
+		"emailSheet": {
+			"description": "注册会员的邮箱地址不能删除或更改。",
+			"verified": "完成验证"
+		},
+		"passwordSheet": {
+			"title": "更改密码",
+			"currentPasswordPlaceholder": "当前密码",
+			"currentPasswordLabel": "请输入您的当前密码。",
+			"label": "请输入您的新密码。",
+			"passwordPlaceholder": "新密码",
+			"passwordConfirmPlaceholder": "确认密码",
+			"passwordMatchError": "密码不匹配。"
+		},
+		"deleteAccount": {
+			"deleteButton": "删除",
+			"warning": {
+				"title": "删除账号"
+			}
+		}
+	},
+	"error": {
+		"password": {
+			"8to20": "8~20字",
+			"characterConditions": "至少包含1个字母、1个数字和1个特殊字符"
+		},
+		"passwordSameWithPrevious": "您输入了先前的密码。为了安全起见，请设置一个新密码。"
+	},
+	"account": {
+		"delete": {
+			"title": "删除账号",
+			"phase2": {
+				"subtitle": "确定要删除账号吗？",
+				"body": "如果您删除账号：",
+				"bullet1": "将无法再使用此账号登录Mnet Plus。",
+				"bullet2": "即使删除账号,您之前所写的评论和帖子并不会被删除。",
+				"footnote": "确定要继续吗?",
+				"bullet3": "您无法使用此账户登录与Mnet Plus连接的服务。"
+			},
+			"phase1": {
+				"subtitle": "请在删除前确认",
+				"body": "此账户为联合账户，除Mnet Plus社群之外，还可使用Mnet Plus服务，CJ ENM提供的服务及与Mnet Plus合作的外部服务。\n \n 如果删除账户，包含账户信息和服务使用记录在内的所有信息都将被删除。\n \n 注销后，您将无法继续使用账户登录，因此，除Mnet Plus服务之外，其他所有连接使用的服务也将无法使用。",
+				"footnote": "删除的账户信息和服务使用记录将无法恢复，因此，请谨慎选择。"
+			},
+			"connectedService": {
+				"warning": "删除账户后，将无法继续使用下述服务且无法恢复数据。",
+				"confirmList": "我已确认所有无法继续使用的的服务列表。",
+				"confirmDelete": "无法恢复上述服务使用记录和个人信息数据。"
+			}
+		},
+		"dormant": {
+			"notify": {
+				"subtitle": "竭诚欢迎您的回归！",
+				"desc1": "由于您的账号长时间未被使用，已被转为休眠状态。",
+				"date": "休眠转换日：%{year}年%{month}月%{date}日",
+				"desc2": "点击[接触休眠]，并进行邮箱认证后即可再次使用本服务。",
+				"activate": "Reactivate",
+				"title": "Inactive Account Notice"
+			},
+			"activate": {
+				"title": "Reactivate Inactive Account",
+				"desc1": "1. 请点击发送。",
+				"desc2": "2. 输入邮件收到的6位验证码后单击验证。"
+			},
+			"activated": {
+				"common": "You've reactivated your account.",
+				"passwordReset": "已通过重新设定密码成功解除休眠状态。"
+			}
+		}
+	},
+	"deleteAccount": {
+		"password": {
+			"placeholder": "密码"
+		}
+	},
+	"sighup": {
+		"birthdate": {
+			"warning": {
+				"age": "非常抱歉。您的年龄不符合Mnet Plus的使用标准。"
+			}
+		}
+	},
+	"connectedService": {
+		"manage": "关联服务管理",
+		"title": "关联服务",
+		"empty": "尚未发现与之相连的服务。",
+		"connectedDate": "%{connectedAt}发生关联",
+		"disconnect": "解除关联",
+		"presentedLive": {
+			"guide": {
+				"deleteData": "解除与Mnet Plus的账户关联后，所有使用记录将被删除。"
+			},
+			"ask": {
+				"disconnect": "确定要解除该服务与账户的关联吗？"
+			},
+			"warn": {
+				"subscribe": "如果该服务的付费使用权仍有效，则需在删除信息前申请退款。\n注销后，将无法申请退款。"
+			}
+		},
+		"disconnectAndDelete": "解除关联并删除数据",
+		"ask": {
+			"delete": "确定要删除所有信息吗？",
+			"delete2": "确定要删除%{serviceName}的所有信息吗？"
+		},
+		"plustalk": {
+			"warn": {
+				"disconnect": "与Mnet Plus的账号连接被解除，Plus Chat的所有使用记录将被删除，相关服务无法登录。",
+				"subscribe": "解除账户连接前，请确认订阅中的商品。"
+			},
+			"guide": {
+				"reconnect": "（为了再次使用Plus Chat服务，登录Plus Chat后，同意使用/连接即可。）",
+				"subscribe": {
+					"unsubscribe": "与综合账户连接解除无关,可以通过各os应用程序商店解除订阅及退款。",
+					"subscribeRight": "解除综合账户连接时，现在使用的订阅券将无法使用。 （即使您使用同一账户登录，也不会保留以前的订阅数据。）",
+					"empty": "无正在订阅的商品"
+				}
+			}
+		}
+	},
+	"title": {
+		"signup": {
+			"terms": "Please ${highlight.terms.bold} below to use the ${highlight.mnet.tint} service."
+		},
+		"terms": {
+			"update": {
+				"privacy": {
+					"rivision": "Revision of the Mnet Plus Privacy Policy"
+				}
+			}
+		}
+	},
+	"highlight": {
+		"mnet": {
+			"tint": "Mnet Plus"
+		},
+		"terms": {
+			"bold": "accept the terms and conditions"
+		},
+		"privacy": "the personal information processing policy and use",
+		"additionalItems": "additional items"
+	},
+	"gender": {
+		"female": "Female",
+		"male": "Male",
+		"unknown": "Prefer not to answer",
+		"gender": "Gender"
+	},
+	"ask": {
+		"terms": {
+			"update": {
+				"privacy": {
+					"agree": "Do you agree to ${privacy} as above?"
+				}
+			}
+		},
+		"preference": {
+			"tellMe": "Please share your preferences."
+		},
+		"emailReceive": "没有收到验证邮件？",
+		"signUpWithSocial": "如果没有可连接的帐号，您是否要新注册一个帐号？"
+	},
+	"form": {
+		"terms": {
+			"update": {
+				"privacy": {
+					"birthdate": "1. Please enter the date of birth. (Required)",
+					"gender": "2. Please enter your gender. (Required)"
+				}
+			}
+		},
+		"error": {
+			"email": "Please re-enter your email address."
+		}
+	},
+	"preference": {
+		"preference1": "Types of K-pop artists1",
+		"preference2": "Types of K-pop artists2",
+		"genre": "Genre",
+		"mood": "Mood",
+		"content1": "Types of content1",
+		"content2": "Types of content2",
+		"content3": "Types of content3",
+		"keyword": "Preference"
+	},
+	"fanPoint": {
+		"pointBox": {
+			"balance": "您目前持有%{allPoint}积分",
+			"title": {
+				"join": "新会员积分已发放。",
+				"checkIn": "第%{checkInDays}天新会员积分已发放。",
+				"gratitude": "社群活动答谢积分已发放。",
+				"activity": "%{month}月%{day}日社群活动积分已发放。",
+				"default": "您的 Fan Point 已到账。"
+			},
+			"body": {
+				"join": "感谢您注册乐趣多多的%{communityName} 社群！我们将为您送上新会员答谢积分，让共享乐趣翻番。",
+				"checkIn": "共享的乐趣！为您送上第%{checkInDays}天新会员答谢积分！",
+				"gratitude": "社群因%{nickname}给予的关心和爱护得以发展壮大！今后也希望您与我们继续携手并进！",
+				"activity": "%{month}月%{day}日社群活动积分已发放完毕。",
+				"default": "您的 Fan Point已发放完毕。"
+			},
+			"point": "%{amount}积分"
+		}
+	},
+	"fanpoint": {
+		"pointbox": {
+			"marketing": {
+				"hashtag": {
+					"title": "恭喜！您参加的Fan Point井字标签活动中奖了哦！",
+					"body": "恭喜您参加的Fan Point活动中奖了哦！"
+				},
+				"event": {
+					"title": "恭喜！您参加的Fan Point活动中奖了哦！",
+					"body": "恭喜您参加的Fan Point活动中奖了哦！"
+				}
+			}
+		},
+		"ranking": {
+			"period": "* 以最近30天为基准显示。"
+		}
+	},
+	"chatPoll": {
+		"untilClose": "Chat Poll直到终止",
+		"submit": "您选择了%{count}个。您要提交吗？",
+		"completed": "您的提交已完成。",
+		"completed2": "感谢您的参与。",
+		"button": {
+			"submit": "提交"
+		}
+	},
+	"poll": {
+		"alreadyvoted": "已经提交了。"
+	},
+	"notifications": {
+		"join": {
+			"reward": {
+				"fanpoint": "第 %{days} 天新会员积分已发放。请确认积分盒！"
+			}
+		},
+		"point": {
+			"reward": {
+				"fanpoint": "积分盒中有礼物。请确认积分盒！"
+			},
+			"expr": {
+				"alarm": "您有有效期只剩7天的粉丝积分。"
+			},
+			"tx": {
+				"in": "粉丝积分已累积。",
+				"out": "使用了粉丝积分。"
+			}
+		},
+		"artist": {
+			"writePost": "%{artistName}写了贴文。",
+			"writeComment": "%{artistName}写了跟帖。",
+			"likePost": "%{artistName}点赞了我的贴文。",
+			"likeComment": "%{artistName}点赞了我的跟帖。",
+			"likeReply": "%{artistName}用户点赞了我的回复。"
+		},
+		"feedback": {
+			"post": "%{authorName}用户对我的帖子发布了评论。",
+			"comment": "%{authorName}用户回复了我的评论。"
+		},
+		"like": {
+			"post": {
+				"single": "%{authorName}点赞了我的贴文。",
+				"sum": "%{authorName}用户等%{count}名用户点赞了我的帖子。"
+			},
+			"comment": {
+				"sum": "%{authorName}用户等%{count}名用户点赞了我的评论。",
+				"single": "%{authorName}点赞了我的跟帖。"
+			},
+			"reply": {
+				"single": "%{authorName}用户点赞了我的回复。",
+				"sum": "%{authorName}用户等%{count}名用户点赞了我的回复。"
+			}
+		},
+		"new": {
+			"vtogether": "开启V-together",
+			"liveevent": "开启现场活动",
+			"officialpost": "新官方内容",
+			"vote": "投票已经开始",
+			"event": "新活动"
+		},
+		"service": {
+			"announcement": "公告"
+		},
+		"community": {
+			"announcement": "社群通知"
+		}
+	},
+	"date": {
+		"today": "今天",
+		"yesterday": "昨天"
+	},
+	"notification": {
+		"empty": {
+			"common": "还没有提示。"
+		}
+	},
+	"notificaitons": {
+		"point": {
+			"expr": {
+				"alarm": "您有有效期只剩7天的粉丝积分。"
+			}
+		}
+	},
+	"urgentModal": {
+		"dontShow": "Don't show for today",
+		"close": "Close"
+	},
+	"footer": {
+		"contactUs": "广告查询",
+		"ceo": "代表理事 : Yoon Sang Hyun",
+		"address": "地址 : (03926) 首尔市麻浦区上岩山路66",
+		"buisnessRegistrationNumber": "營業執照號碼 : 106-81-51510",
+		"personalInformationManager": "个人信息保护负责人 : Kim Ji Won",
+		"representativeNumber": "代表号码 : 1644-2525",
+		"hostingServiceProvider": "托管服务提供商 : STAYGE Labs, Inc."
+	},
+	"artist": {
+		"profile": {
+			"likeImage": "点赞图像",
+			"background": "背景图像"
+		},
+		"feed": {
+			"post": "帖子",
+			"comment": "跟帖",
+			"like": "点赞"
+		},
+		"floating": {
+			"button": {
+				"title": "专为全球K-POP粉丝打造的独一无二的店"
+			}
+		}
+	},
+	"sheet": {
+		"screenSetting": {
+			"title": "配置社区屏幕",
+			"subtitle": "适用于所有社区。"
+		}
+	},
+	"screenSetting": {
+		"dark": "黑暗模式",
+		"light": "轻模式",
+		"system": "设备设置"
+	},
+	"msg:content": {
+		"forbidden": {
+			"word": "消息中包含禁止使用的词句 <%{forbiddenWords}>"
+		}
+	},
+	"userBlock": {
+		"buttonTitle": "屏蔽",
+		"chat": {
+			"user": {
+				"alert": "您确定要屏蔽%{userName}用户吗？如选择屏蔽，将不会在聊天室中显示来自该用户的所有信息。",
+				"result": "该用户已被屏蔽"
+			},
+			"content": {
+				"alert": "确定要举报此聊天内容和用户吗？",
+				"alreadyReported": "此聊天内容已被举报"
+			}
+		},
+		"user": {
+			"blocked": {
+				"comment": "我屏蔽的用户的评论",
+				"post": "我屏蔽的用户的帖子",
+				"user": "屏蔽该用户"
+			},
+			"invincibleUser": "不能屏蔽服务运营商和艺人",
+			"unblock": {
+				"buttonTitle": "解除屏蔽",
+				"alert": "如解除屏蔽，将在社区中显示该用户的所有帖子和评论。"
+			},
+			"alert": "您要屏蔽此用户吗？"
+		},
+		"admin": {
+			"block": {
+				"user": "Block User"
+			},
+			"guide": {
+				"block": {
+					"user": "When blocking a user, unblocking is only possible on the admin page.",
+					"success": "Blocking is completed.",
+					"blockedUser": "Account already blocked by your communiry."
+				}
+			}
+		}
+	},
+	"newTerms": {
+		"body": {
+			"footnote": "If you wish to delete your account, you can proceed by clicking this ${link}, and press the 'Delete Account' button.",
+			"content": "The amended Mnet Plus Privacy Policy is effective from %{effectiveDate}. The Mnet Plus service is available after agreeing to the collection and the use of the required personal information by clicking the \"Yes, I agree\" button."
+		},
+		"alert": {
+			"disagree": "If you do not wish to agree, the service will not be available and you will be automatically logged out."
+		},
+		"title": "Please agree to the new Privacy Policy !"
+	},
+	"marketing": {
+		"title": {
+			"privacy": "[可选] 同意收集和使用个人信息提供与服务相关的广告信息",
+			"section": "同意广告宣传",
+			"menu": "同意接受广告宣传资讯"
+		},
+		"body": {
+			"disconsented": "已拒绝接收Mnet Plus广告资讯。",
+			"consented": "已同意接收Mnet Plus广告资讯。"
+		}
+	},
+	"section": {
+		"title": {
+			"point": "积分",
+			"pocExclusive": "Exclusive Content"
+		}
+	},
+	"menu": {
+		"title": {
+			"pointManage": "积分记录",
+			"fanPoint": "粉丝积分",
+			"pointHistory": "粉丝积分明细",
+			"pointGuide": "粉丝积分介绍"
+		}
+	},
+	"likes": {
+		"empty": {
+			"common": "没有点赞过的内容。"
+		}
+	},
+	"announcement": {
+		"empty": {
+			"common": "还没有公告。"
+		}
+	},
+	"tab": {
+		"label": {
+			"home": "Home",
+			"community": "Communities",
+			"notification": "Notifications",
+			"my": "Profile",
+			"artist": "Artists",
+			"mnet": "Mnet",
+			"concert": "Concerts"
+		}
+	},
+	"exitADModal": {
+		"exit": "Are you sure you want to exit?"
+	},
+	"dsec": {
+		"account": {
+			"changeAfter30days": "30天后更改"
+		},
+		"enterMnetPlusAccount": "请提供用于连接社交媒体的 Mnet Plus 账号信息。",
+		"iland": {
+			"tapToCheckApplicant": "Tap on [Applicants] and [Media]\nto check the profiles of 24 applicants\nand their Performance Video clips.",
+			"modal": {
+				"intro": {
+					"nasuriCute": "I forgot to introduce myself!\n\nNaSURI is a cute baby fox \nborn from the special energy of Metaball!\nI fulfill the dreams of I-LANDERs \nand bring everyone the energy of luck🎁",
+					"joinMe": "Join Me, I-MATE!"
+				}
+			}
+		}
+	},
+	"offlineVote": {
+		"guide": {
+			"title": "请输入在KCON HONG KONG 2024现场\n收到的投票代码。\n\n确认投票代码后，\n您即可参与${Worldwide KCONers’ Choice}投票。",
+			"note": {
+				"title": "[注意事项]",
+				"body1": "1.请输入您在KCON HONG KONG 2024收到的投票代码。",
+				"body2": "2. 每人发放一个投票代码，遗失不能补发。",
+				"body3": "3. 若未前往KCON HONG KONG 2024现场，\n并以不正当方式输入投票代码，可能产生不利影响。",
+				"body4": "4. 请区分大小写输入。"
+			},
+			"winnerCriteria": {
+				"title": "[得奖者评选标准]",
+				"body": "KCON现场观众投票 70％ + 后续投票 30％\n（有关后续投票的详细信息将于日后公告）"
+			},
+			"voteNote": {
+				"body": "1. 每台设备只能投一次票。\n2. 提交投票后无法修改。\n3.使用异常方式进行的投票将不被视为有效投票。"
+			},
+			"instructions": "参与投票的方法"
+		},
+		"code": {
+			"period": {
+				"title": "输入投票代码时间",
+				"period": "Mar 30, 10:00 - Apr 7, 23:59 (KST)"
+			}
+		},
+		"vote": {
+			"period": {
+				"title": "投票时间",
+				"period": "Apr 1, 18:00 - Apr 7, 23:59 (KST)"
+			},
+			"title": "Worldwide KCONers’ Choice\nKCON现场观众投票",
+			"subtitle": "请投票给在KCON HONG KONG 2024\n带来最精彩瞬间的艺人。"
+		},
+		"doEnterCode": "输入投票代码",
+		"enterCode": "输入投票代码",
+		"alert": {
+			"codeEntered": "投票代码输入完成。",
+			"voteOpenAt": "%{date}开始投票。"
+		},
+		"placeholder": {
+			"code": "输入代码"
+		}
+	},
+	"purchase": {
+		"payment": {
+			"method": "Payment Method",
+			"status": "Payment Status",
+			"details": "Payment Details",
+			"date": "Payment Date"
+		},
+		"order": {
+			"total": "Order Total"
+		},
+		"information": "*Please note that this product takes effect immediately upon purchase, and no refunds are available.",
+		"btn": {
+			"ticket": {
+				"page": "Go to ticket page"
+			}
+		}
+	},
+	"program": {
+		"mcountdown": "MCOUNTDOWN",
+		"iland2": "I-LAND2"
+	},
+	"formError": {
+		"email": {
+			"empty": "请输入您的电子邮件地址。",
+			"format": "格式应与\"example@email.com \"相同。"
+		},
+		"password": {
+			"length": "8~20个文字",
+			"character": "1个或多个文字",
+			"number": "1个或多个数字",
+			"specialCharacter": "1个或多个符号(包括`~!@#$%^&*|\";:/?\\-,%_\")"
+		}
+	},
+	"tootip": {
+		"socialLogin": {
+			"disconnect": "解除绑定仅会移除快捷登录功能，现有 Mnet Plus 账号仍可登录。"
+		}
+	},
+	"name": {
+		"google": "Google",
+		"apple": "Apple",
+		"kakao": "Kakao",
+		"line": "LINE"
+	},
+	"mama": {
+		"superfan": {
+			"intro": {
+				"desc1": "具有MAMA AWARDS Fans' Choice候选投票权的特别粉丝",
+				"desc2": "享有MAMA超级粉丝ID CARD发放福利",
+				"desc3": "可抽选获得1年内Mnet全球K-POP活动的邀请券",
+				"subDesc": "* 邀请活动将于事后通知，具体安排可能根据主办方的情况进行调整。",
+				"visit": "加入超级粉丝画廊"
+			},
+			"hub": {
+				"applicant": {
+					"button": "申请成为超级粉丝"
+				},
+				"section1": {
+					"title": "加入MAMA超级粉丝社区",
+					"subTitle": "成为超级粉丝，选出 MAMA AWARDS Fans' Choice 候选人吧！",
+					"text3": "슈퍼팬 1차 투표가 시작되었습니다.",
+					"text2": "VOTE",
+					"button": "슈퍼팬 1차 투표"
+				},
+				"section2": {
+					"title": "MAMA超级粉丝是什么？",
+					"subTitle": "了解有关MAMA超级粉丝",
+					"text3": "나의 아티스트를 응원해 주세요!",
+					"button": "바로가기"
+				}
+			},
+			"gallery": {
+				"title": "超级粉丝画廊",
+				"ranking": "艺术家 TOP 20",
+				"reset": "每天00点( KST) 更新",
+				"info": "只需在带有艺人标签的帖子上点赞，即可提升支持的艺人排名！",
+				"pick": "Mnet Plus Pick",
+				"empty": {
+					"title": "尚未上传帖子",
+					"subTitle": "请在动态中上传帖子!"
+				},
+				"posting": {
+					"guide": {
+						"title": "指南",
+						"desc": "请上传可以证明自己是K-POP超级粉丝的照片。\n只要照片与K-POP相关即可。",
+						"example": "例如：官方粉丝会员照片、音乐节目投票认证截图、专辑或周边商品照片、演唱会反馈、流媒体播放认证截图等"
+					},
+					"notice": {
+						"title": "注意事项",
+						"desc1": "请避免使用可能引起他人不快的俚语、脏话等不适当语言。",
+						"desc2": "涉及违反经营政策的内容，将在无需事先通知的情况下进行修改或删除。"
+					}
+				},
+				"header": "MAMA画廊",
+				"buzz": "今日热门主题",
+				"modal": {
+					"desc": "在等待2024 MAMA AWARDS吗？ MAMA画廊将成为大家的MAMA热门聊天框\n\n与全球粉丝们分享2024 MAMA AWARDS、艺人等关于K-POP的各种故事吧！"
+				}
+			},
+			"applicant": {
+				"title": "超级粉丝申请者",
+				"empty": {
+					"title": "目前无申请者信息",
+					"subTitle": "请申请成为超级粉丝!"
+				},
+				"ranking": "超级粉丝排行榜",
+				"status": "申请者现况",
+				"currentTop": "超级粉丝 TOP 10",
+				"reset": "每日00:00（KST）更新累计数据",
+				"info": "我上传的帖子点赞量多，经常在超级粉丝排行榜上，中奖超级粉丝福利的概率就更高！"
+			},
+			"profile": {
+				"empty": {
+					"comment": {
+						"title": "尚未提交评论",
+						"subTitle": "请在帖子中留下您的评论!"
+					},
+					"like": {
+						"title": "尚未点赞的帖子",
+						"subTitle": "请为帖子点赞!"
+					}
+				},
+				"allPost": "活动摘要",
+				"post": "帖子",
+				"comment": "评论",
+				"like": "点赞",
+				"notApl": "成为超级粉丝，选出 MAMA AWARDS Fans' Choice 候选人吧！",
+				"count": {
+					"attendance": "出席次数",
+					"feed": "上传动态数",
+					"comment": "评论数",
+					"like": "点赞数"
+				},
+				"artist": {
+					"desc": "请选择您支持的艺人。",
+					"button": "选择艺人",
+					"select": "选定的艺人\n无法修改。"
+				},
+				"idCard": {
+					"button": "MAMA超级粉丝ID卡",
+					"user": "昵称",
+					"serial": "编号"
+				}
+			},
+			"ranking": {
+				"empty": {
+					"title": "目前无排名信息",
+					"subTitle": "请开始超级粉丝活动!"
+				}
+			},
+			"filter": {
+				"recent": "最新发布",
+				"oldest": "最早发布",
+				"liked": "最多点赞"
+			},
+			"chracter": {
+				"select": "请为超级粉丝之旅选择您的角色"
+			},
+			"next": "下一步",
+			"previous": "返回",
+			"apl": {
+				"artist": {
+					"title": "请选择您的艺人。",
+					"desc": "仅可选择一组艺人。",
+					"input": {
+						"desc": "手动输入的艺人可能不会反映在排行榜中。",
+						"title": "直接输入",
+						"placeholder": "请以‘#艺术家名称’的格式输入。",
+						"forbidden": "文本包含了禁用词。请重新输入。"
+					}
+				},
+				"why": {
+					"title": "请留下自我介绍和问候语",
+					"desc": "将对所有用户可见。"
+				},
+				"personal": {
+					"title": "请输入个人信息：",
+					"desc1": "仅用于内部收集目的，不会对外公开。",
+					"desc2": "信息不准确可能会影响成为超级粉丝的资格。",
+					"name": {
+						"title": "姓名*",
+						"placeholder": "请输入您的姓名"
+					},
+					"gender": {
+						"title": "性别*",
+						"placeholder": "请选择性别"
+					},
+					"birth": {
+						"title": "出生年份*",
+						"placeholder": "请选择出生年份"
+					},
+					"region": {
+						"title": "地区*",
+						"placeholder": "请选择地区"
+					},
+					"agree": "[必须] 同意收集个人信息"
+				},
+				"preview": {
+					"button": "预览",
+					"desc1": "填写的信息一旦提交，将无法修改或删除。",
+					"desc2": "观看广告后提交申请。"
+				},
+				"submit": "提交",
+				"complete": {
+					"title": "超级粉丝申请已完成。",
+					"subTitle": "在超级粉丝画廊为您的艺人加油。\n立即参与活动！"
+				},
+				"completeButton": "创建超级粉丝画廊",
+				"edit": {
+					"button": "选择"
+				}
+			},
+			"vote": {
+				"artist": {
+					"male": "男艺人",
+					"female": "女艺人"
+				},
+				"sellected": "查看所选候补",
+				"nomination": "候选人选择",
+				"submit": {
+					"txt": "提交候补",
+					"constraint": "Fans'Choice候选需要选择男艺人、女艺人各5组才能提交。",
+					"confirm": "提交候补后不能修改。确认提交现在选择的候补吗？"
+				},
+				"cheer": "只有MAMA超级粉丝才能参与Fans' Choice候补选择。\n请在MAMA画廊与全球粉丝们一起应援。",
+				"notice": {
+					"title": "[候补选定时注意事项]",
+					"desc": "· 1人1次，男女各5组，选择后必须提交，提交候补后不能修改，禁止截图或泄露本名单",
+					"period": "提交期限为24.09.16 00:00~24.09.23 23:59(KST)"
+				},
+				"placeholder": {
+					"male": "搜索男艺人",
+					"female": "搜索女艺人"
+				},
+				"already": {
+					"used": {
+						"device": "您已完成候选人选择。"
+					}
+				}
+			},
+			"history": "超级粉丝历史",
+			"title": "超级粉丝历史"
+		},
+		"go": {
+			"to": {
+				"gallery": "查看 MAMA 画廊"
+			}
+		},
+		"media": {
+			"header": "MAMA Clip",
+			"post": {
+				"empty": "还没有视频。"
+			},
+			"category": {
+				"all": "ALL",
+				"exclusive": "Exclusive",
+				"live": "LIVE",
+				"highlight": "HIGHLIGHT",
+				"teaser": "Teaser",
+				"behind": "Behind",
+				"shorts": "Shorts",
+				"fancam": "粉丝摄像",
+				"stagecam": "STAGE",
+				"etc": "etc."
+			}
+		},
+		"vote": {
+			"participate": "参与投票",
+			"share": {
+				"certificate": "共享投票证书"
+			},
+			"fans": {
+				"choice": {
+					"1st": "Fans' Choice 第一轮投票"
+				}
+			},
+			"earn": {
+				"awards": "每天投票参与活动"
+			},
+			"enjoy": {
+				"awards": "更加享受 2024 MAMA AWARDS"
+			},
+			"with": {
+				"visa": "VISA和2024 MAMA一起举办的投票"
+			},
+			"total": {
+				"votes": "累计投票数",
+				"count2": "票",
+				"count": "%{totalCount}票"
+			},
+			"completed": {
+				"btn": "投票完毕",
+				"today": "完成了今日投票！"
+			},
+			"description": "Fans' Choice部门是颁发给今年获得全世界K-POP粉丝最多支持的组合的奖项。",
+			"day": {
+				"n": "投票第%{day}天"
+			},
+			"fave": {
+				"today": "请给应援的艺人投票。"
+			},
+			"male": {
+				"artist": "男艺人"
+			},
+			"female": {
+				"artist": "女艺人"
+			},
+			"sort": {
+				"votes": "得票顺序",
+				"alphabetical": "按名字顺序"
+			},
+			"update": {
+				"time": "%{time}已更新。"
+			},
+			"btn": "投票",
+			"check": {
+				"before": "投票时请务必确认！",
+				"save": "下次继续给选择的艺人投票",
+				"personalinfo": {
+					"title": "同意收集/使用个人资讯以参与 2024 MAMA AWARDS 投票",
+					"description": "资料主体有权拒绝收集/使用个人资讯。但是，如果您拒绝收集/使用个人资讯，您将无法参与2024 MAMA AWARDS投票。",
+					"content1": "收集/使用项目:手机 Device ID",
+					"content2": "收集/使用目的:确认2024 MAMA AWARDS投票的有效性",
+					"content3": "保存期限：投票结束后30天内删除"
+				}
+			},
+			"once": {
+				"per": {
+					"person": "每个ID每天只能投票一次。"
+				}
+			},
+			"select": {
+				"maximum": {
+					"count": "每次投票时，可给男女各艺人最少1组~最多%{maximum}组候补投票。"
+				},
+				"duplicate": {
+					"not": {
+						"allowed": "（同一艺人不能重复投票）"
+					}
+				}
+			},
+			"submit": {
+				"check": {
+					"notice": "最终提交后，要确认投票结束才算完成投票。",
+					"abnormal": "（以非正常方式进行的投票，不视为有效投票。）"
+				}
+			},
+			"toast": {
+				"maximum": "最多可以选择%{maximum}组。"
+			},
+			"alert": {
+				"leave": "所选艺人不会被保存 。 您确定退出吗？"
+			},
+			"confirm": {
+				"cancel": "重新选择"
+			},
+			"notice": {
+				"cannot": {
+					"changed": "提交投票后，结果不能修改。"
+				},
+				"ad": {
+					"complete": "看完接下来的广告才能完成投票。"
+				},
+				"save": {
+					"submit": "投票提交完毕后，选中的艺人将被保存。"
+				}
+			},
+			"final": {
+				"submit": "最终提交"
+			},
+			"view": {
+				"certificate": "查看投票证书"
+			},
+			"last": {
+				"update": "最后一次更新"
+			},
+			"left": {
+				"time": "%{voteTitle} 距离投票结束",
+				"time2": "%{voteTitle} 距离投票结束"
+			},
+			"already": {
+				"voted": {
+					"today": "已完成今日投票。 请在画廊活动或收集MAMA积分！"
+				}
+			},
+			"todays": {
+				"title": "今日投票",
+				"subtitle": "别忘了完成今天剩下的投票！",
+				"next": {
+					"vote": {
+						"timer": "%{n}秒后移动到下一个投票画面。"
+					}
+				},
+				"btn": "去投票"
+			},
+			"result": {
+				"now": "实时投票现状"
+			},
+			"information": {
+				"multi": "1次投票时,男女各部门可以给1组候补投票。",
+				"single": "1次投票时，可以给1组候补投票。"
+			},
+			"hub": {
+				"desc": "颁发给今年最受喜爱的艺人的"
+			},
+			"after": {
+				"time": "%{time}后可以投票！"
+			},
+			"end": {
+				"time": "直到投票结束"
+			},
+			"complete": {
+				"btn": "投票完毕",
+				"btn2": "选择完成"
+			},
+			"point": {
+				"popup": {
+					"desc": "MAMA现场未公开exclusive内容等待着大家。\n现在来收集MAMA积分吧！"
+				}
+			},
+			"nominees": {
+				"artist": "候选艺人"
+			},
+			"abnormal": {
+				"detected": "检测到异常投票尝试，无法进行投票。"
+			}
+		},
+		"points": {
+			"title": "MAMA积分",
+			"collect": "收集MAMA积分后参与活动吧",
+			"earned": "获得了MAMA积分%{points}分。"
+		},
+		"point": {
+			"entry": {
+				"done": {
+					"media": {
+						"title": "MAMA Clip",
+						"subTitle": "确认MAMA的华丽瞬间！",
+						"button": "前往观看MAMA Clip"
+					},
+					"title": "应募完毕！",
+					"subTitle": "等待着2024 MAMA AWARDS",
+					"desc": "通知可以在主页→营销通知设置中随时更改。",
+					"giftCard": "为专门拍摄的追星族",
+					"buds3Pro": "为音乐就是人生的追星族",
+					"s24Ultra": "为轻松享受 的追星族",
+					"title2": "查看MAMA内容"
+				},
+				"banner": {
+					"title": "追星用品应募活动开始了！",
+					"subTitle": "10月26日~10月31日(KST)"
+				},
+				"button": "应募",
+				"item": {
+					"pre1": "轻松享受 😎",
+					"pre2": "音乐是我的人生 🎹",
+					"pre3": "专门拍摄人生照 📸",
+					"post": "为了追星族"
+				},
+				"desc1": "* 奖品将随机抽取，中奖者个别通知",
+				"desc2": "* 应募完成后不可以修改为其他奖品。",
+				"title": "来应募自己喜欢的追星用品吧！",
+				"subTitle": "应募时间:2024年10月26日~2024年10月31日(KST)",
+				"alert": {
+					"title": "报名将于10月26日（KST）开始。",
+					"body": "现在收集MAMA积分以提高中奖几率吧！",
+					"title2": "在Fans' Choice 第一轮投票期间 积累积分的人才能参与应募",
+					"body2": "从2024年11月1日(KST)开始将进行新的活动,请大家积极参与!"
+				},
+				"more": {
+					"title": "为2024 MAMA AWARDS 积分活动同意收集/使用个人信息",
+					"body1": "收集/使用项目:Mnet Plus邮箱，用户名，获得的MAMA积分， \n为获得MAMA积分而执行的活动记录，应募的活动用品",
+					"body2": "收集/使用目的:为通知活动中奖信息及配送奖品",
+					"body3": "保管时间:活动结束后30日内删除",
+					"body4": "[个人信息委托]",
+					"body5": "个人信息接收者 : ( 株) 커뮤니크",
+					"body6": "委托业务目的:为通知活动中奖信息及配送奖品",
+					"body7": "保管·使用期限:活动结束后30日内删除",
+					"desc": "* 个人信息提供主体可以拒绝对个人信息的收集及使用,这种情况下限制参与活动。"
+				},
+				"confirm": {
+					"btn": "收到通知"
+				}
+			},
+			"header": {
+				"title": "MAMA 积分",
+				"info": "介绍",
+				"eventInfo": "活动通知"
+			},
+			"intro": {
+				"subTitle": "提前享受2024 MAMA AWARDS的方法",
+				"title": "收集MAMA积分"
+			},
+			"my": {
+				"title": "我的MAMA积分"
+			},
+			"banner": {
+				"subTitle": "攒得越多，追星用品中奖概率就越高！",
+				"title": "收集MAMA积分",
+				"button": "去了解"
+			},
+			"list": {
+				"title": "收集MAMA积分",
+				"point": "MAMA积分%{N}分",
+				"vote": {
+					"need": "需要投票参与"
+				}
+			},
+			"history": {
+				"title": "历史"
+			},
+			"info": {
+				"title": "如何收集MAMA积分？",
+				"point": "可获得MAMA积分%{N}分",
+				"ad": "看完广告可获得积分。",
+				"vote": "完成Fans' Choice投票提交后才能获得积分。",
+				"visaVote": "完成VisaFans' Choice投票提交后才能获得积分。",
+				"share": "在多种SNS上共享可以获得积分。",
+				"post": "在MAMA画廊中发布帖子可以获得积分。 \n(每日限一次）"
+			},
+			"event": {
+				"title": "参与方法",
+				"subTitle": "MAMA积分收集时间和应募活动时间不同，请务必确认以下参与时间。",
+				"share": "分享活动",
+				"desc": "*  MAMA积分收集期间后,如果在用品应募期间不进行应募,则被认定为不参与该项活动。 在用品应募活动期间，请务必应募想要的用品。",
+				"entry": {
+					"title": "不要错过报名时间和中奖消息 🎁",
+					"desc": "同意接收营销信息时，可以最快收到有关活动及2024 MAMA AWARDS的消息。",
+					"agree": "同意接收营销信息"
+				}
+			},
+			"event1": {
+				"title": "收集MAMA积分",
+				"subTitle": "2024年10月14日~2024年10月25日(KST)",
+				"desc": "完成每天的任务后\n收集MAMA积分",
+				"button": "MAMAポイントを集める"
+			},
+			"event2": {
+				"title": "应募追星用品",
+				"subTitle": "2024年10月26日~2024年10月31日(KST)",
+				"desc": "在应募期间\n选择想得的用品应募"
+			},
+			"support": {
+				"top": "上位%{N}%",
+				"point": "%{N}分"
+			},
+			"toast": {
+				"reward": "获得了MAMA积分%{N}分。"
+			},
+			"vote": {
+				"finish": "投票结束"
+			},
+			"item": {
+				"vote": "Participate",
+				"share": "Participate"
+			}
+		},
+		"point2": {
+			"title": "MAMA积分 第二批次",
+			"banner": {
+				"title": "当前积分现状",
+				"current0": "现在开始吧？",
+				"current10": "开始是成功的一半！",
+				"current20": "再加把劲吧！",
+				"current30": "做得很好呢！",
+				"current40": "果然！做得很好！",
+				"current50": "好棒！",
+				"current60": "再加把劲吧！",
+				"current70": "扑通扑通! 没剩多少时间了",
+				"current80": "呜哇！厉害！",
+				"current90": "马上就能看到独家内容了！",
+				"attain": "达成率",
+				"finish": {
+					"title": "MAMA积分100%达成！",
+					"desc": "生动记录MAMA现场的未公开exclusive内容即将公开。 请稍等！",
+					"button": "去看MAMA现场未公开内容"
+				},
+				"login": "登录收集MAMA积分，\n享受未公开Exclusive内容吧！"
+			},
+			"info": {
+				"title": "MAMA积分 第二批次活动",
+				"desc": "MAMA现场未公开exclusive内容等待着大家。📺 \n现在就来收集MAMA积分吧！",
+				"period": "积分获得时间:2024. 11. 01 ~ 过后通知"
+			}
+		},
+		"kconers": {
+			"title": "Worldwide KCONers' Choice",
+			"online": "网上投票",
+			"subtitle": "请选出在KCON展现最标志性舞台的艺人！",
+			"desciption": "请收看2024年在各地区KCON进行的KCON现场投票TOP 10的表演视频,选出2024年一年间在KCON展现最标志性舞台的艺人。\n\n将各地区KCON观众参与的现场投票和网络投票合算后最终决定获奖者。",
+			"notice1": {
+				"title": "1.候补选定标准"
+			},
+			"notice2": {
+				"title": "2. 获奖者选定标准",
+				"description1": "KCON现场投票70%+网络投票30%\n（合计现场投票数和网络投票数决定最终获奖者）"
+			},
+			"notice3": {
+				"title": "3.注意事项",
+				"description1": "最终合计时将排除以非正常方式累计的投票数。",
+				"description2": "1个设备 1个ID 可投票1次。"
+			},
+			"alert": {
+				"title": "提交后不能修改。 确定要提交现在选择的艺人吗？"
+			}
+		},
+		"kcoenrs": {
+			"notice1": {
+				"description1": "2024年进行的KCON阵容中 通过现场观众的投票选出的TOP 10艺人\n\n- KCON HONG KONG 2024 (Mar 30 - Mar 31)\n- KCON JAPAN 2024 (May 10 - May 12)\n- KCON LA 2024 (July 26 - 28)\n- KCON GERMANY 2024 (Sep 28 - Sep 29)"
+			}
+		},
+		"hub": {
+			"event": {
+				"section": {
+					"title": "每天投票享受活动"
+				}
+			}
+		}
+	},
+	"stf": {
+		"desc": {
+			"intro": "In Stage Fighter, public voting for stage assessments\nare conducted in the form of seat booking.\n\nOut of the 4 classes of seats VIP / R / S / A,\nin which area would you watch the stage?\n\nSelect your preferred seat to vote.",
+			"voteTicketing": "Vote-Ticketing",
+			"stageWillBe": "Stages will be evaluated based on your seating class\nBook vote-tickets for the stage, now",
+			"tapTheSeat": "Tap the seating zone to book your seat.",
+			"seatPoint": "%{seatName}: %{point} points",
+			"noSeatLimit": "No seat limit",
+			"noLimit": "No limit",
+			"dancerAssessment": "Dancer Assessment",
+			"voteYourMVP": "Pick the dancer who rocked the stage",
+			"canVoteOneDancer": "You can only vote for one dancer."
+		},
+		"button": {
+			"voteNow": "VOTE NOW",
+			"seatTicketing": "Vote-Ticketing for Seat Classes",
+			"title": "Next Synopsis",
+			"last": {
+				"title": "Vote"
+			}
+		},
+		"voteGuide": {
+			"title": "[Stage Voting Notice]",
+			"item1": "In Stage Fighter, public voting for stage assessments is conducted in the form of seat booking.",
+			"item2": "Out of the 4 classes of seats VIP / R / S / A, vote for your preferred seat of which you would watch the stage."
+		},
+		"alert": {
+			"voteFor": "Vote for %{castName} in %{seatName} seat?"
+		},
+		"intro": {
+			"content1": "In a lavish celebration of dukes and nobles,\na rebellion is ignited by the loyal servants in a quest to climb up the social class. As the nobles fight to preserve and the butlers to take, the class warfare escalates into a catastrophe.",
+			"content2": "Children of the top 0.1% of elite families work tirelessly to enter a prestigious university in the pressure of\ntheir parents’ high expectations. Yet, the children decide to run from the torturous competition and find their true selves.",
+			"content3": "In a survival game to obtain the ultimate power through dance, dancers are confused as they come to realize that they are partners intertwined by dance. To unite or to fight? What choices will the dancers make?",
+			"content4": "While an imprisoned man is yearning for an escape\nfor his unexplained confinement, his revenge seeking captor continues to force oppression to destroy him to his deepest soul. What faith awaits him in his struggle for freedom?"
+		},
+		"gnb": {
+			"synopsis": "Synopsis"
+		}
+	},
+	"poc": {
+		"gnb": {
+			"support": "Support",
+			"programInfo": "About Program",
+			"mission": "MISSION",
+			"pointHistory": "MISSION",
+			"guide": "Guide",
+			"history": "History",
+			"applicantList": "Artist",
+			"information": "About Program"
+		},
+		"casts": "Casts",
+		"point": {
+			"remain": "Retained %{pointName}",
+			"totalUsed": "Used %{pointName}"
+		},
+		"pointHistory": {
+			"all": "All",
+			"income": "Earned",
+			"used": "Used",
+			"emptyIncome": "You don't have any %{pointName} yet.",
+			"emptyUsed": "There are no used %{pointName}."
+		},
+		"support": {
+			"achieved": "Achieved Round %{round} Support",
+			"closed": "서포트 종료",
+			"allClosed": "모든 서포트가 종료되었습니다",
+			"thanksToSupport": "그동안 서포트에 참여해주셔서 감사합니다",
+			"openSoon": "Support will start soon.\nPlease wait a moment!",
+			"search": "Search",
+			"dialog": {
+				"inputPoint": "Enter the number of %{pointName} to be supported for [%{applicantName}]",
+				"pointBalance": "Your Current %{pointName}"
+			},
+			"progressAchieved": "%{progress} Achieved"
+		},
+		"desc": {
+			"searchingAd": "Searching for Ads",
+			"noSearchResult": "No results found."
+		},
+		"alert": {
+			"mission": {
+				"dailyComplete": {
+					"title": "Attendance Check Complete!\nEarned [%{reward} %{pointName}].",
+					"body": "%{today} Attendance Complete"
+				},
+				"adComplete": {
+					"title": "Complete to watch ad!\n[%{reward} %{pointName}] is collected.",
+					"body": "Number of Remaining Ads %{achieveCount}/%{maxRewardCount}"
+				}
+			},
+			"supportTo": "You support [%{amount} %{pointName}] for [%{applicantName}]",
+			"supportDone": {
+				"title": "Support is completed",
+				"body": "The Support for %{pointName} will be reflected daily at midnight (KST)."
+			},
+			"supportFail": {
+				"balance": "You do not have enough %{pointName}."
+			},
+			"pointToAccess": "You need to collect and support over %{minPoint} %{pointName} to enter."
+		},
+		"button": {
+			"support": "Support",
+			"collectPoint": "Collect %{pointName}"
+		}
+	},
+	"mple": {
+		"point": {
+			"name": "Mple积分",
+			"tooltip": {
+				"title": "免费 Mple积分!"
+			},
+			"accumulation": "积累Mple积分",
+			"history": "使用记录"
+		}
+	},
+	"badge": {
+		"iland": {
+			"onAir": "ON-AIR"
+		}
+	},
+	"speech": {
+		"nasuri": {
+			"beenWaiting": "I've been waiting",
+			"justBeginning": "It's just the beginning"
+		}
+	}
+}

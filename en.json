@@ -1,0 +1,2736 @@
+{
+	"home": {
+		"now": {
+			"title": "Now"
+		},
+		"feed": {
+			"title": "Feed",
+			"trending": "Trending",
+			"recent": "Recent",
+			"popular": "Popular"
+		},
+		"section": {
+			"tab": {
+				"recommend": "For you",
+				"hot": "Hot"
+			}
+		}
+	},
+	"community": {
+		"listModal": {
+			"title": "Service Home",
+			"allCommunities": "All Communities",
+			"myCommunities": "My Communities"
+		},
+		"officialTag": "Official",
+		"joinButton": "Join",
+		"official": {
+			"seeAllButton": "See All"
+		},
+		"writeButton": "Create new post to %{communityName} community.",
+		"createProfile": {
+			"title": "Create Your Profile",
+			"inputPlaceholder": "Nickname",
+			"joinButton": "Go Go!"
+		},
+		"userBio": {
+			"inputPlaceholder": "User Bio"
+		},
+		"joinedButton": "Joined",
+		"editProfile": {
+			"title": "Edit Profile",
+			"changeImage": "Change Profile Image",
+			"selectPhoto": "Select Photo",
+			"useDefaultImage": "Use Default Image"
+		},
+		"profile": {
+			"myPostsTitle": "Posts",
+			"myCommentsTitle": "Comments",
+			"announcementsTitle": "Notices",
+			"pointBoxTitle": "Point Box",
+			"missionTitle": "Mission"
+		},
+		"announcement": {
+			"title": "Notices"
+		},
+		"postingSheet": {
+			"newPost": "New Post",
+			"editPost": "Edit Post",
+			"postButton": "Post",
+			"cancelButton": "Cancel",
+			"writePost": "Write a Post",
+			"placeholder": "Please share a post"
+		},
+		"mission": {
+			"title": "Mission",
+			"process": {
+				"description": "Process",
+				"status": {
+					"scheduled": "Opening Soon",
+					"inProgress": "In progress",
+					"finished": "Finished"
+				},
+				"countdown": {
+					"untilEnd": "Until the end of process",
+					"untilNext": "Until the next process"
+				}
+			},
+			"checkMissionButton": "Check mission",
+			"task": {
+				"notReady": "Getting ready. \nWe'd appreciate your support during this process."
+			},
+			"status": {
+				"notDone": "Not yet",
+				"done": "Completed"
+			},
+			"label": {
+				"order": "Mission%{order}"
+			}
+		},
+		"main": {
+			"tab": {
+				"main": "Main",
+				"feed": "Feed"
+			}
+		},
+		"artist": {
+			"profile": {
+				"label": "Profile",
+				"birth": "Birthday",
+				"debut": "Debut",
+				"group": "Group",
+				"agency": "Agency"
+			}
+		}
+	},
+	"common": {
+		"more": "more",
+		"copyLink": "Copy URL",
+		"enter": "Enter",
+		"ok": "OK",
+		"cancel": "Cancel",
+		"close": "Close",
+		"confirm": "Confirm",
+		"login": "Sign in",
+		"save": "Save",
+		"next": "NEXT",
+		"precautions": "<Note>",
+		"agreeTerms": "Agree to all",
+		"agreeAll": "Agree to all",
+		"readMore": "Read More",
+		"linkOpen": "link",
+		"link": "link",
+		"long": {
+			"agree": "Yes, I agree.",
+			"disagree": "No, I don't agree."
+		},
+		"processDate": "Date of processing: %{processDate}",
+		"whole": "All",
+		"earning": "Earned",
+		"exhaustion": "Used",
+		"termOfValidity": "Validity",
+		"label": {
+			"advertisement": "Ad"
+		},
+		"tab": {
+			"alphabetical": "Alphabetical",
+			"recent": "Recent"
+		},
+		"filter": {
+			"oldest": "Oldest",
+			"most": {
+				"recent": "Most Recent",
+				"popular": "Most Liked"
+			}
+		},
+		"video": {
+			"counts": "%{count} video(s)"
+		},
+		"agree": "Agree",
+		"disconnect": "Disconnect",
+		"ad": {
+			"failed": {
+				"title": "Ad search failed",
+				"description": "Failed to find an ad.\nPlease try again. If the issue persists, contact customer support.",
+				"retry": "Retry"
+			}
+		},
+		"vote": {
+			"perVote": "per vote",
+			"remainVoteCount": "%{canVoteCount} votes remaining",
+			"pointVoteLack": "You have insufficient votes or points",
+			"castEachArtist": "* The entered number of votes will be cast for each artist.",
+			"usedPoint": "Used MplePoints",
+			"remainPoint": "Remaining MplePoints",
+			"doneAll": "All votes have been completed!",
+			"pointFloatingButton": "You can vote after earning MplePoints!"
+		},
+		"maximum": "Maximum",
+		"myPoint": "My MplePoints",
+		"voteCert": {
+			"multiCert": "%{voteWeight} Votes Certificate"
+		},
+		"earn": "Earn"
+	},
+	"toast": {
+		"linkCopied": "LINK COPIED.",
+		"saved": "It's saved",
+		"voteCert": {
+			"saved": "Saved to Camera Roll"
+		},
+		"codeCopied": "CODE COPIED.",
+		"resetPassword": {
+			"success": "Your password has been reset and you are now signed in."
+		},
+		"faceId": {
+			"connected": "Face ID sign in setup is complete.",
+			"disconnected": "Face ID sign in Disconnected."
+		},
+		"touchId": {
+			"connected": "Touch ID sign in setup is complete.",
+			"disconnected": "Touch ID sign in Disconnected."
+		}
+	},
+	"alert": {
+		"community": {
+			"list": {
+				"all": "See All"
+			},
+			"createProfile": {
+				"joinSuccess": "Congrats! You've just joined %{communityName} community."
+			},
+			"leaveConfirm": "Are you sure you want to exit %{communityName} community?",
+			"leaveComplete": "You've just exited  %{communityName} community.",
+			"editProfile": {
+				"success": "The nickname has been changed."
+			},
+			"postingSheet": {
+				"imageCountExceeded": "You can upload up to 10 images."
+			},
+			"join": {
+				"already": "You have already joined this community."
+			}
+		},
+		"needLogin": "Please log in first. Would you like to log in now?",
+		"popup": {
+			"login": {
+				"label": "Log in"
+			},
+			"join": {
+				"label": "Join"
+			},
+			"community": {
+				"username": {
+					"inuse": "This nickname is already in use."
+				}
+			},
+			"post": {
+				"report": {
+					"confirm": "Do you wish to report the post and the user?",
+					"done": "The post and the user are reported."
+				},
+				"delete": {
+					"confirm": "Are you sure you want to delete this post?",
+					"done": "The post has been deleted."
+				}
+			},
+			"comment": {
+				"report": {
+					"confirm": "Do you wish to report this comment and the user?"
+				},
+				"delete": {
+					"confirm": "Do you want to delete this comment?"
+				}
+			},
+			"confirm": {
+				"writing": {
+					"cancel": "Everything you have written so far will be lost. Would you like to continue?"
+				}
+			},
+			"vote": {
+				"need": {
+					"join1": "You need to join the",
+					"join2": "community to participate in the vote."
+				},
+				"abuse": {
+					"warn": "Repeated voting attempts have been detected. If you proceed, you will be unable to vote.",
+					"block": "You cannot vote because repeated voting attempts have been confirmed.",
+					"device": "You cannot participate according to our voting policy."
+				}
+			},
+			"alert": {
+				"ok": {
+					"label": "OK"
+				}
+			},
+			"signup": {
+				"abuse": {
+					"warn": "Abnormal activity detected. If repeated, you will be restricted from creating an account.",
+					"block": "You have been restricted from creating an account due to abnormal activity. Please contact the Help Center."
+				},
+				"invalidcode": "The verification code does not match or has expired."
+			},
+			"invalid": {
+				"email": "Invalid E-mail address."
+			}
+		},
+		"needMembership": "Join %{communityName} Community now to enjoy this content.",
+		"communityprofile": {
+			"username": {
+				"invalid": "Nicknames can be 2-16 characters long. Special characters and emojis cannot be used."
+			}
+		},
+		"post": {
+			"already": {
+				"reported": "The post has already been reported."
+			},
+			"deleted": "no post data",
+			"share": {
+				"copied": "Copied to your clipboard."
+			},
+			"report": {
+				"confirm": "Would you like to report this post?",
+				"success": "Report has been processed"
+			},
+			"delete": {
+				"confirm": "Would you like to delete this post?",
+				"success": "The post has been deleted"
+			}
+		},
+		"comment": {
+			"report": {
+				"success": "The comment and the user are reported.",
+				"confirm": "Would you like to delete this comment/reply?"
+			},
+			"already": {
+				"reported": "The comment has already been reported."
+			},
+			"delete": {
+				"success": "The comment has been deleted.",
+				"confirm": "Would you like to report this comment/reply?"
+			},
+			"filter": {
+				"popular": "Popular",
+				"recent": "Recent"
+			},
+			"read": {
+				"more": "Read more"
+			},
+			"needTwoLetters": "You need to write more than two letters.",
+			"sameCharacters": "You are not able to submit same character(s) repeatedly.",
+			"noText": "There’s no text. You need to submit more than two letters.",
+			"needFiveLetters": "Not enough text to submit. You need to write more than five letters.",
+			"timeLimitApplied": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"Time limit applied for 30 seconds to submit next comment/reply.",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"Time limit applied for 45 seconds to submit next comment/reply.",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"Time limit applied for 60 seconds to submit next comment/reply.",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"Time limit applied for 75 seconds to submit next comment/reply."
+			],
+			"exceededMaxNumber": "You have exceeded the maximum number of comments."
+		},
+		"reply": {
+			"report": {
+				"confirm": "Do you wish to report this reply and the user?",
+				"success": "The reply and the user are reported."
+			},
+			"already": {
+				"reported": "The reply has already been reported."
+			},
+			"delete": {
+				"confirm": "Do you want to delete this reply?",
+				"success": "The reply has been deleted."
+			},
+			"reply": {
+				"block": "You cannot add extra reply. Please try on the comment."
+			}
+		},
+		"imageMaxGif": "Only 1 GIF can be uploaded.",
+		"imageMaxSize": "You may only upload images up to 10MB in size.",
+		"imageViewer": {
+			"saved": "Successfully saved!"
+		},
+		"vote": {
+			"needPreviousStep": "Wait! Please complete your voting in the previous step.",
+			"optionNotSelected": "Please select %{optionChoiceNumber} options.",
+			"groupOptionNotSelected": "Please select %{optionChoiceNumber} option for each step.",
+			"optionSelectExceeded": "Up to %{optionChoiceNumber} options may be selected.",
+			"option": {
+				"choice": {
+					"confirm": "You may choose up to %{optionChoiceNumber} options in this vote. Proceed to vote?"
+				}
+			},
+			"voteConfirmMessage": "Would you like to vote?",
+			"needLogin": "Please log in first to participate in the vote.",
+			"needMembership": "You need to join the community to participate in the vote.",
+			"voteSuccess": "Voting Completed!",
+			"closed": "The voting period is over.",
+			"notOpened": "Voting has not started.",
+			"notopened": "Voting has not started.",
+			"geoBlocked": "You cannot vote from your current country.",
+			"captcha": {
+				"invalid": "Time lapsed: please restart the voting from the start."
+			},
+			"advertisement": {
+				"cta": "go to the Advertiser's website"
+			},
+			"restrict": "You are not authorized to vote. Please check the community for more information.",
+			"app": {
+				"only": "You can participate in this vote on Mnet Plus APP."
+			},
+			"needAppUpdate": "Please update the app to the latest version to continue your vote.",
+			"user": {
+				"abnormal": "Abnormal account - cannot participate in the voting."
+			},
+			"alreadyvoted": "This poll was already submitted.",
+			"blance": {
+				"not": {
+					"enough": "You lack retained Fan Point. \nLet us know how to charge Fan Point."
+				}
+			},
+			"exhausted": {
+				"vote": "Because all additional numbers of voting are exhausted, you cannot vote any longer."
+			},
+			"certificate": {
+				"notfound": "Sorry, the page you requested cannot be found."
+			},
+			"right": {
+				"code": {
+					"already": "This code has already been used.",
+					"wrong": "Invalid verfication code"
+				},
+				"did": {
+					"already": "It is the device that has already entered code"
+				},
+				"user": {
+					"already": "It is the account that has already entered code"
+				}
+			},
+			"firstcome": {
+				"exhausted": "Tickets are sold out.\r\nPlease try again."
+			}
+		},
+		"liveChat": {
+			"needLogin": "Please join %{communityName} community to participate in live chat."
+		},
+		"login": {
+			"email": {
+				"not": {
+					"exist": "This email doesn't exist. Please check and try again."
+				}
+			},
+			"password": {
+				"not": {
+					"match": "Passwords do not match."
+				}
+			},
+			"passwordNotMatch": {
+				"title": "There have been more than 5 failed login attempts.",
+				"content": "Would you like to reset the password after verifying your email?"
+			}
+		},
+		"account": {
+			"information": "Your account",
+			"username": {
+				"invalid": "Usernames can be 2-16 characters long. Special characters or emojis cannot be used."
+			},
+			"password": {
+				"not": {
+					"match": "Passwords do not match."
+				},
+				"inuse": "Your new password cannot be the same as your current password. Enter a different password."
+			},
+			"current": {
+				"password": {
+					"not": {
+						"match": "Your current password does not match."
+					}
+				}
+			},
+			"old": {
+				"password": {
+					"match": "You cannot use the same password that you have used before. Enter a different password."
+				}
+			},
+			"forgotPassword": {
+				"snsOnlyUser": "Members who used social sign in cannot change their password. Please change it through the social media channel you used to create your account."
+			},
+			"email": {
+				"check": {
+					"snsOnlyUser": "This email is registered for social sign in. Please sign in with your social media account.",
+					"snsOnlyUser-google": "This email is already connected with an Mnet Plus account. Please try logging in with Google.",
+					"snsOnlyUser-apple": "This email is already connected with an Mnet Plus account. Please try logging in with Apple.",
+					"snsOnlyUser-kakao": "This email is already connected with an Mnet Plus account. Please try logging in with Kakao.",
+					"snsOnlyUser-line": "This email is already connected with an Mnet Plus account. Please try logging in with LINE."
+				}
+			},
+			"login": {
+				"withdrawnEmail": "This is an email that has been withdrawn from Mnet Plus. Please connect me to a different account."
+			}
+		},
+		"signup": {
+			"duplicatedEmail": "This email is already in use. Please check and try again.",
+			"authcode": {
+				"not": {
+					"match": "The verification code does not match or has expired."
+				}
+			},
+			"captcha": {
+				"invalid": "CAPTCHA time expired. Please restart the sign-in process from the beginning."
+			}
+		},
+		"temporary": {
+			"email": {
+				"is": {
+					"not": {
+						"exist": "Invalid email. Please check and try again."
+					}
+				},
+				"not": {
+					"allow": "Invalid email. Please check and try again."
+				}
+			}
+		},
+		"authCodeSent": {
+			"title": "We've sent a verification code to your email.",
+			"body": "The code will expire in 60 minutes. If you have not received it, please check your junk or spam folder."
+		},
+		"email": {
+			"already": {
+				"inuse": "This email is already in use. Please check and try again.",
+				"requested": "You can resend after 1 minute."
+			},
+			"deleted-user": {
+				"rejoin": "This account has been deleted. You won't be able to sign up using the same email for a certain period."
+			}
+		},
+		"profileEdit": {
+			"usernameChanged": "Username has been changed.",
+			"profileImageChanged": "Profile image has been changed.",
+			"profileImageUploadFailed": "The image was not uploaded properly. Please check the details below.\n - Recommended image resolution: 240*240\n - Only images under 10MB can be uploaded\n - JPG, PNG files can be uploaded\n - Cannot upload GIF files",
+			"passwordSheet": {
+				"success": "Your password has been successfully changed."
+			},
+			"deleteAccount": {
+				"confirm": "Are you sure you want to delete your account?"
+			}
+		},
+		"error": {
+			"page": "Sorry, the page you requested cannot be found.",
+			"common": "Sorry, an error occurred."
+		},
+		"terms": {
+			"omni": {
+				"agreeSuccess": "The consent process for the Mnet Plus CJ Omni integrated promotion has been completed.",
+				"disagreeSucess": "The cancellation of the consent to use the Mnet Plus CJ Omni integrated promotion has been completed."
+			}
+		},
+		"poll": {
+			"max": {
+				"limit": "You can choose to ${max}."
+			}
+		},
+		"invalidAccess": "Invalid Access",
+		"invalidApp": "Shut down the App due to abnormal execution.",
+		"write": {
+			"image": {
+				"single": "You can only upload one image."
+			},
+			"exitWarning": "All the content you have written so far will be deleted. Do you want to continue?"
+		},
+		"captcha": {
+			"invalid": "Invalid CAPTCHA."
+		},
+		"photoAccess": "Click on “setting” to allow the access of the photos.",
+		"forceUpdate": "A new version of the application was released. Move to the App store for the updates.",
+		"system": {
+			"bad": {
+				"request": "Bad Request"
+			},
+			"lowBattery": "Please turn off low power mode."
+		},
+		"update": {
+			"lastest": {
+				"version": "This feature is not supported in the current version. Update to the latest version."
+			}
+		},
+		"deletedOriginalComment": "Unable to find original comment.",
+		"unavailable": {
+			"community": {
+				"service": "This is a read-only community."
+			},
+			"support": "You cannot support this applicant."
+		},
+		"user": {
+			"blocked": {
+				"feed": {
+					"service": "This account is restricted from using the service, Please contact the customer center."
+				}
+			}
+		},
+		"block": {
+			"success": "Blocked"
+		},
+		"headerFix": {
+			"autoRelease": "After checking the TOP POST (fixed), the prevvious fixed post will be automatically released at registration."
+		},
+		"artist": {
+			"write": {
+				"title": "Are you sure you want to complete?",
+				"body": "The post will be released to fans immediately."
+			}
+		},
+		"title": {
+			"freeChargeSuccess": "Fan Point is provided! Please check the details of Fan Point.",
+			"freeChargeExhausted": "You use all the possible numbers of watching video today.",
+			"freeChargeCooldown": "Free charge is possible to re-participate after 3 hours.",
+			"adExhausted": "All of the video ads you have prepared have been exhausted.\nJoin us again in 24 hours!",
+			"additionalVote": "You already voted. Will you additionally vote with Fan Point?",
+			"lackPointBalance": "You lack retained Fan Point. \nLet us know how to charge Fan Point.",
+			"additionalVoteExhausted": "Because all additional numbers of voting are exhausted, you cannot vote any longer."
+		},
+		"body": {
+			"freeChargeSuccess": "* When watching is stopped, the reward is not paid. Reward payment can be delayed depending on the situation.",
+			"freeChargeExhausted": "* Videos can be seen up to 3 times in maximum everyday, and the possible number of watching is reset everyday at midnight.",
+			"freeChargeCooldown": "* After midnight, re-participation is possible right away."
+		},
+		"comp": {
+			"point": {
+				"remaining": "Remaining time until reset :",
+				"recentTime": "My recent watching time :"
+			},
+			"vote": {
+				"additionalVote": "* Additionally remaining number of voting :"
+			},
+			"pointGuide": "Let us know how to charge Fan Point."
+		},
+		"cannotTranslate": "It is a language that cannot be translated.",
+		" not support language": "It is a language that cannot be translated.",
+		" no text": "It is a language that cannot be translated.",
+		"content": {
+			"forbidden": {
+				"nick": "This nickname is limited in use."
+			}
+		},
+		"order": {
+			"exclusiveProductAlreadyPurchased": "You have already purchased the product.",
+			"soldOut": "All tickets have been sold out."
+		},
+		"excessivePasswordError": "Number of password errors exceeded.\nPlease reset your password.",
+		"invalidEmailByPolicy": "This email address is restricted according to our policy.",
+		"restrictedEmail": "This email address is restricted according to our policy.",
+		"socialLogin": {
+			"errorOccurred": "A temporary error occurred. Please use your Mnet Plus email account."
+		},
+		"socialConnect": {
+			"emailNotExist": "This email is not registerd to Mnet Plus. Please continue with social sign in."
+		},
+		"sns": {
+			"oauth": {
+				"link": {
+					"hasOtherLinkedSns": "This account is already connected. Please enter another account or continue with social sign in.",
+					"alreadyConnected": {
+						"easySignUpNotAllow": "This account is already connected to other SNS channels.\nPlease use the connected SNS channel or Mnet Plus email login."
+					}
+				},
+				"noEmailUseAnother": "There is no e-mail address for social media sign in.\nPlease use another social media to sign in or create Mnet Plus account.",
+				"emailNotProvided": "I need 'email information' for easy subscription to Mnet Plus. Please use it after allowing it to be provided."
+			}
+		},
+		"socialConnected": "Connected with Mnet Plus account",
+		"socialDisconnect": {
+			"title": "Would you like to disconnect?",
+			"body": "If you disconnect, only the social logins will be removed, and your Mnet Plus account will remain unaffected."
+		},
+		"socialDisconnected": "Disconnected with your Mnet Plus account",
+		"loginWithMnetPlus": "Please sign in with your Mnet Plus ID.",
+		"noFaceId": "No Face ID registered on your phone. Please register and try again.",
+		"accessBiometrics": "Accessing to biometrics (Face/Touch ID) registered on your phone.",
+		"disconnectFaceId": "Would you like to disconnect Face ID sign in?",
+		"noTouchId": "No Touch ID registered on your phone. Please register and try again.",
+		"disconnectTouchId": "Would you like to disconnect Touch ID sign in?",
+		"voteAbuse": "Unusual voting has been detected. If repeated, account usage can be restricted.",
+		"mama": {
+			"superfan": {
+				"applicant": {
+					"alreadyExistingUser": "You have completed your application.\nPlease participate in the SUPER FAN Gallery!"
+				}
+			}
+		},
+		"stf": {
+			"vote": {
+				"voteSuccess": "Vote Ticketing Complete"
+			}
+		},
+		"iland": {
+			"metaballInsufficient": "Your current Metaball balance is insufficient.",
+			"cannotSupport": "You can support every day from 0:00 to 23:50 (KST)."
+		}
+	},
+	"mcountdown": {
+		"onAirDate": "Date of broadcast"
+	},
+	"promotion": {
+		"event": {
+			"begin": "Event has begun."
+		}
+	},
+	"post": {
+		"report": "Report",
+		"edit": "Edit",
+		"delete": "Delete",
+		"like": "Like",
+		"share": "Share",
+		"empty": {
+			"common": "No post yet",
+			"users": "There are no posts written."
+		}
+	},
+	"comment": {
+		"filter": {
+			"popular": "Popular",
+			"recent": "Recent"
+		},
+		"writeButton": "Write a comment",
+		"edit": {
+			"title": "Edit comment"
+		},
+		"write": {
+			"placeholder": "Wanna leave a comment?",
+			"addImageButton": "Attach Image"
+		},
+		"title": "Comment",
+		"readMore": "Read more",
+		"editButton": "Edit",
+		"deleteButton": "Delete",
+		"status": {
+			"hidden": "This comment is disabled due to inappropriate expressions."
+		},
+		"delete": {
+			"user": "This comment was deleted by the writer."
+		},
+		"empty": {
+			"users": "There are no comments written.",
+			"common": "No comments yet"
+		}
+	},
+	"reply": {
+		"write": {
+			"title": "Reply",
+			"placeholder": "Write a great reply to a good comment!"
+		},
+		"writeButton": "Reply to",
+		"edit": {
+			"title": "Edit reply"
+		},
+		"seeOriginalContent": "See the original content"
+	},
+	"imageViewer": {
+		"title": "Image"
+	},
+	"vote": {
+		"information": {
+			"tab": "Information",
+			"title": "Vote Information",
+			"createDate": "Date",
+			"period": "Period",
+			"optionChoiceNumber": "Select %{optionChoiceNumber} options.",
+			"optionChoiceNumberFlex": "Select up to %{optionChoiceNumber} options.",
+			"dailyLimit": "Available up to %{limitCount} votes per day",
+			"periodLimit": "%{limitCount} votes permitted within the period",
+			"policyDaily": "One vote per day allowed.",
+			"policyOnce": "One vote in total allowed.",
+			"liveVote": "Live voting during broadcast."
+		},
+		"vote": {
+			"tab": "Vote",
+			"title": "VOTE NOW",
+			"voted": "You have completed the vote."
+		},
+		"result": {
+			"tab": "Result",
+			"title": "Result",
+			"totalVotes": "Total Votes",
+			"totalVoteCount": "%{totalVotes} Votes",
+			"releaseDate": "Results will be announced on %{month}, %{day}, %{year} at %{hour}:%{minute}",
+			"hidden": {
+				"descriptionTitle": "The results cannot be viewed now.",
+				"descriptionSubtitle": "Please refer to \"Information tab\"."
+			}
+		},
+		"voteButton": {
+			"vote": "VOTE",
+			"seeResult": "See Voting Result",
+			"closed": "Voting has closed."
+		},
+		"confirmSheet": {
+			"voteButton": "VOTE"
+		},
+		"invalidApp": "Abnormal action has been detected. You cannot participate in the vote.",
+		"installedCloneApp": "Please delete the following app to vote."
+	},
+	"desc": {
+		"content": {
+			"vote": {
+				"mayDisplayAds": "Video advertisements may be displayed when you vote. You must complete watching the video to finalize your submission."
+			},
+			"badge": {
+				"onAir": "On Air",
+				"voting": "Voting",
+				"upcoming": "Upcoming",
+				"replay": "Replay"
+			}
+		},
+		"voteHistory": "Vote history",
+		"voteComplete": {
+			"dailyCount": "You can vote up to %{count} times per day, and currently you've voted %{currentCount} times.",
+			"periodCount": "You can vote up to %{limitCount} times during the voting period, and currently you've voted %{currentCount} times."
+		},
+		"language": {
+			"en": "English",
+			"ko": "Korean",
+			"ja": "Japanese"
+		},
+		"common": {
+			"rememberMe": "Remember me",
+			"selectSubtitles": "Select Subtitles"
+		},
+		"terms": {
+			"thirdPartyAgree": "[Required] Agreement to Provision of Personal Information to Third Party",
+			"update": {
+				"privacy": {
+					"dearCustomer": "Dear, customer.\nThank you so much for using Mnet Plus service.\nWe inform you that the Mnet Plus Privacy Policy will be revised as follows.",
+					"effectDate": "The revised Privacy Policy will take effect on %{effectiveDate}",
+					"warn": "※ This revision of the personal information processing policy is essential, and members of Mnet Plus, the data subject, can express their refusal, but if you refuse, the service will not be available.\n\n- Out of membership: ${link}",
+					"safelyUtilizes": "※ Mnet Plus safely utilizes your personal information and protects it in accordance with relevant laws and regulations.",
+					"agree": "Yes, I agree.",
+					"disagree": "No, I don't agree.",
+					"additionalItems": "Please enter ${additionalItems} to collect.",
+					"cannotBeModified": "After entering it, the submitted information cannot be modified, so please fill it out carefully."
+				}
+			}
+		},
+		"signup": {
+			"terms": {
+				"mnet": {
+					"service": "${[Required]} Agree to Terms of Use",
+					"privacy": "${[Required]} Consent to the Collection and Use of Personal Information",
+					"marketing": "[Optional] Consent to receive marketing information and to the collection/use of personal information"
+				},
+				"omni": {
+					"all": "[Optional] Agree to Use CJ Omni Service",
+					"cj": "[Optional] Consent to provide personal information to CJ CheilJedang Co., Ltd.",
+					"logistics": "[Optional] Consent to provide personal information to CJ Logistics",
+					"oliveYoung": "[Optional] Consent to provide personal information to CJ OLIVE YOUNG Co., Ltd.",
+					"oliveNetworks": "[Optional] Consent to provide personal information to CJ OliveNetworks Co., Ltd.",
+					"cgv": "[Optional] Consent to provide personal information to CJ CGV Co., Ltd.",
+					"foodvil": "[Optional] Consent to provide personal information to CJ Foodville Co., Ltd.",
+					"tving": "[Optional] Consent to provide personal information to Tving Co., Ltd."
+				}
+			}
+		},
+		"setting": {
+			"terms": {
+				"omni": {
+					"title": "Consent to the use of CJ Omni-service",
+					"subtitle": "All consent is optional, and you can choose to agree individually Even if you refuse to agree, services other than the Omni service are available."
+				}
+			}
+		},
+		"preference": {
+			"duplicate": "You may select as many as possible."
+		},
+		"denyNightPush": "Night Push Notification\n(22:00 ~ 08:00)",
+		"pushDeny": "Push Denied",
+		"fixed": "Fixed",
+		"closeForDay": "Close for a day",
+		"point": {
+			"empty": "There are no details of Fan Point.",
+			"emptyGuide": "Gather Fan Point through acitivity!",
+			"freeCharge": "Free Charge",
+			"retained": "Accmulated Points",
+			"expireIn": "Fan Points to expire this month",
+			"currentSix": "* Only details within the current 6 months are displayed."
+		},
+		"vote": {
+			"agreePrivacy": "[Required] Consent to the Collection and Use of Personal Information"
+		},
+		"exitBanner": {
+			"timer": "You can close the app after %{remainTime} seconds.",
+			"backButton": "Press the Back button to exit the app."
+		},
+		"pluschat": {
+			"letsPlay": "Let's Play!",
+			"withArtist": "with %{artistName} and chat!"
+		},
+		"all": "All",
+		"profile": "Profile",
+		"announcement": "Notice",
+		"helpCenter": "Help Center",
+		"artistCommunity": "Artist Communities",
+		"mnetPrograms": "Mnet Programs",
+		"concert": "Concerts",
+		"mnetPlusOriginal": "Mnet Plus Original",
+		"mnetDigitalStudio": "Mnet Digital Studio",
+		"etc": "Etc",
+		"languageSetting": "Language",
+		"ad": {
+			"inquiry": {
+				"title": "Ad inquiry",
+				"body": "Run ads on Mnet Plus!"
+			}
+		},
+		"plusChat": "Plus Chat",
+		"plusLive": "Plus LIVE",
+		"plusShop": "Plus Shop",
+		"plusMagazine": "Plus Magazine",
+		"plusCON": "Plus CON",
+		"adid": {
+			"askNotTrack": "Ask App not to Track",
+			"allowToUpgrade": "Allow permission $[to upgrade Mnet Plus's personalized services].",
+			"ifYouAllow": "If you “allow” permission,",
+			"baseOnYourPreference": "Based on your preference\nIt helps you $[recommend and develop customized content]",
+			"exposureUninterest": "Exposure to inappropriate or uninterested $[advertisements is limited].",
+			"willAskPermission": "The user behavior data permission request proceeds on the next screen.",
+			"canChangeAfter": "Changes can be made at any time in Settings > Privacy and Security > Tracking."
+		},
+		"permission": {
+			"title": "App Access Rights for Mnet Plus",
+			"madatoryPermission": "Required Access Permission",
+			"deviceLog": "Device and App Log",
+			"appUsability": "For improving app usability and checking errors",
+			"deviceId": "Device ID",
+			"adTracking": "For identifying devices and tracking advertisement",
+			"optionalPermission": "Optional Access Permission",
+			"youCanUseService": "You can use the app even if you do not agree to the optional permissions.",
+			"takePhoto": "For taking photos when posting",
+			"media": "Photos/Media/Files",
+			"mediaStorage": "For attaching stored files when posting",
+			"registerPush": "For sending push notifications",
+			"howToRevoke": "How to Manage Optional Permissions:",
+			"revokeGuide": "Setting > Personal (Credit) Information Protection > App Permissions > Revoke Permissions (OS must be upgraded to 6.0 or above)"
+		},
+		"camera": "Camera",
+		"notifications": "Notifications",
+		"recommendCommunity": "recommended",
+		"recommendProgram": "recommended",
+		"account": {
+			"changePasswordForSafe": "Please change your password to keep your personal information safe.",
+			"changePassword": "Change Password"
+		},
+		"section": {
+			"title": {
+				"allProgram": "All"
+			}
+		},
+		"voteCert": {
+			"voteCert": "VOTING CERTIFICATE",
+			"guarantee": "This Certificate validates that your vote has been successfully cast.",
+			"shareWithHashtag": "Share your Certificate with these hashtags!"
+		},
+		"userName": "User Name",
+		"voteDate": "Poll Completed",
+		"order": {
+			"history": "Order History"
+		},
+		"membership": {
+			"contents": "Membership Content",
+			"buy": "Unlock special benefits by purchasing KCON EXPRESS now!",
+			"expired": "The service period has expired.",
+			"only": "Exclusive access for KCON EXPRESS purchasers only."
+		},
+		"empty": {
+			"order": "No order history",
+			"notice": "No announcements available",
+			"vod": "Coming Soon"
+		},
+		"reservation": {
+			"code": "Presale Code"
+		},
+		"offlineVote": {
+			"alreadyVoted": "Vote has already been completed in this device",
+			"noRight": "Only users who have authenticated via QR code can vote"
+		},
+		"activateAccount": {
+			"hasBeenInactivate": "Your account has been placed in inactive status due to prolonged lack of activity.",
+			"resumeByClick": "You can resume using the service by clicking the [Reactivate] button and completing email verfication.",
+			"enterEmail": "Enter the email you used to sign up",
+			"sendCode": "Click Send Email Verfication Code button",
+			"enterCode": "Enter the 6-digit code you received in the email for verfication",
+			"accountInformation": "Account Information(ID)"
+		},
+		"inactivatedAccount": "Inactive Account: [%{account}]",
+		"dormantedDate": "Inactive Conversion Date: [%{date}]",
+		"progressDate": "Date of processing: %{date}",
+		"loginOrSignup": "Sign in / Create Account",
+		"loginOrSignupWithMnetPlus": "Please sign in or create your Mnet Plus account.",
+		"setPassword": "Please create your password.",
+		"enterBirthYear": "Please enter your birth year",
+		"least14years": "You must be at least 14 years old to sign up.",
+		"enterGender": "Please select your gender",
+		"gender": {
+			"female": "Female",
+			"male": "Male",
+			"nonBinary": "Non-binary",
+			"etc": "Prefer not to say"
+		},
+		"pleaseAgreeTerms": "Please agree to the terms and conditions",
+		"pleaseAgreeTermsToMnetPlus": "Please agree to the terms and conditions to use Mnet Plus services.",
+		"verifyEmail": "Please verify your email",
+		"verifyEmailSended": "A verification email has been sent to the email address you provided.\nPlease verify your email to complete the process.",
+		"verifyEmailCanBeSpam": "If you haven't received the verification email, please try resending it or check your spam folder.",
+		"turnOnSoftbankEmail": "If you're using a Softbank email, please 'allow' emails in your settings.",
+		"signupSuccessed": "Account Created!",
+		"canAccess3rdPartyWithMnetPlus": "You now have access to Plus Chat, PlusCON and other related services with your Mnet Plus account.",
+		"emailAddress": "Email address",
+		"verificationCode": "Verification code",
+		"pleaseResetPassword": "Please reset your password.",
+		"connectSocialAccount": "Connecting accounts",
+		"connectSocialExistMnetPlus": "There is a same email registered to Mnet Plus. Connect your social media account for convenient access. (It will be connected to the same membership information.)",
+		"socialAllowEasyLogin": "Linking your Mnet Plus account allows you to log in easily with your social account.",
+		"selectedAccount": "Selected account",
+		"connectedSocial": "Connected accounts",
+		"faceIdSignIn": "Face ID sign in",
+		"touchIdSignIn": "Touch ID sign in",
+		"remainSeats": "Remaining Seats",
+		"iland": {
+			"unpredictable": "${Unpredictable diversity of 'N'}\n${Endless possiblities of 'α'}\nWhere you surpass your limits, break through fear, and discover your true self\n${[I-LAND2 : N/α]}",
+			"revolutionaryCollaboration": "2024, the world's eagerly anticipated next iconic girl group emerges through the revolutionary collaboration.\n\n${Two worlds coexist within I-LAND}\n${'I-LAND'}, a dream space where everything is provided under best conditions,\n${'GROUND'}, a proving ground for trainees striving to enter I-LAND.\nDebut opportunities are exclusively awarded to 'I-LAND' survivors.\n\nI-LAND, the uncharted place\nnow unfolds\na new adventure to find I(N/a)!\n\n${FIND YOUR I}",
+			"groundbreakingBirth": "The birth of a groundbreaking girlgroup,\nproduced by the world-class producer Teddy,\nknown for ${BIGBANG, 2NE1, BLACKPINK}\n\n${Part.2} where the official debut competition begins\nA fierce survival competition between 12 I-LANDERs risking their fate!\n\nWho will achieve ${their dream debut}\nby surviving until the end!\n\nThe final countdown to debut has begun.\n${[I-LAND2 : FINAL COUNTDOWN]}",
+			"iland": "I-LAND 2",
+			"cast": "Cast",
+			"nasuriAndImate": "NaSURI & I-MATE",
+			"nasuri": "NaSURI",
+			"cuteBabyFox": "A cute baby fox born in Metaball",
+			"aboutNasuri": "Metaball is an object with infinite possibilities, capable of become anything.\nInside it contains a variety of unpredictable energies.\n\nThen one day,\nfrom the vast energy of Metaball, an incomplete baby fox named NaSURI is born.\nNaSURI makes a special contract with an unknown entity to become a complete fox.\n\n${\"Help girls who join I-LAND to find 'me'}\n${and become a groundbreaking girl group.\"}\n\nWith about 100 days left, \nNASURI helps girls with various potential to grow...\nWill it succeed in gathering the energy of Metaball and become a full-fledged fox?",
+			"iMate": "I-MATE",
+			"compoundWord": "A compound word combining 'I' from IDOL and 'MATE' meaning friends",
+			"findFavoriteIdol": "It refers to global fans who will find their favorite idol(I) \nand become friends(MATE) with them, sharing the destiny.",
+			"storyteller": "Storyteller",
+			"guideIland": "Guide of I-LAND",
+			"songkang": "Song Kang",
+			"sunghanbin": "SUNG HAN BIN",
+			"aboutSongkang": "The central figure leading the world of I-LAND,\nconveying stories unfolding within I-LAND and connecting the global fans to the applicants.",
+			"producer": "Producer",
+			"executiveProducer": "Executive Producer",
+			"teddy": "TEDDY",
+			"aboutTeddy": "Billboard's 'The Most Outstanding Producer of the 21st Century,'\nutilizing expertise from creating world-class idols BIGBANG, 2NE1, and BLACKPINK,\nwill manage the production of I-LAND applicants to develop them into global stars.",
+			"mainProducer": "Main Producer",
+			"teayang": "TAEYANG",
+			"aboutTeayang": "The main vocal and main dancer of 'BIGBANG'!\nHe assists the applicants by offering technical advices as a legendary all-around artist with global stage experience,\nand providing practical advices based on his long-term experience.",
+			"musicProducer": "Music Producer",
+			"twentyFour": "24",
+			"about24": "As the exclusive producer of THE BLACK LABEL, renowned for its work with BIGBANG, BLACKPINK, and JEON SOMI,\nhe understands the musical abilities of I-LAND 2 applicants better than anyone else.",
+			"profile": "[Profile]",
+			"profile24": "Composed 'Ddu-Du Ddu-Du,' 'Kill This Love,' 'How You Like That,' 'Lovesick Girls,' 'Pink Venom,' Shut Down' by BLACKPINK \n'SOLO' by JENNIE \n'DUMB DUMB,' 'XOXO' by JEON SOMI \n'LAST DANCE,' 'Still Life' by BIGBANG and more.",
+			"vvn": "VVN",
+			"aboutVVN": "THE BLACK LABEL's elite producer from UC Berkeley\nShe will produce for I-LAND 2 applicants, not only in music but also in various other aspects.",
+			"profileVVN": "Composed 'Flower', 'All Eyes On Me' by JISOO \n'Ready For Love', 'Yeah Yeah Yeah' by BLACKPINK\n'Still Life' by BIGBANG \n'Nightfall' by TAEYANG \n'Fxxked Up' by JEON SOMI and more.",
+			"director": "Director",
+			"performanceDirector": "Performance Director",
+			"monika": "MONIKA",
+			"aboutMonika": "The Performance legend! An overwhelmingly charismatic choreographer,\ndevelops applicants' self-producing abilities with a calm, objective gaze.",
+			"profileMonika": "<Street Dance Girls Fighter> Master, <Street Woman Fighter 2> Fight Jersey\nAwarded  Minister of Culture, Sports, and Tourism Commendation at the 14th Korean Popular Culture and Arts Awards in 2023\nCurrently a member of 'Proudman' and 'MOLIP' crews",
+			"leejung": "Leejung Lee",
+			"aboutLeejung": "Choreographer of global K-POP hits,\ncompletes the star quality of the applicants with her ability to read global trends.",
+			"profileLeejung": "Choreographed for 'The GIRLS' by BLACKPINK\n'You&Me' by JENNIE\n'LALISA', 'MONEY' by LISA\n'XOXO', 'Dumb Dumb' by JEON SOMI\n'Alcohol-Free', by TWICE\n'WANNABE' by ITZY",
+			"yearsOld": "%{years} years old",
+			"dateOfBirth": "Date of Birth",
+			"nationality": "Nationality",
+			"preparePeriod": "준비기간",
+			"mbti": "MBTI",
+			"hashtags": "Hashtags",
+			"applicants": "Applicants",
+			"image": "Image",
+			"videos": "Videos",
+			"iland2": "I-LAND 2",
+			"all": "All",
+			"episodeClips": "Episode Clips",
+			"stagePerformances": "Stage Performances",
+			"highlight": "Highlights",
+			"behinds": "Behinds",
+			"teaser": "Trailer/Preview",
+			"trailer": "Trailer",
+			"preview": "Preview",
+			"others": "Others",
+			"byCategory": "Category",
+			"byEpisode": "Episodes",
+			"ep": "Ep.%{episode}",
+			"viewVoteCertificate": "View your Certificate",
+			"viewApplicants": "View applicants",
+			"program": {
+				"title": "I-LAND 2 : N/a"
+			},
+			"modal": {
+				"intro": {
+					"hello": "Hello, I-MATE!",
+					"welcom": "Welcome! NaSURI's friend, I-MATE!\nWelcome to the world of I-LAND💜\n\nJoin NaSURI\nand go on an adventure to find your fave 'I'!\nIt's going to be so much fun, so get excited✨",
+					"nasuri": "ME? NaSURI!",
+					"nasuriCheer": "NaSURI will cheer for your fave 'I' with you!\nYou'll be happy today, tomorrow, and beyond!\n\nIf you're ready to join NaSURI,\nplease press enter💜"
+				}
+			},
+			"onAirTime": "Thu Evening 09:30 (KST)",
+			"mission": "MISSION",
+			"nasuriRoom": "NaSURI's Room",
+			"metaballToSupport": "Please collect Metaballs!",
+			"goCollectMetaball": "Go collect Metaballs",
+			"media": "MEDIA",
+			"producerRoom": "Producer's Room",
+			"findYourI": "FIND YOUR I",
+			"aboutProgram": "About Program",
+			"increaseNasuriHappy": "${Please use Metaballs} to increase NaSURI's happiness",
+			"below50": "Below top 50%",
+			"above50": "Above top 50%",
+			"percent30": "30%",
+			"percent10": "10%",
+			"percent5": "5%",
+			"currentMetaballStatus": "Current Metaball Status",
+			"usedMetaball": "Used Metaballs",
+			"top50": "Top 50%",
+			"topRank": "Top %{rank}%",
+			"bottom50": "Bottom 50%",
+			"loginRequired": "Login required",
+			"nasuriDiary": "NaSURI's Diary",
+			"collectMetaball": "Collect Metaballs",
+			"attendCheck": "Attendance Check",
+			"ads": "Ads",
+			"viewResult": "View Results",
+			"metaball": "%{metaballCount} Metaball",
+			"completeAttend": "Attendance Check Complete!\nEarned ${10 Metaballs}",
+			"searchAds": "Searching for Ads",
+			"completeAds": "Ads Viewed!\n${Earned 5} Metaballs",
+			"accumulatedMetaball": "Accumulated Metaballs",
+			"history": "History",
+			"noMetaballEarned": "No Metaballs earned yet",
+			"collectMetaballMission": "Collect Metaballs through missions!",
+			"noMetaballUsed": "No Metaballs used yet",
+			"whatIsMetaball": "What is Metaball?",
+			"metaballIs": "'Metaball' serves as a key channel, connecting the uncharted space I-LAND with our world, while also representing an energy collection with infinite possibilities\n\nI-MATE can collect hidden Metaballs within Mnet Plus to support applicants during their time in I-LAND.",
+			"howMetaballUsed": "How can Metaballs be used?",
+			"cheerByMetaball": "I-MATE can support the applicants they cheer for by using their Metaballs!",
+			"asManyMetaball": "You can support the applicant with as many Metaballs as you have, without any limits.",
+			"howMetaballCollect": "How to collect Metaballs?",
+			"earnMetaball": "Earn %{metaballCount} Metaballs",
+			"earn20MetaballWithEvent": "Earn up to 20 Metaballs by participating two events",
+			"noCooltime": "You can view ads up to 25 times per day.",
+			"canAdsRestrict": "You must complete watching the ad to earn Metaballs.",
+			"emptyVideoInFilter": "No videos in this filter yet.",
+			"eliminated": "Eliminated",
+			"currentLocation": "Current Location",
+			"supportStatus": "Support Status",
+			"ranking": "Ranking",
+			"locationForRound": "Location for Each Round",
+			"rankingTrand": "Ranking Trend",
+			"supportToI": "Give ${special support}\n${to your 'I'}!",
+			"myMetaball": "My Metaballs",
+			"achieved": "Achieved",
+			"supportCompleted": "Support Completed",
+			"enterMetaballCount": "Enter the number of Metaballs\nto support %{applicantName}.",
+			"currentMetaball": "Current Metaballs",
+			"supportMetaball": "Supporting %{applicantName} with %{metaballCount} Metaballs.",
+			"enterName": "Enter Name",
+			"metaballInsufficient": "Your current Metaball balance is insufficient.",
+			"achiveStatus": "Status",
+			"support1": "1st Support",
+			"support2": "2nd Support",
+			"period": "Support period",
+			"maxPeopleCount": "Max %{peopleCount} applicants",
+			"support3": "3rd Support",
+			"rank": {
+				"st": "%{rank}st",
+				"nd": "%{rank}nd",
+				"rd": "%{rank}rd",
+				"th": "%{rank}th"
+			},
+			"forDays": "For %{period} days",
+			"note": "NOTE",
+			"supportWarn1": "Each support will be awarded upon reaching 100% achievement. If the maximum number of recipients is exceeded, it will be awarded on a first-come, first-served basis, determined by the time of reaching the achievement point.",
+			"supportWarn2": "The number of Metaballs required to achieve support varies for each round, and the Metaballs received by the applicants are not carried over or accumulated for the next round.",
+			"supportWarn3": "The support progress for each applicant is updated once a day, and any additional Metaballs collected beyond the required amount for achievement won't be saved for future rounds.",
+			"supportWarn4": "There is a limit to the support achievement rate for each applicant, which may vary depending on the criteria for each round.",
+			"supportWarn5": "Applicants eliminated in the show will not receive support even if they met the support criteria.",
+			"supportWarn6": "If you participate in the support violating the policy or through improper means, this may result in the Metaballs used being confiscated or revoked.",
+			"supportWarn7": "Support details for each round may be subject to change due to internal circumstances.",
+			"supportedApplicants": "Supported Applicants",
+			"supportEnded": "The %{supportNumber} has ended.",
+			"ing": "In Progress",
+			"failure": "Failed",
+			"ready": "Coming Soon",
+			"adLoading": "Loading Ad",
+			"notSupported": "This feature is not supported in the current version. Please update to the latest version.",
+			"completed": "Completed",
+			"metaballEarned": "Metaball Earned!",
+			"supportApplyAt": "The supported Metaballs\nwill be reflected daily at 12:00 A.M. (KST)."
+		},
+		"recommendedVideo": "Recommended"
+	},
+	"button": {
+		"voteHistory": "Check the vote history",
+		"nightPushSetting": "Night Push Settings",
+		"headerFix": "TOP POST",
+		"termsUpdate": {
+			"checkUpdate": "Review changed terms and conditions"
+		},
+		"pluschat": {
+			"move": "Move"
+		},
+		"ad": {
+			"inquiry": "Ad Inquiry"
+		},
+		"allow": "Allow",
+		"checkPermissionRequest": "Check permission request",
+		"saveImage": "Save Image",
+		"share": "Share",
+		"common": {
+			"off": "Off"
+		},
+		"startWithEmail": "Get started with email",
+		"reset": "Reset",
+		"confirmPassword": "Confirm password",
+		"signup": "Next",
+		"resendEmail": "Resend verification email",
+		"backToLogin": "Back to Sign In",
+		"backToHome": "Back to Home",
+		"connectSocialToMnetPlus": "Connect with Mnet Plus account",
+		"socialSignUp": "Social login",
+		"socialConnect": "Connect",
+		"socialDisconnect": "Disconnect",
+		"viewVoteCertificate": "View your Certificate",
+		"iland": {
+			"oldest": "Oldest",
+			"applicants": "Applicants",
+			"vote": "Vote",
+			"mission": "Mission",
+			"media": "Media",
+			"talk": "Talk",
+			"prev": "Previous",
+			"next": "Next",
+			"join": "Enter",
+			"receive": "Receive",
+			"participate": "Participate",
+			"view": "View",
+			"guide": "Guide",
+			"all": "All",
+			"earned": "Earned",
+			"used": "Used",
+			"viewAds": "View Ads",
+			"joinVote": "Vote",
+			"support": "Support",
+			"marketingEvent": "Events",
+			"doSupport": "Support",
+			"exclusive": "Exclusive",
+			"byApplicant": "By Applicant",
+			"collect": "Collect",
+			"cancel": "Cancel",
+			"confirm": "Confirm"
+		}
+	},
+	"liveChat": {
+		"title": "LIVE CHAT",
+		"placeholder": "Send Message",
+		"cooltime": "Duplicate messages cannot be sent.",
+		"connecting": "Accessing the LIVE CHAT…"
+	},
+	"tooltip": {
+		"liveChat": "Cheer your artist on LIVE CHAT!",
+		"recentLogin": "Recent sign in",
+		"socialLogin": {
+			"title": "How to activate social sign in",
+			"easyLogin": "Connecting your social media account to your Mnet Plus account allows you to sign in easily.",
+			"cannotMultiple": "You cannot connect multiple social media accounts with the same Mnet Plus account."
+		}
+	},
+	"vtogether": {
+		"limit": {
+			"locale": "This video is unavailable in your area."
+		}
+	},
+	"profile": {
+		"logouted": {
+			"greeting": "Hello!",
+			"guide": "Create your account or log in with your E-mail."
+		},
+		"signupButton": "Create Account",
+		"signup": {
+			"title": "Create Account"
+		},
+		"announcementsButton": "Notices",
+		"helpCenterButton": "Help Center",
+		"terms": "Terms of Use",
+		"privacy": "Privacy Policy",
+		"license": "Open Source License",
+		"youth": "Juvenile Protection Policy"
+	},
+	"navigation": {
+		"title": {
+			"signup": "Create Account",
+			"profile": "Profile",
+			"voteCert": "Voting Certificate"
+		}
+	},
+	"setting": {
+		"language": {
+			"title": "Language"
+		},
+		"notification": {
+			"title": "Notifications"
+		},
+		"serviceNotification": {
+			"title": "Service Notification",
+			"serviceNotification": "Service Notification Setting",
+			"announcement": "Service Announcement and Notice Notification"
+		},
+		"communityNotification": {
+			"communityNotification": "Community Notification Setting",
+			"noJoinCommunity": "No joined community",
+			"goToCommunity": "Look around communities",
+			"myFeed": {
+				"title": "My feed notification",
+				"postThread": "When someone left comment/reply",
+				"like": "When someone left like",
+				"artistLike": "When received Artist's 'like'"
+			},
+			"artistFeed": {
+				"title": "Artist feed notification",
+				"writePost": "New post by the Artist",
+				"postThread": "New comment/reply by Artist"
+			},
+			"contents": {
+				"title": "Content notification",
+				"vtogether": "New V-together",
+				"liveEvent": "New live event",
+				"officialPost": "New official content",
+				"vote": "Begin new vote",
+				"plusLive": "Begin Plus Live Broadcasting"
+			},
+			"title": "Community notification",
+			"community": {
+				"announcement": "Community announcement",
+				"pointBox": "Fan Point notification"
+			}
+		},
+		"notificationMethodSetting": {
+			"title": "Select Preferred Notification Type"
+		},
+		"app": {
+			"version": "Version Information"
+		},
+		"screenSetting": {
+			"sectionTitle": "Display",
+			"title": "Community Screen"
+		}
+	},
+	"login": {
+		"email": {
+			"placeholder": "E-mail address"
+		},
+		"password": {
+			"placeholder": "Password"
+		},
+		"signupGuide": "Don't have an account?",
+		"findPasswordGuide": "Forgot your password?",
+		"needLoginTitle": "Please Sign in First.",
+		"selectAccount": "Please select your login account.",
+		"error": {
+			"passwordNotMatch": "Passwords do not match.(%{errorCount}/5)"
+		}
+	},
+	"signup": {
+		"email": {
+			"placeholder": "E-mail address"
+		},
+		"password": {
+			"placeholder": "Password"
+		},
+		"terms": {
+			"service": "I agree to Mnet Plus's Terms of Service and Collection and Use of Personal Information and accept notifications of popular content and promotions.",
+			"notification": "Notifications of popular content and promotions (optional)",
+			"agreeAll": "I agree with all.",
+			"required": {
+				"service": "[Required] Consent to the Terms and Conditions of Service",
+				"privacy": "[Required] Consent to the Collection and Use of Personal Information"
+			},
+			"age": "${[Required]} I am 14 years of age or older."
+		},
+		"confirmPassword": {
+			"placeholder": "Confirm Password"
+		},
+		"code": {
+			"guide": "Click the Send button to send a verification code to your email.",
+			"verification": {
+				"label": "Email verification"
+			},
+			"placeholder": "6-digit code",
+			"sendButton": "Send",
+			"resendButton": "Resend",
+			"sent": "A verification code has been sent to your email.",
+			"sentGuide": "You may edit your email address or receive a new code after 1 minute.",
+			"verifyButton": "Verify",
+			"verifySuccess": "Verification has been completed.",
+			"verifyFail": "The verification code does not match.",
+			"codeSent": "We've sent a verification code to your email.(The code will expire in 60 minutes.) If you have not received it, please check your junk or spam folder."
+		},
+		"loginButton": "Sign in",
+		"loginGuide": "Already have an account?",
+		"complete": {
+			"title": "Welcome to Mnet Plus!",
+			"subtitle": "Global K-POP Culture Platform, Mnet Plus!\nDon't miss out on exclusive content and various voting opportunities!",
+			"toServiceMainButton": "Back to Home"
+		},
+		"birthdate": {
+			"guide": "Please enter your date of birth.",
+			"inputPlaceholder": "Date of Birth"
+		},
+		"gender": {
+			"guide": "Please enter your gender."
+		}
+	},
+	"findPassword": {
+		"email": {
+			"placeholder": "E-mail address"
+		},
+		"title": "Forgot your password?",
+		"code": {
+			"placeholder": "6-digit code"
+		},
+		"subtitle": "1. Enter the email address you used to sign up.\n2. Click the Send button.\n3. Enter the 6-digit code sent to your e-mail and click the Verify button."
+	},
+	"profileEdit": {
+		"information": {
+			"title": "Your Account",
+			"username": "Username",
+			"changeButton": "Change",
+			"changeUsernamePlaceholder": "Change Username"
+		},
+		"security": {
+			"title": "Security",
+			"changePassword": "Change Password",
+			"deleteAccount": "Delete Account"
+		},
+		"notification": {
+			"title": "Notification",
+			"description": "I agree to receive promotional notifications."
+		},
+		"logoutButton": "Log out",
+		"emailSheet": {
+			"description": "The email address you used to sign up cannot be deleted or changed.",
+			"verified": "Verified"
+		},
+		"passwordSheet": {
+			"title": "Change Password",
+			"currentPasswordPlaceholder": "Current Password",
+			"currentPasswordLabel": "Please enter your current password.",
+			"label": "Please enter your new password.",
+			"passwordPlaceholder": "New Password",
+			"passwordConfirmPlaceholder": "Confirm Password",
+			"passwordMatchError": "Passwords do not match."
+		},
+		"deleteAccount": {
+			"deleteButton": "Delete",
+			"warning": {
+				"title": "Delete Account"
+			}
+		}
+	},
+	"error": {
+		"password": {
+			"8to20": "8 to 20 characters",
+			"characterConditions": "Include at least 1 character, number, and special character."
+		},
+		"passwordSameWithPrevious": "You've entered your previous password. Please set a new password for security."
+	},
+	"account": {
+		"delete": {
+			"title": "Delete Account",
+			"phase2": {
+				"subtitle": "Are you sure you want to delete your account?",
+				"body": "If you delete your account:",
+				"bullet1": "You can no longer sign in to Mnet Plus with this account.",
+				"bullet2": "Even if the account is deleted, the comments and the posts you left will not be deleted.",
+				"footnote": "Do you want to continue?",
+				"bullet3": "You can no longer log in to services connected to Mnet Plus with this account."
+			},
+			"phase1": {
+				"subtitle": "Please check before deactivating",
+				"body": "This is an integrated account that is used not only in the Mnet Plus community, but also in Mnet Plus service, services provided by CJ ENM, and external services that have partnered with Mnet Plus.\n\nIf the Account is deactivated, all information which includes the account information and service usage history will be deleted.\n\nAfter deactivating your membership, you will no longer be able to sign in to Account, therefore, all connected services including Mnet Plus services will become unavailable.",
+				"footnote": "Data and service records of a deactivated account cannot be restored. Please be sure of your decision."
+			},
+			"connectedService": {
+				"warning": "Deactivating account will make the following services unavailable and the deleted data cannot be restored.",
+				"confirmList": "I confirm the list of services that are no longer available for use.",
+				"confirmDelete": "The above service records and personal information data cannot be restored."
+			}
+		},
+		"dormant": {
+			"notify": {
+				"subtitle": "Welcome back, dear member!",
+				"desc1": "Your account became dormant because the service has not been used for a long time.",
+				"date": "Dormant conversion date: %{year}-%{month}-%{date}",
+				"desc2": "Click the [Reactivate] button and verify through email to use our services again.",
+				"activate": "Reactivate",
+				"title": "Inactive Account Notice"
+			},
+			"activate": {
+				"title": "Reactivate Inactive Account",
+				"desc1": "1. Click the Send button.",
+				"desc2": "2. Enter the 6-digit code sent to your e-mail and click the Verify button."
+			},
+			"activated": {
+				"common": "You've reactivated your account.",
+				"passwordReset": "Your account has been reactivated by resetting your password."
+			}
+		}
+	},
+	"deleteAccount": {
+		"password": {
+			"placeholder": "Password"
+		}
+	},
+	"sighup": {
+		"birthdate": {
+			"warning": {
+				"age": "Sorry, you do not meet the age requirement of Mnet Plus."
+			}
+		}
+	},
+	"connectedService": {
+		"manage": "Manage Connected Services",
+		"title": "Connected Services",
+		"empty": "There is no connected service.",
+		"connectedDate": "Linked on %{connectedAt}",
+		"disconnect": "Disconnect",
+		"presentedLive": {
+			"guide": {
+				"deleteData": "Link to Mnet Plus will be disconnected and all user data will be deleted."
+			},
+			"ask": {
+				"disconnect": "Disconnect the link between this service and Integrated account?"
+			},
+			"warn": {
+				"subscribe": "If you have a paid subscription to this service, please make a request for a refund before the deletion of data.\nA refund may not be made after deleting the membership."
+			}
+		},
+		"disconnectAndDelete": "Disconnect and delete data",
+		"ask": {
+			"delete": "Are you sure to delete all data?",
+			"delete2": "Are you sure to delete all data of %{serviceName}?"
+		},
+		"plustalk": {
+			"warn": {
+				"disconnect": "Your account will be disconnected from Mnet Plus, all usage records from Plus Chat will be deleted, and you will not be able to log in to the service.",
+				"subscribe": "Before disconnecting your account, check the products you are subscribing to."
+			},
+			"guide": {
+				"reconnect": "(To reuse the Plus Chat service, please log in to Plus Chat and agree to use/connect.)",
+				"subscribe": {
+					"unsubscribe": "Apart from the cancellation of the integrated account, cancellation and refund of the subscription are possible through the app store for each os.",
+					"subscribeRight": "If you cancel the integrated account connection, the subscription you are currently using will not be available. (Even if you log in with the same account, no previous subscription data remains.)",
+					"empty": "No Products Under Subscription"
+				}
+			}
+		}
+	},
+	"title": {
+		"signup": {
+			"terms": "Please ${highlight.terms.bold} below to use the ${highlight.mnet.tint} service."
+		},
+		"terms": {
+			"update": {
+				"privacy": {
+					"rivision": "Revision of the Mnet Plus Privacy Policy"
+				}
+			}
+		}
+	},
+	"highlight": {
+		"mnet": {
+			"tint": "Mnet Plus"
+		},
+		"terms": {
+			"bold": "Accept the Terms and Conditions"
+		},
+		"privacy": "the personal information processing policy and use",
+		"additionalItems": "additional items"
+	},
+	"gender": {
+		"female": "Female",
+		"male": "Male",
+		"unknown": "Prefer not to answer",
+		"gender": "Gender"
+	},
+	"ask": {
+		"terms": {
+			"update": {
+				"privacy": {
+					"agree": "Do you agree to ${privacy} as above?"
+				}
+			}
+		},
+		"preference": {
+			"tellMe": "Please share your preferences."
+		},
+		"emailReceive": "Haven't received the email?",
+		"signUpWithSocial": "If you do not have an account to connect, would you like to create an account?"
+	},
+	"form": {
+		"terms": {
+			"update": {
+				"privacy": {
+					"birthdate": "1. Please enter the date of birth. (Required)",
+					"gender": "2. Please enter your gender. (Required)"
+				}
+			}
+		},
+		"error": {
+			"email": "Please re-enter your email address."
+		}
+	},
+	"preference": {
+		"preference1": "Types of K-pop artists1",
+		"preference2": "Types of K-pop artists2",
+		"genre": "Genre",
+		"mood": "Mood",
+		"content1": "Types of content1",
+		"content2": "Types of content2",
+		"content3": "Types of content3",
+		"keyword": "Preference"
+	},
+	"fanPoint": {
+		"pointBox": {
+			"balance": "%{allPoint} points you have",
+			"title": {
+				"join": "You've got a new member Fan Point.",
+				"checkIn": "You've got a day-%{checkInDays} new member Fan Point.",
+				"gratitude": "You got the community thanks point!",
+				"activity": "Community Fan Point from %{day}/%{month}",
+				"default": "You have received the Fan Point."
+			},
+			"body": {
+				"join": "Welcome to %{communityName} community which you’ll find full of joy! Please take new member point(s) to add more joy to your time with us.",
+				"checkIn": "Enjoy together! Check your day-%{checkInDays} new member point.",
+				"gratitude": "Thanks to %{nickname}’s support and interest, the community has grown! Please continue to show us your support!",
+				"activity": "You’ve got a new community point in your Point Box from %{day}/%{month} posts and comments.",
+				"default": "The Fan Point is provided."
+			},
+			"point": "%{amount} points"
+		}
+	},
+	"fanpoint": {
+		"pointbox": {
+			"marketing": {
+				"hashtag": {
+					"title": "Congratulations! You won the hashtag event!",
+					"body": "Congratulation on winning the Fan Point event!"
+				},
+				"event": {
+					"title": "Congratulations! You got the event point!",
+					"body": "Congratulation on winning the Fan Point event!"
+				}
+			}
+		},
+		"ranking": {
+			"period": "* The ranking is based on activities over the past 30 days."
+		}
+	},
+	"chatPoll": {
+		"untilClose": "Remaining poll ending time",
+		"submit": "You chose %{count} option(s). Are you ready to submit your poll?",
+		"completed": "Poll is completed.",
+		"completed2": "Thank you for your participation",
+		"button": {
+			"submit": "Submit"
+		}
+	},
+	"poll": {
+		"alreadyvoted": "This poll was already submitted."
+	},
+	"notifications": {
+		"join": {
+			"reward": {
+				"fanpoint": "You've got a day-%{days} new member Fan Point. Please check the Point Box!"
+			}
+		},
+		"point": {
+			"reward": {
+				"fanpoint": "You have gifts in Point Box. Please check the Point Box!"
+			},
+			"expr": {
+				"alarm": "There is Fan Point that remains 7 days for the term of validity."
+			},
+			"tx": {
+				"in": "You've earned Fan Point.",
+				"out": "Fan Point has been used."
+			}
+		},
+		"artist": {
+			"writePost": "%{artistName} uploaded a post.",
+			"writeComment": "%{artistName} left a comment.",
+			"likePost": "%{artistName} likes my post.",
+			"likeComment": "%{artistName} likes my comment.",
+			"likeReply": "%{artistName} likes my reply."
+		},
+		"feedback": {
+			"post": "%{authorName} commented on my post.",
+			"comment": "%{authorName} replied to my comment."
+		},
+		"like": {
+			"post": {
+				"single": "%{authorName} likes my post.",
+				"sum": "%{authorName} and %{count} other users like my post."
+			},
+			"comment": {
+				"sum": "%{authorName} and %{count} other users like my comment.",
+				"single": "%{authorName} likes my comment."
+			},
+			"reply": {
+				"single": "%{authorName} likes my reply.",
+				"sum": "%{authorName} and %{count} other users like my reply."
+			}
+		},
+		"new": {
+			"vtogether": "V-together ON",
+			"liveevent": "Live Event ON",
+			"officialpost": "New Official Content",
+			"vote": "Voting has begun",
+			"event": "New Event"
+		},
+		"service": {
+			"announcement": "Announcement"
+		},
+		"community": {
+			"announcement": "Community notification"
+		}
+	},
+	"date": {
+		"today": "Today",
+		"yesterday": "Yesterday"
+	},
+	"notification": {
+		"empty": {
+			"common": "There are no notifications registered."
+		}
+	},
+	"notificaitons": {
+		"point": {
+			"expr": {
+				"alarm": "There is Fan Point that remains 7 days for the term of validity."
+			}
+		}
+	},
+	"urgentModal": {
+		"dontShow": "Don't show for today",
+		"close": "Close"
+	},
+	"footer": {
+		"contactUs": "Advertising Inquiry",
+		"ceo": "CEO : Yoon Sang Hyun",
+		"address": "Address : (03926) CJ E&M CENTER 66, Sangam-ro, Mapo-gu, Seoul",
+		"buisnessRegistrationNumber": "Business Registration No. : 106-81-51510",
+		"personalInformationManager": "Personal Information Manager : Kim Ji Won",
+		"representativeNumber": "Representative number : 1644-2525",
+		"hostingServiceProvider": "Hosting Service Provider : STAYGE Labs, Inc."
+	},
+	"artist": {
+		"profile": {
+			"likeImage": "Like Image",
+			"background": "Background Image"
+		},
+		"feed": {
+			"post": "Posts",
+			"comment": "Comments",
+			"like": "Likes"
+		},
+		"floating": {
+			"button": {
+				"title": "The one and only shop for global K-POP fandoms"
+			}
+		}
+	},
+	"sheet": {
+		"screenSetting": {
+			"title": "Community Screen Settings",
+			"subtitle": "Applies to all communities."
+		}
+	},
+	"screenSetting": {
+		"dark": "Dark Mode",
+		"light": "Light Mode",
+		"system": "Device Settings"
+	},
+	"msg:content": {
+		"forbidden": {
+			"word": "The message contains forbidden words. <%{forbiddenWords}>"
+		}
+	},
+	"userBlock": {
+		"buttonTitle": "Block",
+		"chat": {
+			"user": {
+				"alert": "Are you sure you want to block %{userName}? Blocking will hide all messages from the user in the chat room.",
+				"result": "You've just blocked the user."
+			},
+			"content": {
+				"alert": "Do you wish to report this chat and the user?",
+				"alreadyReported": "You already reported the chat."
+			}
+		},
+		"user": {
+			"blocked": {
+				"comment": "This is the user's comment that I blocked.",
+				"post": "This is the user's Post that I blocked.",
+				"user": "Blocked User"
+			},
+			"invincibleUser": "Service operators and artists cannot be blocked.",
+			"unblock": {
+				"buttonTitle": "Unblock",
+				"alert": "Unblocking will allow the Community to see all Posts and Comments by this user."
+			},
+			"alert": "Would you like to block this user?"
+		},
+		"admin": {
+			"block": {
+				"user": "Block User"
+			},
+			"guide": {
+				"block": {
+					"user": "When blocking a user, unblocking is only possible on the admin page.",
+					"success": "Blocking is completed.",
+					"blockedUser": "Account already blocked by your communiry."
+				}
+			}
+		}
+	},
+	"newTerms": {
+		"body": {
+			"footnote": "If you wish to delete your account, you can proceed by clicking this ${link}, and press the 'Delete Account' button.",
+			"content": "The amended Mnet Plus Privacy Policy is effective from %{effectiveDate}. The Mnet Plus service is available after agreeing to the collection and the use of the required personal information by clicking the \"Yes, I agree\" button."
+		},
+		"alert": {
+			"disagree": "If you do not wish to agree, the service will not be available and you will be automatically logged out."
+		},
+		"title": "Please agree to the new Privacy Policy!"
+	},
+	"marketing": {
+		"title": {
+			"privacy": "[Optional] Consent to the Collection and Use of Personal Information for (Service-Related) Advertising Purposes",
+			"section": "Marketing Communications",
+			"menu": "Consent to receive marketing messages"
+		},
+		"body": {
+			"disconsented": "Agreement to decline the marketing information is completed.",
+			"consented": "Agreement to receive the marketing information is completed."
+		}
+	},
+	"section": {
+		"title": {
+			"point": "Point",
+			"pocExclusive": "Exclusive Content"
+		}
+	},
+	"menu": {
+		"title": {
+			"pointManage": "Points History",
+			"fanPoint": "Fan Point",
+			"pointHistory": "The details of Fan Point",
+			"pointGuide": "Fan Point guide"
+		}
+	},
+	"likes": {
+		"empty": {
+			"common": "There are no contents liked."
+		}
+	},
+	"announcement": {
+		"empty": {
+			"common": "There are no announcements registered."
+		}
+	},
+	"tab": {
+		"label": {
+			"home": "Home",
+			"community": "Communities",
+			"notification": "Notifications",
+			"my": "Profile",
+			"artist": "Artists",
+			"mnet": "Mnet",
+			"concert": "Concerts"
+		}
+	},
+	"exitADModal": {
+		"exit": "Are you sure you want to exit?"
+	},
+	"dsec": {
+		"account": {
+			"changeAfter30days": "Change after 30 days"
+		},
+		"enterMnetPlusAccount": "Please enter the Mnet Plus account information to connect your social media account.",
+		"iland": {
+			"tapToCheckApplicant": "Tap on [Applicants] and [Media]\nto check the profiles of 24 applicants\nand their Performance Video clips.",
+			"modal": {
+				"intro": {
+					"nasuriCute": "I forgot to introduce myself!\n\nNaSURI is a cute baby fox \nborn from the special energy of Metaball!\nI fulfill the dreams of I-LANDERs \nand bring everyone the energy of luck🎁",
+					"joinMe": "Join Me, I-MATE!"
+				}
+			}
+		}
+	},
+	"offlineVote": {
+		"guide": {
+			"title": "Please enter the voting code you received\nat KCON HONG KONG 2024 on-site.\n\nYou can participate in the  \n${Worldwide KCONers' Choice} voting \nafter checking the voting code.",
+			"note": {
+				"title": "[NOTE]",
+				"body1": "1. Please enter the voting code you received \nat KCON HONG KONG 2024.",
+				"body2": "2. The voting code is issued on a one-person-one-ticket basis, and cannot be reissued if lost.",
+				"body3": "3. Entering the voting code through illegitimate means, without attending KCON HONG KONG 2024 on-site in person, may result in disadvantages.",
+				"body4": "4. Please type code in case-sensitive."
+			},
+			"winnerCriteria": {
+				"title": "[Winner selection criteria]",
+				"body": "KCON On-Site audience Voting 70% +  Post-Voting 30%\n (Details on Post-Voting will be announced later)"
+			},
+			"voteNote": {
+				"body": "1. You can vote once per device.\n2. Votes cannot be modified after submission.\n3. Voting conducted in an abnormal method \nwill not be recognized as a valid vote."
+			},
+			"instructions": "Voting Instructions"
+		},
+		"code": {
+			"period": {
+				"title": "Voting Code Entry Period",
+				"period": "Mar 30, 10:00 - Apr 7, 23:59 (KST)"
+			}
+		},
+		"vote": {
+			"period": {
+				"title": "Voting Period",
+				"period": "Apr 1, 18:00 - Apr 7, 23:59 (KST)"
+			},
+			"title": "Worldwide KCONers’ Choice\nKCON On-Site audience Voting",
+			"subtitle": "Please vote for the aritst who gave\nthe most iconic scene at KCON HONG KONG 2024."
+		},
+		"doEnterCode": "Enter the voting code",
+		"enterCode": "Enter the voting code",
+		"alert": {
+			"codeEntered": "Voting code confirmed",
+			"voteOpenAt": "Voting opens on %{date}"
+		},
+		"placeholder": {
+			"code": "Enter code"
+		}
+	},
+	"purchase": {
+		"payment": {
+			"method": "Payment Method",
+			"status": "Payment Status",
+			"details": "Payment Details",
+			"date": "Payment Date"
+		},
+		"order": {
+			"total": "Order Total"
+		},
+		"information": "*Please note that this product takes effect immediately upon purchase, and no refunds are available.",
+		"btn": {
+			"ticket": {
+				"page": "Go to ticket page"
+			}
+		}
+	},
+	"program": {
+		"mcountdown": "MCOUNTDOWN",
+		"iland2": "I-LAND2"
+	},
+	"formError": {
+		"email": {
+			"empty": "Please enter your email address.",
+			"format": "Please enter as 'example@email.com'"
+		},
+		"password": {
+			"length": "8~20 characters",
+			"character": "1 or more characters",
+			"number": "1 or more numbers",
+			"specialCharacter": "1 or more special characters (including`~!@#$%^&*|'\";:/?\\-,%_\")"
+		}
+	},
+	"tootip": {
+		"socialLogin": {
+			"disconnect": "Disconnecting simply disables the social sign in function, so you can still sign in with your Mnet Plus account."
+		}
+	},
+	"name": {
+		"google": "Google",
+		"apple": "Apple",
+		"kakao": "Kakao",
+		"line": "LINE"
+	},
+	"mama": {
+		"superfan": {
+			"intro": {
+				"desc1": "Special fans with the voting rights to select nominees for the MAMA AWARDS Fans' Choice",
+				"desc2": "MAMA SUPER FAN ID Card issuance benefits",
+				"desc3": "Raffle for invitations to Mnet's global K-POP events for one year",
+				"subDesc": "* Event details may change without notice based on the organizer's circumstances.",
+				"visit": "Entering the SUPER FAN  Gallery"
+			},
+			"hub": {
+				"applicant": {
+					"button": "Apply for SUPER FAN"
+				},
+				"section1": {
+					"title": "MAMA SUPER FAN Community",
+					"subTitle": "Become a SUPER FAN! \nSelect the MAMA AWARDS \nFans' Choice nominees!",
+					"text3": "슈퍼팬 1차 투표가 시작되었습니다.",
+					"text2": "VOTE",
+					"button": "슈퍼팬 1차 투표"
+				},
+				"section2": {
+					"title": "What is a MAMA SUPER FAN?",
+					"subTitle": "Everything About\nMAMA SUPER FAN",
+					"text3": "나의 아티스트를 응원해 주세요!",
+					"button": "바로가기"
+				}
+			},
+			"gallery": {
+				"title": "SUPER FAN Gallery",
+				"ranking": "Artist TOP 20",
+				"reset": "Updated daily at midnight (KST)",
+				"info": "By liking posts tagged with the artist's hashtag, you can boost their ranking!",
+				"pick": "Mnet Plus Pick",
+				"empty": {
+					"title": "No posts have been made yet",
+					"subTitle": "Try writing a post on your feed!"
+				},
+				"posting": {
+					"guide": {
+						"title": "Guide",
+						"desc": "Upload a picture that can prove you are a K-POP SUPER FAN. \nAny photo related to K-POP is welcome!",
+						"example": "Ex) Official fanclub picture, Vote prove screen shot, Album or goods picture, Concert review, Streaming screen shot, etc."
+					},
+					"notice": {
+						"title": "Notice",
+						"desc1": "Please refrain from profanity and/or swear words or other communication that offend others.",
+						"desc2": "If content uploaded is against the policy, it may be modified/deleted without prior notice."
+					}
+				},
+				"header": "MAMA Gallery",
+				"buzz": "Today's Buzz",
+				"modal": {
+					"desc": "Are you counting down the days until the \n2024 MAMA AWARDS? \nMAMA Gallery will be your MAMA Talk Hot Thread!\n\nFeed with global fans about K-POP, including the 2024 MAMA AWARDS and Artists!"
+				}
+			},
+			"applicant": {
+				"title": "SUPER FAN Applicant",
+				"empty": {
+					"title": "No applicant status information yet",
+					"subTitle": "Apply for SUPER FAN!"
+				},
+				"ranking": "SUPER FAN Rankings",
+				"status": "Applicant Status",
+				"currentTop": "SUPER FAN TOP 10",
+				"reset": "Updated daily at 00:00 (KST) based on cumulative rankings",
+				"info": "The more likes posts get and the higher I rank as a superfan, the better chances of winning superfan rewards!"
+			},
+			"profile": {
+				"empty": {
+					"comment": {
+						"title": "No comments yet",
+						"subTitle": "Leave a comment on the post!"
+					},
+					"like": {
+						"title": "No posts liked yet",
+						"subTitle": "Give a like to the post!"
+					}
+				},
+				"allPost": "Activity Summary",
+				"post": "Post",
+				"comment": "Comment",
+				"like": "Like",
+				"notApl": "Become a SUPER FAN and select the MAMA AWARDS Fans' Choice nominees!",
+				"count": {
+					"attendance": "Attendance count",
+					"feed": "Feed upload count",
+					"comment": "Comment count",
+					"like": "Likes received"
+				},
+				"artist": {
+					"desc": "Select the artist you support.",
+					"button": "Select an artist",
+					"select": "The selected artists cannot be changed."
+				},
+				"idCard": {
+					"button": "MAMA SUPER FAN ID CARD",
+					"user": "User name",
+					"serial": "Serial number"
+				}
+			},
+			"ranking": {
+				"empty": {
+					"title": "No ranking information available yet",
+					"subTitle": "Start your SUPER FAN activities now!"
+				}
+			},
+			"filter": {
+				"recent": "Most Recent",
+				"oldest": "Oldest",
+				"liked": "Most Liked"
+			},
+			"chracter": {
+				"select": "Please choose your character for the SUPER FAN journey"
+			},
+			"next": "Next",
+			"previous": "Previous",
+			"apl": {
+				"artist": {
+					"title": "Who is your favorite artist?",
+					"desc": "You can only select one artist(s)",
+					"input": {
+						"desc": "Artists entered manually may not be reflected in the ranking.",
+						"title": "Enter",
+						"placeholder": "Please enter in the format ‘#Artist Name’.",
+						"forbidden": "The text contains prohibited words. Please enter it again."
+					}
+				},
+				"why": {
+					"title": "Please leave a self-introduction and greeting.",
+					"desc": "This will be visible to all users"
+				},
+				"personal": {
+					"title": "Please enter your personal information",
+					"desc1": "This information is for review purposes and will remain confidential.",
+					"desc2": "Inaccurate information may limit your eligibility for SUPER FAN selection.",
+					"name": {
+						"title": "Name*",
+						"placeholder": "Please enter your name"
+					},
+					"gender": {
+						"title": "Gender*",
+						"placeholder": "Please select your gender"
+					},
+					"birth": {
+						"title": "Year of Birth*",
+						"placeholder": "Please select your birth year"
+					},
+					"region": {
+						"title": "Region*",
+						"placeholder": "Please select your region"
+					},
+					"agree": "(Required) Consent to use of Personal Information"
+				},
+				"preview": {
+					"button": "Preview",
+					"desc1": "Submitted information cannot be edited or deleted.",
+					"desc2": "Final submission after watching the ad."
+				},
+				"submit": "Submit",
+				"complete": {
+					"title": "SUPER FAN application is complete.",
+					"subTitle": "Support my artist in the SUPER FAN Gallery.\nStart now!"
+				},
+				"completeButton": "Create SUPER FAN Gallery",
+				"edit": {
+					"button": "Select"
+				}
+			},
+			"vote": {
+				"artist": {
+					"male": "Male Artists",
+					"female": "Female Artists"
+				},
+				"sellected": "Selected Nominees",
+				"nomination": "Nomination",
+				"submit": {
+					"txt": "Nominee Submission",
+					"constraint": "For submitting Fans' Choice nominees, you must select 5 male and 5 female artists each.",
+					"confirm": "Selections cannot be changed after submission. Do you want to submit your choices now?"
+				},
+				"cheer": "Only MAMA SUPER FAN can participate in the selection of Fans’ Choice nominees.\nCheer together with global fans in MAMA Gallery.",
+				"notice": {
+					"title": "[Notice for Selecting Nominees]",
+					"desc": "· Select 5 male and 5 female teams each and submit—one selection per person only.\n· No changes allowed after nominee submission.\n· Do not capture and leak this list.",
+					"period": "Submission Period: 24. 09. 16 00:00 ~ 24. 09. 23 23:59 (KST)"
+				},
+				"placeholder": {
+					"male": "Search Male Artists",
+					"female": "Search Female Artists"
+				},
+				"already": {
+					"used": {
+						"device": "You have already completed the nominee selection."
+					}
+				}
+			},
+			"history": "SUPER FAN History",
+			"title": "SUPER FAN"
+		},
+		"go": {
+			"to": {
+				"gallery": "Go to MAMA Gallery"
+			}
+		},
+		"media": {
+			"header": "MAMA Clip",
+			"post": {
+				"empty": "No Videos Available Yet."
+			},
+			"category": {
+				"all": "ALL",
+				"exclusive": "Exclusive",
+				"live": "LIVE",
+				"highlight": "HIGHLIGHT",
+				"teaser": "Teaser",
+				"behind": "Behind",
+				"shorts": "Shorts",
+				"fancam": "Fancam",
+				"stagecam": "STAGE",
+				"etc": "etc."
+			}
+		},
+		"vote": {
+			"participate": "Participate in Voting",
+			"share": {
+				"certificate": "Share the Voting Certificate"
+			},
+			"fans": {
+				"choice": {
+					"1st": "Vote for the Fans' Choice 1st Round"
+				}
+			},
+			"earn": {
+				"awards": "Vote Daily & Earn Rewards"
+			},
+			"enjoy": {
+				"awards": "Enjoy the 2024 MAMA AWARDS"
+			},
+			"with": {
+				"visa": "Voting with VISA and the 2024 MAMA"
+			},
+			"total": {
+				"votes": "Total Votes",
+				"count2": "votes",
+				"count": "%{totalCount} votes"
+			},
+			"completed": {
+				"btn": "Voting Completed",
+				"today": "You have completed today's vote!"
+			},
+			"description": "Fans' Choice Award is given to the team that received the most support from K-pop fans around the world this year.",
+			"day": {
+				"n": "Day %{day} of Voting"
+			},
+			"fave": {
+				"today": "Please vote for your fave today."
+			},
+			"male": {
+				"artist": "Male Artist"
+			},
+			"female": {
+				"artist": "Female Artist"
+			},
+			"sort": {
+				"votes": "Order by Votes",
+				"alphabetical": "Alphabetical Order by Name"
+			},
+			"update": {
+				"time": "Updated at %{time}."
+			},
+			"btn": "Vote",
+			"check": {
+				"before": "Make sure to check the following when voting!",
+				"save": "Vote for your selected artist again",
+				"personalinfo": {
+					"title": "Consent for the Collection and Use of Personal Information for 2024 MAMA AWARDS Voting Participation.",
+					"description": "As for personal information, the data subject has the right to refuse the collection and use of personal information. However, if you refuse to provide personal information, participation in the 2024 MAMA AWARDS voting will not be possible.",
+					"content1": "Collection/Usage Items: Mobile Phone Device ID",
+					"content2": "Purpose of Collection/Usage: Check validation of 2024 MAMA AWARDS Votes",
+					"content3": "Retention Period: Deleted within 30 days from the end of the voting period."
+				}
+			},
+			"once": {
+				"per": {
+					"person": "Only 1 vote per ID per day is allowed."
+				}
+			},
+			"select": {
+				"maximum": {
+					"count": "In one vote, you can select a minimum of 1 team and a maximum of %{maximum} teams for male and female artists each."
+				},
+				"duplicate": {
+					"not": {
+						"allowed": "(Duplicate votes for the same artist are not allowed.)"
+					}
+				}
+			},
+			"submit": {
+				"check": {
+					"notice": "After final submission, you must check the voting completion notice to finalize your vote.",
+					"abnormal": "(Votes cast through abnormal methods or access will not be recognized as valid.)"
+				}
+			},
+			"toast": {
+				"maximum": "You can select up to %{maximum} teams."
+			},
+			"alert": {
+				"leave": "Your selected artists will not be saved. Do you still want to leave?"
+			},
+			"confirm": {
+				"cancel": "Re-select"
+			},
+			"notice": {
+				"cannot": {
+					"changed": "Once the vote is submitted, the results cannot be changed."
+				},
+				"ad": {
+					"complete": "You must watch the entire ad to complete your vote."
+				},
+				"save": {
+					"submit": "Your selected artists will be saved only after the vote submission is completed."
+				}
+			},
+			"final": {
+				"submit": "Final Submission"
+			},
+			"view": {
+				"certificate": "View Voting Certificate"
+			},
+			"last": {
+				"update": "Last Update"
+			},
+			"left": {
+				"time": "Time left until %{voteTitle} ends",
+				"time2": "Until the %{voteTitle} ends"
+			},
+			"already": {
+				"voted": {
+					"today": "You've already voted today. Join the gallery activities or collect MAMA Points!"
+				}
+			},
+			"todays": {
+				"title": "Today's Vote",
+				"subtitle": "Don't forget to complete today's remaining votes!",
+				"next": {
+					"vote": {
+						"timer": "Go to the next voting screen in %{n} seconds."
+					}
+				},
+				"btn": "Go Vote"
+			},
+			"result": {
+				"now": "Real-time Voting Status"
+			},
+			"information": {
+				"multi": "You can vote for one nominee from each gender category (men and women) per vote.",
+				"single": "You can vote for one nominee per vote."
+			},
+			"hub": {
+				"desc": "Awarded to the artist who received the most love this year"
+			},
+			"after": {
+				"time": "You can vote after %{time}!"
+			},
+			"end": {
+				"time": "Until voting ends"
+			},
+			"complete": {
+				"btn": "Completed",
+				"btn2": "Selection Complete"
+			},
+			"point": {
+				"popup": {
+					"desc": "Unreleased exclusive content from MAMA is waiting for you.\nStart collecting MAMA Points now!"
+				}
+			},
+			"nominees": {
+				"artist": "Nominees"
+			},
+			"abnormal": {
+				"detected": "Final count based on Mnet Plus and X votes.\n(excluding abnormal votes)"
+			}
+		},
+		"points": {
+			"title": "MAMA Points",
+			"collect": "Collect MAMA Points and Join Event",
+			"earned": "You have earned %{points} MAMA Points."
+		},
+		"point": {
+			"entry": {
+				"done": {
+					"media": {
+						"title": "MAMA Clip",
+						"subTitle": "Check out MAMA's Spectacular Moments!",
+						"button": "View MAMA Content"
+					},
+					"title": "Your entry has been completed!",
+					"subTitle": "Winners will be notified individually via email.",
+					"desc": "You can change notification settings anytime in Profile → Marketing Notification Settings.",
+					"giftCard": "Photos Are My Jam For the Best Shot Expert",
+					"buds3Pro": "Music Is My Life For the Music-Person Stan",
+					"s24Ultra": "Light-Hearted Fun For the Casual Stan",
+					"title2": "Waiting for 2024 MAMA AWARDS"
+				},
+				"banner": {
+					"title": "K-pop merch entries are open!",
+					"subTitle": "October 26th ~ October 31st (KST)"
+				},
+				"button": "Enter Now",
+				"item": {
+					"pre1": "Light-Hearted Fun 😎",
+					"pre2": "Music Is My Life 🎹",
+					"pre3": "Photos Are My Jam 📸",
+					"post": "For Stans"
+				},
+				"desc1": "* Prizes will be randomly drawn, and winners will be notified individually.",
+				"desc2": "* Once submitted, you cannot change your prize.",
+				"title": "Enter for your dream K-POP merch!",
+				"subTitle": "Entry Period: October 26, 2024 ~ October 31, 2024 (KST)",
+				"alert": {
+					"title": "The entry will start on October 26th (KST).",
+					"body": "In the meantime, collect MAMA points to increase your chances of winning!",
+					"title2": "Only participants who collected points during 1st Round Voting can apply.",
+					"body2": "Please participate the new event starting from November 1st , 2024 (KST)!"
+				},
+				"more": {
+					"title": "Consent to Collect/Use Personal Information for the 2024 MAMA AWARDS Points Event",
+					"body1": "Collection/Use Items : Mnet Plus email, username, MAMA Points earned, activity records for earning MAMA Points, items entered in event",
+					"body2": "Purpose of Collection/Use : Notification of event winnings and prize delivery",
+					"body3": "Retention Period : Deleted within 30 days after the event ends",
+					"body4": "[Personal Information Outsourcing]",
+					"body5": "Recipient of Personal Information: Communique Co., Ltd.",
+					"body6": "Purpose of Outsourcing: Notification of event winnings and prize delivery",
+					"body7": "Retention·Use Period: Deleted within 30 days after the event ends.",
+					"desc": "* Individuals providing personal information may refuse consent for the collection and use of their information. In this case, participation in the event may be restricted."
+				},
+				"confirm": {
+					"btn": "Receive notifications"
+				}
+			},
+			"header": {
+				"title": "MAMA Points",
+				"info": "Information",
+				"eventInfo": "Event Notice"
+			},
+			"intro": {
+				"subTitle": "How to Enjoy the 2024 MAMA AWARDS in Advance",
+				"title": "Collect MAMA Points"
+			},
+			"my": {
+				"title": "My MAMA Points"
+			},
+			"banner": {
+				"subTitle": "The more you collect, the higher your chances of winning K-pop merch!",
+				"title": "MAMA Points Event",
+				"button": "Learn more"
+			},
+			"list": {
+				"title": "Collect MAMA Points",
+				"point": "%{N} MAMA Points",
+				"vote": {
+					"need": "Vote is needed"
+				}
+			},
+			"history": {
+				"title": "History"
+			},
+			"info": {
+				"title": "How do I earn MAMA Points?",
+				"point": "%{N} MAMA Points Obtainable",
+				"ad": "You must complete watching ads to earn points.",
+				"vote": "You must complete the Fans' Choice vote submission to earn points.",
+				"visaVote": "You must complete the Visa Fans' Choice vote submission to earn points.",
+				"share": "You can earn points by sharing on various social media platforms.",
+				"post": "You can earn points by posting in the MAMA Gallery\n(Limited to once per day)"
+			},
+			"event": {
+				"title": "How to Join",
+				"subTitle": "Please note that the period for collecting MAMA Points and the event entry period are different. Be sure to check the event period dates below.",
+				"share": "Share the Event",
+				"desc": "* If you do not enter for K-pop merch during the entry period after collecting MAMA Points, your participation will not be recognized. Be sure to enter for your desired K-pop merch during the event entry period.",
+				"entry": {
+					"title": "Don't miss the entry period and winning announcement🎁",
+					"desc": "By agreeing to receive marketing information, you'll get the latest updates on events and the 2024 MAMA AWARDS.",
+					"agree": "Consent to Receive Marketing Information"
+				}
+			},
+			"event1": {
+				"title": "Collect MAMA Points",
+				"subTitle": "October 14, 2024 ~ October 25, 2024 (KST)",
+				"desc": "Complete daily missions,\nand Collect MAMA Points",
+				"button": "Collect MAMA Points"
+			},
+			"event2": {
+				"title": "Enter for K-pop merch",
+				"subTitle": "October 26, 2024 ~ October 31, 2024 (KST)",
+				"desc": "Choose your desired item and enter\nduring the entry period"
+			},
+			"support": {
+				"top": "TOP %{N}%",
+				"point": "%{N} P"
+			},
+			"toast": {
+				"reward": "You have earned %{N} MAMA Points."
+			},
+			"vote": {
+				"finish": "Voting Closed"
+			},
+			"item": {
+				"vote": "Vote",
+				"share": "Share"
+			}
+		},
+		"point2": {
+			"title": "MAMA Points Round 2",
+			"banner": {
+				"title": "Current Points Status",
+				"current0": "Ready to get started?",
+				"current10": "Starting is half the battle!",
+				"current20": "Just a little more effort!",
+				"current30": "You're doing great!",
+				"current40": "All right! You're doing well!",
+				"current50": "Absolutely amazing!",
+				"current60": "Just a little effort!",
+				"current70": "Exciting! Not much left",
+				"current80": "Wow! Impressive!",
+				"current90": "Exclusive content is coming soon!",
+				"attain": "Progress",
+				"finish": {
+					"title": "100% MAMA Points Achieved!",
+					"desc": "Unreleased exclusive content that vividly captures the MAMA scene will be released soon. Please wait just a little longer!",
+					"button": "Go watch unreleased content at MAMA"
+				},
+				"login": "Log in to collect MAMA Points,\nand enjoy unreleased exclusive content!"
+			},
+			"info": {
+				"title": "MAMA Points 2nd Event",
+				"desc": "MAMA's unreleased exclusive content is waiting for you📺\nStart collecting MAMA Points now!",
+				"period": "Points Collection Period : Nov 1, 2024 ~ To be announced later"
+			}
+		},
+		"kconers": {
+			"title": "Worldwide KCONers' Choice",
+			"online": "Online Voting",
+			"subtitle": "Please select the artist who showcased the most iconic performance at KCON!",
+			"desciption": "Watch the TOP 10 performance videos from the KCON on-site voting held in each region in 2024, and choose the artist who showcased the most iconic stage at KCON this year.\n\nThe final winner will be determined by combining the on-site voting from KCON audiences in each region with online votes.",
+			"notice1": {
+				"title": "1. Nominee Selection Criteria"
+			},
+			"notice2": {
+				"title": "2. Winner Selection Criteria",
+				"description1": "70% KCON on-site votes + 30% online votes\n(The final winner will be determined by the combined total of on-site and online votes.)"
+			},
+			"notice3": {
+				"title": "3. Notes",
+				"description1": "Votes submitted through abnormal methods will be excluded from the final count.",
+				"description2": "Only one vote per device, per ID is allowed."
+			},
+			"alert": {
+				"title": "Once submitted, this cannot be modified. Do you want to submit your currently selected artist?"
+			}
+		},
+		"kcoenrs": {
+			"notice1": {
+				"description1": "The TOP 10 Artists selected by live audience votes from the 2024 KCON Line-up\n\n- KCON HONG KONG 2024 (Mar 30 - Mar 31)\n- KCON JAPAN 2024 (May 10 - May 12)\n- KCON LA 2024 (July 26 - 28)\n- KCON GERMANY 2024 (Sep 28 - Sep 29)"
+			}
+		},
+		"hub": {
+			"event": {
+				"section": {
+					"title": "Vote daily and enjoy the event"
+				}
+			}
+		}
+	},
+	"stf": {
+		"desc": {
+			"intro": "In Stage Fighter, public voting for stage assessments\nare conducted in the form of seat booking.\n\nOut of the 4 classes of seats VIP / R / S / A,\nin which area would you watch the stage?\n\nSelect your preferred seat to vote.",
+			"voteTicketing": "Vote-Ticketing",
+			"stageWillBe": "Stages will be evaluated based on your seating class\nBook vote-tickets for the stage, now",
+			"tapTheSeat": "Tap the seating zone to book your seat.",
+			"seatPoint": "%{seatName}: %{point} points",
+			"noSeatLimit": "No seat limit",
+			"noLimit": "No limit",
+			"dancerAssessment": "Dancer Assessment",
+			"voteYourMVP": "Pick the dancer who rocked the stage",
+			"canVoteOneDancer": "You can only vote for one dancer."
+		},
+		"button": {
+			"voteNow": "VOTE NOW",
+			"seatTicketing": "Vote-Ticketing for Seat Classes",
+			"title": "Next Synopsis",
+			"last": {
+				"title": "Vote"
+			}
+		},
+		"voteGuide": {
+			"title": "[Stage Voting Notice]",
+			"item1": "In Stage Fighter, public voting for stage assessments is conducted in the form of seat booking.",
+			"item2": "Out of the 4 classes of seats VIP / R / S / A, vote for your preferred seat of which you would watch the stage."
+		},
+		"alert": {
+			"voteFor": "Vote for %{castName} in %{seatName} seat?"
+		},
+		"intro": {
+			"content1": "In a lavish celebration of dukes and nobles,\na rebellion is ignited by the loyal servants in a quest to climb up the social class. As the nobles fight to preserve and the butlers to take, the class warfare escalates into a catastrophe.",
+			"content2": "Children of the top 0.1% of elite families work tirelessly to enter a prestigious university in the pressure of\ntheir parents’ high expectations. Yet, the children decide to run from the torturous competition and find their true selves.",
+			"content3": "In a survival game to obtain the ultimate power through dance, dancers are confused as they come to realize that they are partners intertwined by dance. To unite or to fight? What choices will the dancers make?",
+			"content4": "While an imprisoned man is yearning for an escape\nfor his unexplained confinement, his revenge seeking captor continues to force oppression to destroy him to his deepest soul. What faith awaits him in his struggle for freedom?"
+		},
+		"gnb": {
+			"synopsis": "Synopsis"
+		}
+	},
+	"poc": {
+		"gnb": {
+			"support": "Support",
+			"programInfo": "About Program",
+			"mission": "MISSION",
+			"pointHistory": "MISSION",
+			"guide": "Guide",
+			"history": "History",
+			"applicantList": "Artist",
+			"information": "About Program"
+		},
+		"casts": "Casts",
+		"point": {
+			"remain": "Retained %{pointName}",
+			"totalUsed": "Used %{pointName}"
+		},
+		"pointHistory": {
+			"all": "All",
+			"income": "Earned",
+			"used": "Used",
+			"emptyIncome": "You don't have any %{pointName} yet.",
+			"emptyUsed": "There are no used %{pointName}."
+		},
+		"support": {
+			"achieved": "Achieved Round %{round} Support",
+			"closed": "서포트 종료",
+			"allClosed": "모든 서포트가 종료되었습니다",
+			"thanksToSupport": "그동안 서포트에 참여해주셔서 감사합니다",
+			"openSoon": "Support will start soon.\nPlease wait a moment!",
+			"search": "Search",
+			"dialog": {
+				"inputPoint": "Enter the number of %{pointName} to be supported for [%{applicantName}]",
+				"pointBalance": "Your Current %{pointName}"
+			},
+			"progressAchieved": "%{progress} Achieved"
+		},
+		"desc": {
+			"searchingAd": "Searching for Ads",
+			"noSearchResult": "No results found."
+		},
+		"alert": {
+			"mission": {
+				"dailyComplete": {
+					"title": "Attendance Check Complete!\nEarned [%{reward} %{pointName}].",
+					"body": "%{today} Attendance Complete"
+				},
+				"adComplete": {
+					"title": "Complete to watch ad!\n[%{reward} %{pointName}] is collected.",
+					"body": "Number of Remaining Ads %{achieveCount}/%{maxRewardCount}"
+				}
+			},
+			"supportTo": "You support [%{amount} %{pointName}] for [%{applicantName}]",
+			"supportDone": {
+				"title": "Support is completed",
+				"body": "The Support for %{pointName} will be reflected daily at midnight (KST)."
+			},
+			"supportFail": {
+				"balance": "You do not have enough %{pointName}."
+			},
+			"pointToAccess": "You need to collect and support over %{minPoint} %{pointName} to enter."
+		},
+		"button": {
+			"support": "Support",
+			"collectPoint": "Collect %{pointName}"
+		}
+	},
+	"mple": {
+		"point": {
+			"name": "MplePoints",
+			"tooltip": {
+				"title": "Free MplePoints!"
+			},
+			"accumulation": "Earn MplePoints",
+			"history": "Usage History"
+		}
+	},
+	"badge": {
+		"iland": {
+			"onAir": "ON-AIR"
+		}
+	},
+	"speech": {
+		"nasuri": {
+			"beenWaiting": "I've been waiting",
+			"justBeginning": "It's just the beginning"
+		}
+	}
+}

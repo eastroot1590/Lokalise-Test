@@ -1,0 +1,2736 @@
+{
+	"home": {
+		"now": {
+			"title": "Now"
+		},
+		"feed": {
+			"title": "Feed",
+			"trending": "トレンド",
+			"recent": "新着順",
+			"popular": "人気順"
+		},
+		"section": {
+			"tab": {
+				"recommend": "おすすめ",
+				"hot": "人気"
+			}
+		}
+	},
+	"community": {
+		"listModal": {
+			"title": "ホームへ",
+			"allCommunities": "全コミュニティ",
+			"myCommunities": "自分のコミュニティ"
+		},
+		"officialTag": "公式",
+		"joinButton": "Join",
+		"official": {
+			"seeAllButton": "すべて表示"
+		},
+		"writeButton": "%{communityName}コミュニティに新しい投稿作成",
+		"createProfile": {
+			"title": "新しいプロフィール作成",
+			"inputPlaceholder": "ニックネーム",
+			"joinButton": "Go Go!"
+		},
+		"userBio": {
+			"inputPlaceholder": "ユーザー紹介文"
+		},
+		"joinedButton": "Joined",
+		"editProfile": {
+			"title": "プロフィール編集",
+			"changeImage": "プロフィール画像変更",
+			"selectPhoto": "アルバムから選択",
+			"useDefaultImage": "デフォルト画像を使用"
+		},
+		"profile": {
+			"myPostsTitle": "自分の投稿",
+			"myCommentsTitle": "自分のコメント",
+			"announcementsTitle": "お知らせ",
+			"pointBoxTitle": "ポイントボックス",
+			"missionTitle": "ミッション"
+		},
+		"announcement": {
+			"title": "お知らせ"
+		},
+		"postingSheet": {
+			"newPost": "新しい投稿",
+			"editPost": "投稿を修正",
+			"postButton": "登録",
+			"cancelButton": "キャンセル",
+			"writePost": "投稿する",
+			"placeholder": "投稿してください"
+		},
+		"mission": {
+			"title": "Mission",
+			"process": {
+				"description": "Process",
+				"status": {
+					"scheduled": "予定",
+					"inProgress": "進行中",
+					"finished": "終了"
+				},
+				"countdown": {
+					"untilEnd": "プロセス終了まで",
+					"untilNext": "次のプロセスまで"
+				}
+			},
+			"checkMissionButton": "ミッションを確認",
+			"task": {
+				"notReady": "ただいま準備中です。\nどんなプロセスかお楽しみに！"
+			},
+			"status": {
+				"notDone": "不参加",
+				"done": "参加完了"
+			},
+			"label": {
+				"order": "ミッション%{order}"
+			}
+		},
+		"main": {
+			"tab": {
+				"main": "メイン",
+				"feed": "フィード"
+			}
+		},
+		"artist": {
+			"profile": {
+				"label": "プロフィール",
+				"birth": "誕生日",
+				"debut": "デビュー",
+				"group": "グループ",
+				"agency": "所属事務所"
+			}
+		}
+	},
+	"common": {
+		"more": "もっと見る",
+		"copyLink": "Copy URL",
+		"enter": "入場する",
+		"ok": "OK",
+		"cancel": "キャンセル",
+		"close": "閉じる",
+		"confirm": "OK",
+		"login": "ログイン",
+		"save": "保存",
+		"next": "次へ",
+		"precautions": "<留意事項>",
+		"agreeTerms": "全体に同意する",
+		"agreeAll": "全体に同意する",
+		"readMore": "Read More",
+		"linkOpen": "link",
+		"link": "link",
+		"long": {
+			"agree": "Yes, I agree.",
+			"disagree": "No, I don't agree."
+		},
+		"processDate": "登録日: %{processDate}",
+		"whole": "全体",
+		"earning": "積立",
+		"exhaustion": "消化",
+		"termOfValidity": "有効期限",
+		"label": {
+			"advertisement": "Ad"
+		},
+		"tab": {
+			"alphabetical": "Alphabetical",
+			"recent": "Recent"
+		},
+		"filter": {
+			"oldest": "古い順",
+			"most": {
+				"recent": "新着順",
+				"popular": "いいね順"
+			}
+		},
+		"video": {
+			"counts": "%{count} video(s)"
+		},
+		"agree": "同意",
+		"disconnect": "解除",
+		"ad": {
+			"failed": {
+				"title": "広告探し失敗",
+				"description": "広告探しに失敗しました。\n再度お試しください。広告探しの失敗が続いたらお問い合わせセンターまでご連絡ください。",
+				"retry": "再度試し"
+			}
+		},
+		"vote": {
+			"perVote": "回 ごと",
+			"remainVoteCount": "残った投票回数%{canVoteCount}回",
+			"pointVoteLack": "投票回数またはマイポイントが足りないです",
+			"castEachArtist": "*入力された投票回数で各アーティストに投票されます。",
+			"usedPoint": "使用されたMpleポイント",
+			"remainPoint": "残ったMpleポイント",
+			"doneAll": "すべての投票を完了しました!",
+			"pointFloatingButton": "Mple ポイントを集めた後投票できます!"
+		},
+		"maximum": "最大",
+		"myPoint": "私のMpleポイント",
+		"voteCert": {
+			"multiCert": "%{voteWeight}回投票認定証"
+		},
+		"earn": "ためる"
+	},
+	"toast": {
+		"linkCopied": "LINK COPIED.",
+		"saved": "保存されました",
+		"voteCert": {
+			"saved": "証明書が保存されました。"
+		},
+		"codeCopied": "CODE COPIED.",
+		"resetPassword": {
+			"success": "パスワードの再設定が完了しました。ログインされました。"
+		},
+		"faceId": {
+			"connected": "顔認証によるログイン設定を完了しました。",
+			"disconnected": "顔認証にによるログイン連携が解除されました。"
+		},
+		"touchId": {
+			"connected": "指紋認証によるログイン設定が完了しました。",
+			"disconnected": "指紋認証によるログイン連携が解除されました。"
+		}
+	},
+	"alert": {
+		"community": {
+			"list": {
+				"all": "すべて表示"
+			},
+			"createProfile": {
+				"joinSuccess": "おめでとうございます！%{communityName}コミュニティに参加しました。"
+			},
+			"leaveConfirm": "%{communityName} コミュニティを退会しますか？",
+			"leaveComplete": "%{communityName} コミュニティを退会しました。",
+			"editProfile": {
+				"success": "ニックネームを変更しました。"
+			},
+			"postingSheet": {
+				"imageCountExceeded": "画像は10枚までアップロードできます。"
+			},
+			"join": {
+				"already": "すでに加入しているコミュニティです。"
+			}
+		},
+		"needLogin": "ログインが必要です。ログインしますか？",
+		"popup": {
+			"login": {
+				"label": "ログイン"
+			},
+			"join": {
+				"label": "加入"
+			},
+			"community": {
+				"username": {
+					"inuse": "既に使用されているニックネームです。"
+				}
+			},
+			"post": {
+				"report": {
+					"confirm": "この投稿とユーザーを通報しますか？",
+					"done": "投稿とユーザーを通報しました。"
+				},
+				"delete": {
+					"confirm": "この投稿を削除しますか？",
+					"done": "投稿を削除しました。"
+				}
+			},
+			"comment": {
+				"report": {
+					"confirm": "このコメントとユーザーを通報しますか？"
+				},
+				"delete": {
+					"confirm": "このコメントを削除しますか？"
+				}
+			},
+			"confirm": {
+				"writing": {
+					"cancel": "作成中の内容が消えます。続けますか？"
+				}
+			},
+			"vote": {
+				"need": {
+					"join1": "投票しますか。",
+					"join2": "のコミュニティに参加してください。"
+				},
+				"abuse": {
+					"warn": "不正な投票が検出されました。これ以上投票を繰り返す場合、投票が制限されます。",
+					"block": "不正な投票が確認されたため、サービスが制限されました。",
+					"device": "投票運営政策によりサービスが制限されました。"
+				}
+			},
+			"alert": {
+				"ok": {
+					"label": "OK"
+				}
+			},
+			"signup": {
+				"abuse": {
+					"warn": "異常な会員登録の試行が検出されました。続行すると、登録が制限されることがあります。",
+					"block": "異常な会員登録の試行が検出されたため、登録が制限されました。お問い合わせまでご連絡ください。"
+				},
+				"invalidcode": "認証コードが一致しないか、または有効期限が切れています。"
+			},
+			"invalid": {
+				"email": "無効なメールアドレスです。"
+			}
+		},
+		"needMembership": "%{communityName}コミュニティ参加後に利用できます。参加しますか？",
+		"communityprofile": {
+			"username": {
+				"invalid": "ニックネームは2～16文字で入力してください。特殊文字/絵文字は使用できません。"
+			}
+		},
+		"post": {
+			"already": {
+				"reported": "すでに通報した投稿です。"
+			},
+			"deleted": "存在しない記事です。",
+			"share": {
+				"copied": "コピーしました。"
+			},
+			"report": {
+				"confirm": "この投稿を報告しますか？",
+				"success": "通報が処理されました。"
+			},
+			"delete": {
+				"confirm": "この投稿を削除しますか？",
+				"success": "削除されました。"
+			}
+		},
+		"comment": {
+			"report": {
+				"success": "コメントとユーザーを通報しました。",
+				"confirm": "のコメント/返信を削除しますか？"
+			},
+			"already": {
+				"reported": "すでに通報したコメントです。"
+			},
+			"delete": {
+				"success": "コメントを削除しました。",
+				"confirm": "このコメント/返信を通報しますか？"
+			},
+			"filter": {
+				"popular": "人気順",
+				"recent": "新着順"
+			},
+			"read": {
+				"more": "さらに表示"
+			},
+			"needTwoLetters": "コメントする際は、2文字以上入力してください。",
+			"sameCharacters": "同じ文字を繰り返し入力することはできません。",
+			"noText": "文字が入力されていません。最小文字数を入力してください。",
+			"needFiveLetters": "入力文字数が足りません。5文字以上入力してください。",
+			"timeLimitApplied": [
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"次のコメント/返信をするまで「30秒」の時間制限が適用されます。",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"次のコメント/返信をするまで「45秒」の時間制限が適用されます。",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"次のコメント/返信をするまで「60秒」の時間制限が適用されます。",
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				null,
+				"次のコメント/返信をするまで「75秒」の時間制限が適用されます。"
+			],
+			"exceededMaxNumber": "コメント数の上限を超えました。"
+		},
+		"reply": {
+			"report": {
+				"confirm": "このリプライとユーザーを通報しますか？",
+				"success": "リプライとユーザーを通報しました。"
+			},
+			"already": {
+				"reported": "すでに通報したリプライです。"
+			},
+			"delete": {
+				"confirm": "このリプライを削除しますか？",
+				"success": "リプライを削除しました。"
+			},
+			"reply": {
+				"block": "リプライに別のリプライを追加することはできません。"
+			}
+		},
+		"imageMaxGif": "GIFは1つだけアップロードできます。",
+		"imageMaxSize": "10MB以下の画像のみアップロードできます。",
+		"imageViewer": {
+			"saved": "保存成功！"
+		},
+		"vote": {
+			"needPreviousStep": "待ってください！前のステップの投票を先に行ってください。",
+			"optionNotSelected": "%{optionChoiceNumber}個のオプションをお選びください。",
+			"groupOptionNotSelected": "ステップごとに%{optionChoiceNumber}つのオプションを選択してください。",
+			"optionSelectExceeded": "オプションは最大%{optionChoiceNumber}個まで選択できます。",
+			"option": {
+				"choice": {
+					"confirm": "最大%{optionChoiceNumber}個まで選択できる投票です。このまま投票しますか？"
+				}
+			},
+			"voteConfirmMessage": "投票しますか？",
+			"needLogin": "ログイン後、投票できます。",
+			"needMembership": "投票しますか。のコミュニティに参加してください。",
+			"voteSuccess": "投票完了！",
+			"closed": "投票期間が終了しました。",
+			"notOpened": "投票開始前です。",
+			"notopened": "投票開始前です。",
+			"geoBlocked": "現在の国では投票できません。",
+			"captcha": {
+				"invalid": "有効期限が満了しました。最初から投票を行ってください。"
+			},
+			"advertisement": {
+				"cta": "go to the Advertiser's website"
+			},
+			"restrict": "投票権限がありません。 詳細については、そのコミュニティでご確認ください",
+			"app": {
+				"only": "この投票はMnet Plusアプリから参加できます。"
+			},
+			"needAppUpdate": "投票を続けるため、アプリを最新バージョンにアップデートしてください。",
+			"user": {
+				"abnormal": "有効でないアカウントとみなされ、投票に参加できません。"
+			},
+			"alreadyvoted": "すでに提出を完了しました。",
+			"blance": {
+				"not": {
+					"enough": "お持ちのファンポイントが不足しています。"
+				}
+			},
+			"exhausted": {
+				"vote": "追加投票数を超過したため、ご投票いただけません。"
+			},
+			"certificate": {
+				"notfound": "申し訳ございません。ページが見つかりません。"
+			},
+			"right": {
+				"code": {
+					"already": "既に使われているコードです。",
+					"wrong": "間違った認証コードです。"
+				},
+				"did": {
+					"already": "すでにコードを入力したデバイスです"
+				},
+				"user": {
+					"already": "でにコードを入力したアカウントです。"
+				}
+			},
+			"firstcome": {
+				"exhausted": "Tickets are sold out.\r\nPlease try again."
+			}
+		},
+		"liveChat": {
+			"needLogin": "*コミュニティ名*コミュニティに参加するとチャットができます。"
+		},
+		"login": {
+			"email": {
+				"not": {
+					"exist": "登録されていないメールアドレスです。ご確認の上、再度ご入力ください。"
+				}
+			},
+			"password": {
+				"not": {
+					"match": "パスワードが一致しません。"
+				}
+			},
+			"passwordNotMatch": {
+				"title": "5回以上ログインに失敗しました。",
+				"content": "メール認証後、パスワードを再設定しますか？"
+			}
+		},
+		"account": {
+			"information": "アカウント情報",
+			"username": {
+				"invalid": "ユーザー名は2～16文字で入力してください。特殊文字/絵文字は使用できません。"
+			},
+			"password": {
+				"not": {
+					"match": "パスワードが一致しません。"
+				},
+				"inuse": "現在のパスワードと同じパスワードは使用できません。別のパスワードを入力してください。"
+			},
+			"current": {
+				"password": {
+					"not": {
+						"match": "現在のパスワードが一致しません。"
+					}
+				}
+			},
+			"old": {
+				"password": {
+					"match": "以前使用したパスワードは使用できません。別のパスワードを入力してください。"
+				}
+			},
+			"forgotPassword": {
+				"snsOnlyUser": "SNSの連携で登録された会員はパスワードの変更ができません。登録したSNSより変更してください。"
+			},
+			"email": {
+				"check": {
+					"snsOnlyUser": "すでにSNSで登録されているメールアドレスです。SNSでログインしてください。",
+					"snsOnlyUser-google": "Mnet Plusに簡単登録されている同じEメールがあります。Googleを選択し、再度ログインをお試しください。",
+					"snsOnlyUser-apple": "Mnet Plusに簡単登録されている同じEメールがあります。Appleを選択し、再度ログインをお試しください。",
+					"snsOnlyUser-kakao": "Mnet Plusに簡単登録されている同じEメールがあります。Kakaoを選択し、再度ログインをお試しください。",
+					"snsOnlyUser-line": "Mnet Plusに簡単登録されている同じEメールがあります。LINEを選択し、再度ログインをお試しください。"
+				}
+			},
+			"login": {
+				"withdrawnEmail": "Mnet Plusから脱退したメールです。 別のアカウントにつないでください。"
+			}
+		},
+		"signup": {
+			"duplicatedEmail": "すでに使用中のメールアドレスです。ご確認の上、再度ご入力ください。",
+			"authcode": {
+				"not": {
+					"match": "認証コードが一致しないか、または有効期限が切れています。"
+				}
+			},
+			"captcha": {
+				"invalid": "CAPTCHA有効期限が過ぎました。最初から会員登録を行ってください。"
+			}
+		},
+		"temporary": {
+			"email": {
+				"is": {
+					"not": {
+						"exist": "メールアドレスが有効ではありません。ご確認の上、再度入力してください。"
+					}
+				},
+				"not": {
+					"allow": "メールアドレスが有効ではありません。ご確認の上、再度入力してください。"
+				}
+			}
+		},
+		"authCodeSent": {
+			"title": "メールに認証コードを送信しました。",
+			"body": "有効期限は60分です。メールが届かない場合は、迷惑メールフォルダをご確認ください。"
+		},
+		"email": {
+			"already": {
+				"inuse": "すでに使用中のメールアドレスです。ご確認の上、再度入力してください。",
+				"requested": "１分後、再送可能です。"
+			},
+			"deleted-user": {
+				"rejoin": "削除されアカウント情報です。一定期間中は同じメールアドレスで登録できません。"
+			}
+		},
+		"profileEdit": {
+			"usernameChanged": "ユーザー名を変更しました。",
+			"profileImageChanged": "プロフィール画像を変更しました。",
+			"profileImageUploadFailed": "画像をアップロードできませんでした。以下をご確認ください。\n - 推奨画像解像度：240*240\n - 10MB未満の画像のみアップロード可能\n - JPG/PNGファイルアップロード可能\n - GIFファイルアップロード不可",
+			"passwordSheet": {
+				"success": "パスワードが変更されました。"
+			},
+			"deleteAccount": {
+				"confirm": "本当にアカウントを削除しますか？"
+			}
+		},
+		"error": {
+			"page": "申し訳ございません。ページが見つかりません。",
+			"common": "エラーが発生しました。"
+		},
+		"terms": {
+			"omni": {
+				"agreeSuccess": "エムネットプラスCJオムニ統合プロモーション同意処理が完了しました。",
+				"disagreeSucess": "MnetプラスCJオムニ統合プロモーション利用同意の取り消しが完了した。"
+			}
+		},
+		"poll": {
+			"max": {
+				"limit": "最大${max}まで選択できます。"
+			}
+		},
+		"invalidAccess": "無効なアクセスです。",
+		"invalidApp": "Shut down the App due to abnormal execution.",
+		"write": {
+			"image": {
+				"single": "アップロードできる画像は1つだけです。"
+			},
+			"exitWarning": "今まで書いた内容は全て削除されます。続けますか？"
+		},
+		"captcha": {
+			"invalid": "無効なキャプチャです。"
+		},
+		"photoAccess": "デバイスの設定に移動し, 写真へのアクセスを許可してください。",
+		"forceUpdate": "新しいバージョンのアプリケーションがリリースされました。 アップデートするためにストアに移動します。",
+		"system": {
+			"bad": {
+				"request": "無効なリクエストです。"
+			},
+			"lowBattery": "低電力モードを解除して参加してください。"
+		},
+		"update": {
+			"lastest": {
+				"version": "現在のバージョンではサポートされていない機能です。最新バージョンのアプリにアップデートしてください。"
+			}
+		},
+		"deletedOriginalComment": "オリジナルのコメントが見つかりませんでした。",
+		"unavailable": {
+			"community": {
+				"service": "読み取り専用のコミュニティです。"
+			},
+			"support": "この参加者はサポートできません。"
+		},
+		"user": {
+			"blocked": {
+				"feed": {
+					"service": "このアカウントは、サービスの使用が制限されています, カスタマーサービスまでご連絡ください。"
+				}
+			}
+		},
+		"block": {
+			"success": "ブロックされました。"
+		},
+		"headerFix": {
+			"autoRelease": "After checking the TOP POST (fixed), the prevvious fixed post will be automatically released at registration."
+		},
+		"artist": {
+			"write": {
+				"title": "完了してよろしいですか？",
+				"body": "この投稿はすぐにファンに公開されます。"
+			}
+		},
+		"title": {
+			"freeChargeSuccess": "ファンポイントが付与されました！ファンポイント実績をご確認ください。",
+			"freeChargeExhausted": "1日の視聴数制限を超過しました。",
+			"freeChargeCooldown": "無料チャージは、3時間ごとにご利用いただけます。",
+			"adExhausted": "用意された動画広告がすべてなくなりました。 24時間後にまた参加してみてください！",
+			"additionalVote": "既にご投票いただきました。\nファンポイントを使い、追加でご投票されますか？",
+			"lackPointBalance": "お持ちのファンポイントが不足しています。",
+			"additionalVoteExhausted": "追加投票数を超過したため、ご投票いただけません。"
+		},
+		"body": {
+			"freeChargeSuccess": "* ご視聴を途中で中断した場合、補償が支給されません。補償の支給は、状況により遅延する可能性があります。",
+			"freeChargeExhausted": "* 動画の視聴数制限は、1日最大3回までとなります。視聴数は、毎日午前0時にリセットされます。",
+			"freeChargeCooldown": "* 毎日午前0時以降は、すぐにご利用いただけます。"
+		},
+		"comp": {
+			"point": {
+				"remaining": "リセットまでの残り時間 :",
+				"recentTime": "最近の視聴時間 :"
+			},
+			"vote": {
+				"additionalVote": "* 残りの追加投票数 :"
+			},
+			"pointGuide": "ファンポイントのチャージの仕方をお知らせします。"
+		},
+		"cannotTranslate": "それは翻訳できない言語だ。",
+		" not support language": "それは翻訳できない言語だ。",
+		" no text": "それは翻訳できない言語だ。",
+		"content": {
+			"forbidden": {
+				"nick": "使用が制限されたニックネームです。"
+			}
+		},
+		"order": {
+			"exclusiveProductAlreadyPurchased": "すでに商品を購入しています。",
+			"soldOut": "チケットは全て売り切れました。"
+		},
+		"excessivePasswordError": "パスワードエラーの回数が超過しました。パスワードを再設定してください。",
+		"invalidEmailByPolicy": "運営政策に従って、登録が制限されたメールアドレスです。",
+		"restrictedEmail": "このメールアドレスは運営ポリシーによって、登録が制限されています。",
+		"socialLogin": {
+			"errorOccurred": "一時的なエラーが発生しました。Mnet Plusのメールアドレスでご利用ください。"
+		},
+		"socialConnect": {
+			"emailNotExist": "Mnet Plusに登録されたメールアドレスではありません。簡単登録を行ってください。"
+		},
+		"sns": {
+			"oauth": {
+				"link": {
+					"hasOtherLinkedSns": "このアカウントはすでに連携されています。他のアカウントを入力するか、簡単登録を行ってください。",
+					"alreadyConnected": {
+						"easySignUpNotAllow": "すでに他のSNSチャンネルとつながっているアカウントです。\n接続されているSNSチャンネルまたはエムネットプラスのメールログインをご利用ください。"
+					}
+				},
+				"noEmailUseAnother": "メールアドレス情報がないため簡単登録できません。\nメールアドレス情報がある他のSNSで登録されるか、Mnet Plusで登録お願いします。",
+				"emailNotProvided": "Mnet Plusの簡単加入のために「Eメール情報」が必要です。 提供許容後、ご利用ください。"
+			}
+		},
+		"socialConnected": "Mnet Plusアカウントと連携されました。",
+		"socialDisconnect": {
+			"title": "連携を解除しますか？",
+			"body": "解除すると、SNSアカウントによる簡単ログインのみ削除されます。\n既存のMnet Plusの情報は削除（退会）されません。"
+		},
+		"socialDisconnected": "Mnet Plusアカウントとの連携が解除されました。",
+		"loginWithMnetPlus": "Mnet PlusのIDでログインしてください。",
+		"noFaceId": "携帯電話に登録された生体認証情報（顔・顔認証）がありません。\n設定後、再度ご利用ください。",
+		"accessBiometrics": "携帯電話に登録された生体認証情報（顔・指紋）でログインを接続します。",
+		"disconnectFaceId": "顔認証によるログイン連携を解除しますか？",
+		"noTouchId": "携帯電話に登録された生体認証情報（顔・指紋）がありません。\n設定後、再度ご利用ください。",
+		"disconnectTouchId": "指紋認証によるログイン連携を解除しますか？",
+		"voteAbuse": "異常な操作が確認されました。繰り返す場合、利用が制限されることがあります。",
+		"mama": {
+			"superfan": {
+				"applicant": {
+					"alreadyExistingUser": "重複応募はできません。\nスーパーファンギャラリーで積極的に活動しましょう！"
+				}
+			}
+		},
+		"stf": {
+			"vote": {
+				"voteSuccess": "Vote Ticketing Complete"
+			}
+		},
+		"iland": {
+			"metaballInsufficient": "お持ちのメタボールの数が足りません",
+			"cannotSupport": "サポートは毎日00:00~23:50(KST)に\n参加できます。"
+		}
+	},
+	"mcountdown": {
+		"onAirDate": "放送日"
+	},
+	"promotion": {
+		"event": {
+			"begin": "イベントが開始されました。"
+		}
+	},
+	"post": {
+		"report": "通報",
+		"edit": "修正",
+		"delete": "削除",
+		"like": "高評価",
+		"share": "共有する",
+		"empty": {
+			"common": "登録された投稿がありません。",
+			"users": "作成した投稿がありません。"
+		}
+	},
+	"comment": {
+		"filter": {
+			"popular": "人気順",
+			"recent": "新着順"
+		},
+		"writeButton": "コメントする",
+		"edit": {
+			"title": "コメントを修正"
+		},
+		"write": {
+			"placeholder": "コメントしてみますか？",
+			"addImageButton": "画像添付"
+		},
+		"title": "コメント",
+		"readMore": "さらに表示",
+		"editButton": "修正",
+		"deleteButton": "削除",
+		"status": {
+			"hidden": "不適切な内容が含まれている可能性があるため、非表示になっ てい ます。"
+		},
+		"delete": {
+			"user": "作成者が削除したコメントです。"
+		},
+		"empty": {
+			"users": "作成したコメントがありません。",
+			"common": "登録されたコメントがありません。"
+		}
+	},
+	"reply": {
+		"write": {
+			"title": "リプライ",
+			"placeholder": "いいコメントには気持ちのこもったリプライを！"
+		},
+		"writeButton": "Reply to",
+		"edit": {
+			"title": "リプライを修正"
+		},
+		"seeOriginalContent": "原文を見る"
+	},
+	"imageViewer": {
+		"title": "画像"
+	},
+	"vote": {
+		"information": {
+			"tab": "ご案内",
+			"title": "投票情報",
+			"createDate": "作成日",
+			"period": "投票期間",
+			"optionChoiceNumber": "合計%{optionChoiceNumber}個選択",
+			"optionChoiceNumberFlex": "合計%{optionChoiceNumber}個まで選択可能",
+			"dailyLimit": "1日 %{limitCount}回 投票可能",
+			"periodLimit": "期間内に計%{limitCount}回 投票可能",
+			"policyDaily": "1日1回 投票可能",
+			"policyOnce": "1回のみ投票可能",
+			"liveVote": "放送中のリアルタイム投票"
+		},
+		"vote": {
+			"tab": "投票",
+			"title": "VOTE NOW",
+			"voted": "投票を完了しました。"
+		},
+		"result": {
+			"tab": "結果",
+			"title": "結果",
+			"totalVotes": "合計投票数",
+			"totalVoteCount": "%{totalVotes}票",
+			"releaseDate": "投票結果は%{year}年%{month}月%{day}日 %{hour}:%{minute}に発表されます。",
+			"hidden": {
+				"descriptionTitle": "投票結果は追って公開されます。",
+				"descriptionSubtitle": "詳細は[ご案内]タブをご参照ください"
+			}
+		},
+		"voteButton": {
+			"vote": "投票する",
+			"seeResult": "投票結果を見る",
+			"closed": "締め切られた投票です。"
+		},
+		"confirmSheet": {
+			"voteButton": "投票する"
+		},
+		"invalidApp": "正しくない投票行為が確認されたため、投票に参加できません。",
+		"installedCloneApp": "投票を行うためには、次のアプリを削除してください。"
+	},
+	"desc": {
+		"content": {
+			"vote": {
+				"mayDisplayAds": "投票の際、動画広告が表示されることがあります。  \n動画を最後まで視聴すると投票が完了します。"
+			},
+			"badge": {
+				"onAir": "放送中",
+				"voting": "投票中",
+				"upcoming": "放送予定",
+				"replay": "番組動画"
+			}
+		},
+		"voteHistory": "投票履歴",
+		"voteComplete": {
+			"dailyCount": "1日%{count}回まで投票可能で、現在まで%{currentCount}回投票されました。",
+			"periodCount": "投票期間中%{limitCount}回まで投票可能で、現在まで%{currentCount}回投票されました。"
+		},
+		"language": {
+			"en": "英語",
+			"ko": "韓国語",
+			"ja": "日本語"
+		},
+		"common": {
+			"rememberMe": "自動ログイン",
+			"selectSubtitles": "字幕の選択"
+		},
+		"terms": {
+			"thirdPartyAgree": "[必須] 個人情報の第三者提供同意書",
+			"update": {
+				"privacy": {
+					"dearCustomer": "Dear, customer.\nThank you so much for using Mnet Plus service.\nWe inform you that the Mnet Plus Privacy Policy will be revised as follows.",
+					"effectDate": "The revised Privacy Policy will take effect on %{effectiveDate}",
+					"warn": "※ This revision of the personal information processing policy is essential, and members of Mnet Plus, the data subject, can express their refusal, but if you refuse, the service will not be available.\n\n- Out of membership: ${link}",
+					"safelyUtilizes": "※ Mnet Plus safely utilizes your personal information and protects it in accordance with relevant laws and regulations.",
+					"agree": "Yes, I agree.",
+					"disagree": "No, I don't agree.",
+					"additionalItems": "Please enter ${additionalItems} to collect.",
+					"cannotBeModified": "After entering it, the submitted information cannot be modified, so please fill it out carefully."
+				}
+			}
+		},
+		"signup": {
+			"terms": {
+				"mnet": {
+					"service": "${[必須]} サービス利用規約に同意",
+					"privacy": "${[必須]} 個人情報収集利用に同意",
+					"marketing": "[選択] マーケティング情報の受信および個人情報収集・利用に関する同意"
+				},
+				"omni": {
+					"all": "[選択] 広告性情報提供に同意",
+					"cj": "[Optional] Consent to provide personal information to CJ CheilJedang Co., Ltd.",
+					"logistics": "[Optional] Consent to provide personal information to CJ Logistics",
+					"oliveYoung": "[Optional] Consent to provide personal information to CJ OLIVE YOUNG Co., Ltd.",
+					"oliveNetworks": "[Optional] Consent to provide personal information to CJ OliveNetworks Co., Ltd.",
+					"cgv": "[Optional] Consent to provide personal information to CJ CGV Co., Ltd.",
+					"foodvil": "[Optional] Consent to provide personal information to CJ Foodville Co., Ltd.",
+					"tving": "[Optional] Consent to provide personal information to Tving Co., Ltd."
+				}
+			}
+		},
+		"setting": {
+			"terms": {
+				"omni": {
+					"title": "CJオムニサービスの利用に同意します",
+					"subtitle": "すべての同意はオプションであり、個別に同意を選択することができます 同意を拒否する場合でも、当該オムニサービス以外のサービスは利用可能です。"
+				}
+			}
+		},
+		"preference": {
+			"duplicate": "重複選択可"
+		},
+		"denyNightPush": "夜間プッシュ通知\n(22:00 ~ 08:00)",
+		"pushDeny": "プッシュ拒否",
+		"fixed": "固定",
+		"closeForDay": "1日休業する",
+		"point": {
+			"empty": "ファンポイント実績がありません。",
+			"emptyGuide": "活動をしてファンポイントを貯めましょう！",
+			"freeCharge": "無料チャージ",
+			"retained": "保有ファンポイント",
+			"expireIn": "当月失効予定ファンポイント",
+			"currentSix": "* 直近6ヶ月の実績が表示されます。"
+		},
+		"vote": {
+			"agreePrivacy": "[必須] 個人情報の収集・利用に同意"
+		},
+		"exitBanner": {
+			"timer": "You can close the app after %{remainTime} seconds.",
+			"backButton": "Press the Back button to exit the app."
+		},
+		"pluschat": {
+			"letsPlay": "Let’s Play!",
+			"withArtist": "with %{artistName} and chat!"
+		},
+		"all": "全体",
+		"profile": "プロフィール",
+		"announcement": "お知らせ",
+		"helpCenter": "お問い合わせ",
+		"artistCommunity": "アーティストコミュニティ",
+		"mnetPrograms": "Mnet番組",
+		"concert": "コンサート",
+		"mnetPlusOriginal": "Mnet Plusオリジナル",
+		"mnetDigitalStudio": "Mnetデジタルスタジオ",
+		"etc": "その他",
+		"languageSetting": "言語",
+		"ad": {
+			"inquiry": {
+				"title": "広告のお問い合わせ",
+				"body": "Mnet Plusで広告を出してみませんか？"
+			}
+		},
+		"plusChat": "Plus Chat",
+		"plusLive": "Plus LIVE",
+		"plusShop": "Plus Shop",
+		"plusMagazine": "Plus Magazine",
+		"plusCON": "Plus CON",
+		"adid": {
+			"askNotTrack": "Appにトラッキングしないように要求",
+			"allowToUpgrade": "$[個人に合わせたサービスが提供できるよう]、権限を許可してください。",
+			"ifYouAllow": "権限を‘許可’すると",
+			"baseOnYourPreference": "お客様の好みに合わせた\n$[おすすめコンテンツの提案および開発]に参考になります",
+			"exposureUninterest": "不快または興味のない$[広告の表示が制限]されます。",
+			"willAskPermission": "次の画面から利用者の行動データに関する権限許可が表示されます。",
+			"canChangeAfter": "今後設定＞個人情報の保護およびセキュリティ>トラッキングからいつでも変更ができます。"
+		},
+		"permission": {
+			"title": "Mnet Plus利用のための、アプリの権限の設定",
+			"madatoryPermission": "必須アクセス権限",
+			"deviceLog": "デバイスおよびアプリの記録",
+			"appUsability": "アプリの使用改善およびエラー確認",
+			"deviceId": "デバイス ID",
+			"adTracking": "デバイスの職別および広告トラッキング",
+			"optionalPermission": "選択アクセス権限",
+			"youCanUseService": "関連機能を利用する際に同意を得ており、権限を許可しなくてもサービスはご利用いただけます。",
+			"takePhoto": "ポスト投稿時に、写真の撮影",
+			"media": "写真・メディア・ファイル",
+			"mediaStorage": "ポスト投稿時に、写真の添付",
+			"registerPush": "プッシュのお知らせおよび受信",
+			"howToRevoke": "選択アクセス権限撤回の方法",
+			"revokeGuide": "設定＞個人（信用）情報保護＞該当するアクセス権限＞アクセス権限の撤回（6.0以下のOSはソフトウェアのアップグレードが必要）"
+		},
+		"camera": "カメラ",
+		"notifications": "お知らせ",
+		"recommendCommunity": "recommended",
+		"recommendProgram": "recommended",
+		"account": {
+			"changePasswordForSafe": "個人情報の保護のため、パスワードを変更してください",
+			"changePassword": "パスワードの変更"
+		},
+		"section": {
+			"title": {
+				"allProgram": "番組一覧"
+			}
+		},
+		"voteCert": {
+			"voteCert": "投票済証明書",
+			"guarantee": "この投票済証明書は、 Mnet Plusで発行した証明書であることを証明します。",
+			"shareWithHashtag": "投票済証明書をハッシュタグとともに投稿してみてください！"
+		},
+		"userName": "ユーザーネーム",
+		"voteDate": "投票日",
+		"order": {
+			"history": "購入履歴"
+		},
+		"membership": {
+			"contents": "メンバーシップコンテンツ",
+			"buy": "今すぐKCON EXPRESSを購入し、特別な特典をお楽しみください！",
+			"expired": "利用期間が終了しました。",
+			"only": "KCON EXPRESSを購入されたお客様のみ視聴可能です。"
+		},
+		"empty": {
+			"order": "購入履歴がありません",
+			"notice": "現在お知らせはありません。",
+			"vod": "近日公開"
+		},
+		"reservation": {
+			"code": "Presale Code"
+		},
+		"offlineVote": {
+			"alreadyVoted": "このデバイスでの投票は既に完了しています。",
+			"noRight": "QRコードで認証されたユーザーのみが投票できます。"
+		},
+		"activateAccount": {
+			"hasBeenInactivate": "お客様のアカウントは、Mnet Plusサービスを長期間ご利用いただいていないため、休眠アカウントとして登録されました。",
+			"resumeByClick": "[【休眠解除】]ボタンをクリックして、メール認証を完了すると、サービスを再利用することができます。",
+			"enterEmail": "会員登録時に使用されたメールアドレスを入力してください。",
+			"sendCode": "メール認証コード送信ボタンをクリックしてください。",
+			"enterCode": "メールで受け取った6桁のコードを入力して、認証してください。",
+			"accountInformation": "アカウント情報(ID)"
+		},
+		"inactivatedAccount": "休眠アカウント : [%{account}]",
+		"dormantedDate": "休眠処理日時：[%{date}]",
+		"progressDate": "登録日: %{date}",
+		"loginOrSignup": "ログイン/会員登録",
+		"loginOrSignupWithMnetPlus": "Mnet Plusアカウントでログインまたは会員登録してください。",
+		"setPassword": "パスワードを設定してください。",
+		"enterBirthYear": "生まれた年（西暦）を教えてください。",
+		"least14years": "14歳から登録できます。",
+		"enterGender": "性別を教えてください。",
+		"gender": {
+			"female": "女",
+			"male": "男",
+			"nonBinary": "ノンバイナリー",
+			"etc": "その他"
+		},
+		"pleaseAgreeTerms": "利用規約に同意してください。",
+		"pleaseAgreeTermsToMnetPlus": "Mnet Plus サービスを利用するためには、規約に同意してください。",
+		"verifyEmail": "メールアドレスを認証してください。",
+		"verifyEmailSended": "入力された情報に認証メールが送信されました。 \nメール認証後、会員登録を完了してください。",
+		"verifyEmailCanBeSpam": "認証メールが届かない場合、認証メールを再送するか、またはスパム箱をご確認ください。",
+		"turnOnSoftbankEmail": "ソフトバンクのメールを使用する場合は、設定で電子メールの「受信を許可」してください。",
+		"signupSuccessed": "会員登録が完了しました！",
+		"canAccess3rdPartyWithMnetPlus": "Mnet PlusのアカウントでPlus Chat、PlusCONおよび関連サービスをご利用いただけます。",
+		"emailAddress": "メールアドレス",
+		"verificationCode": "認証コード",
+		"pleaseResetPassword": "パスワードを再設定してください。",
+		"connectSocialAccount": "アカウントを連携する",
+		"connectSocialExistMnetPlus": "このメールアドレスはすでにMnet Plusに登録されています。SNS アカウントと連携してより便利に利用してみましょう。(会員情報は同様です。)",
+		"socialAllowEasyLogin": "Mnet Plusアカウントと連携するとSNSアカウントでより簡単にログインできます。",
+		"selectedAccount": "選択したアカウント",
+		"connectedSocial": "SNSアカウント連携",
+		"faceIdSignIn": "顔認証ログイン",
+		"touchIdSignIn": "指紋認証ログイン",
+		"remainSeats": "Remaining Seats",
+		"iland": {
+			"unpredictable": "${予測不可能な多様性「N」}\n${無限の可能性を持つ「a」}\n自ら限界と恐怖を乗り越え、新しい私に出会う場所\n${[I-LAND2 : N/α]}",
+			"revolutionaryCollaboration": "2024年、これまでになかったコラボレーションで\n待望のアイコニック・ガールズグループが誕生する。\n\n${アイランドに存在する二つの世界}\nすべてが最上の条件で提供される夢の空間${「I-LAND」}\nアイランドに向かって自分の実力を証明しなければならない追放者の空間${「GROUND」}\nデビューの機会は「I-LAND」の生存者にのみ与えられる。\n\n世の中になかった未知の空間、 \nアイランドで繰り広げられる\n私(N/a)を探す新しい冒険！\n\n${FIND YOUR I}",
+			"groundbreakingBirth": "${BIGBANG, 2NE1, BLACKPINK}を誕生させた \nワールドトップクラスのプロデューサーTEDDYが \nプロデュースを手掛ける超格差ガールズグループの誕生\n\n本格的なデビュー争いが始まる${Part.2} \n自分の運命をかけて12名のアイランダーが繰り広げる激しい生存競争！\n\n限られた時間の内に最後まで残って \n${デビューの夢をつかみ取る主人公}は誰になるのか！\n\nデビューを目指すファイナルカウントダウンが始まる。\n${[I-LAND2 : FINAL COUNTDOWN]}",
+			"iland": "I-LAND 2",
+			"cast": "出演者",
+			"nasuriAndImate": "ナスリ & I-MATE",
+			"nasuri": "ナスリ",
+			"cuteBabyFox": "メタボールから生まれた可愛い子ギツネ",
+			"aboutNasuri": "無限の可能性を持ち、何にでも変身できる物体「メタボール」 \nその中には予測不可能な様々なエネルギーが集まっている。\n\nそんなある日、 \n巨大なエネルギーを持つメタボールから生まれた未熟な子ギツネ「ナスリ」\nナスリは完全なキツネになるため、未知の存在と特別な契約を結ぶ。\n\n${「アイランドに入ってきた少女たちに＜自分＞を見つけさせ、}\n${超格差ガールズグループに生まれ変わらせること」 }\n\n残り時間はわずか100日余り。\nナスリは多様なポテンシャルを持つ少女たちが成長できるよう助けるが···\n果たして、メタボールのエネルギーを集めて完全なキツネになれるのだろうか？",
+			"iMate": "アイメイト",
+			"compoundWord": "IDOLの「I」と友達を意味する「MATE」を合わせた言葉。",
+			"findFavoriteIdol": "参加者24名の中から、自分だけのアイドル（I）を見つけ、\n「I」と友達（MATE）になり運命をともにする世界中のファンを意味する。",
+			"storyteller": "ストーリーテラー",
+			"guideIland": "アイランドの案内者",
+			"songkang": "Song Kang",
+			"sunghanbin": "SUNG HAN BIN",
+			"aboutSongkang": "アイランドの世界観を導く中心人物として\nアイランドで繰り広げられるすべての物語を伝え、グローバルファンと参加者をつなぐ。",
+			"producer": "プロデューサー",
+			"executiveProducer": "統括プロデューサー",
+			"teddy": "TEDDY",
+			"aboutTeddy": "Billboardが選定した「21世紀で最も優れたプロデューサー」 \nワールドクラスのアイドルBIGBANG、2NE1、BLACKPINKを誕生させたノウハウで \nI-LAND2の参加者がグローバルスターとして成長できるようプロデュースする。",
+			"mainProducer": "ミュージックプロデューサー",
+			"teayang": "TAEYANG",
+			"aboutTeayang": "「BIGBANG」のメインボーカル兼メインダンサー！\n世界中のステージに立った伝説的オールラウンドアーティストとして、技術的なアドバイスと\n長年の経験に基づく現実的なアドバイスで、I-LAND2の参加者の成長をサポートする。",
+			"musicProducer": "ミュージックプロデューサー",
+			"twentyFour": "24",
+			"about24": "BIGBANG、BLACKPINK、チョン・ソミをプロデュースした THE BLACK LABEL専属のプロデューサーとして\n誰よりもI-LAND2の参加者の音楽的才能を正確に把握し、プロデュースする。",
+			"profile": "【略歴】",
+			"profile24": "BLACKPINK <DDU-DU DDU-DU>、<Kill This Love>、<How You Like That>、<Lovesick Girls>、<Pink Venom>、<Shut Down>\nJENNIE <SOLO>\nチョン・ソミ <DUMB>、<XOXO>\nBIGBANG <LAST DANCE>、<Still Life> など作詞作曲",
+			"vvn": "VVN",
+			"aboutVVN": "バークリー音楽大学出身のTHE BLACK LABEL エリートプロデューサーとして\n音楽だけでなく、様々な方面でI-LAND2の参加者をプロデュースする。",
+			"profileVVN": "JISOO <FLOWER>、<All Eyes On Me>\nBLACKPINK <Ready For Love>、<Yeah Yeah Yeah> \nBIGBANG <Still Life> \nTAEYANG <Nightfall>\nチョン・ソミ <Fxxked Up> など作詞作曲",
+			"director": "ディレクター",
+			"performanceDirector": "パフォーマンスディレクター",
+			"monika": "MONIKA",
+			"aboutMonika": "パフォーマンスの伝説！圧倒的なカリスマの振付師\n冷徹で客観的な視線で参加者のセルフプロデュース能力を成長させる。",
+			"profileMonika": "<STREET DANCE GIRLS FIGHTER 2> マスター、<STREET WOMAN FIGHTER 2> ファイトジャッジ\n2023年第14回大韓民国大衆文化芸術賞 文化体育観光部長官表彰 受賞\n現『PROWDMON』、『MOLIP』クルー所属",
+			"leejung": "Leejung Lee",
+			"aboutLeejung": "世界的にヒットしたK-POPダンスメーカー\nグローバルトレンドを読み取る能力で参加者のスター性を完成させる。",
+			"profileLeejung": "BLACKPINK <THE GIRLS>\nJENNIE  <You&Me>\nLISA <LALISA>、<MONEY>\nチョン・ソミ <XOXO>、<Dumb Dumb>\nTWICE <Alcohol-Free>\nITZY <WANNABE> 振付創作",
+			"yearsOld": "%{years}歳",
+			"dateOfBirth": "生年月日",
+			"nationality": "国籍",
+			"preparePeriod": "준비기간",
+			"mbti": "MBTI",
+			"hashtags": "ハッシュタグ",
+			"applicants": "参加者",
+			"image": "画像",
+			"videos": "動画",
+			"iland2": "I-LAND 2",
+			"all": "すべて",
+			"episodeClips": "本放送",
+			"stagePerformances": "LIVE映像",
+			"highlight": "ハイライト",
+			"behinds": "舞台裏",
+			"teaser": "予告・先行公開",
+			"trailer": "予告",
+			"preview": "先行公開",
+			"others": "その他",
+			"byCategory": "カテゴリー",
+			"byEpisode": "エピソード",
+			"ep": "Ep.%{episode}",
+			"viewVoteCertificate": "投票済証明書を確認する",
+			"viewApplicants": "参加者を見る",
+			"program": {
+				"title": "I-LAND 2 : N/a"
+			},
+			"modal": {
+				"intro": {
+					"hello": "こんにちは。I-MATE！",
+					"welcom": "待っていたよ！君はナスリの友達、I-MATEだね！\nI-LANDの世界へようこそ💜\n\nナスリと一緒に\n君の推し「I」を探す冒険に出かけよう！\nとっても面白いから期待してね✨",
+					"nasuri": "「ナスリ」は誰かって？",
+					"nasuriCheer": "ナスリが君の推し「I」を一緒に応援するよ！\n今日も、明日も、明後日も！ハッピーになれるよ！\n\nナスリと一緒に応援する準備ができたら\n「入場」を押してね💜"
+				}
+			},
+			"onAirTime": "木曜日 夜 09:30 (KST)",
+			"mission": "MISSION",
+			"nasuriRoom": "ナスリの部屋",
+			"metaballToSupport": "メタボールを集めてください！",
+			"goCollectMetaball": "メタボールを集める",
+			"media": "MEDIA",
+			"producerRoom": "プロデューサーの部屋",
+			"findYourI": "FIND YOUR I",
+			"aboutProgram": "番組情報",
+			"increaseNasuriHappy": "${メタボールを使って}ナスリのハッピー度をUPさせてください",
+			"below50": "上位50%未満",
+			"above50": "50%以上",
+			"percent30": "30%",
+			"percent10": "10%",
+			"percent5": "5%",
+			"currentMetaballStatus": "現在の保有メタボール",
+			"usedMetaball": "使用したメタボール",
+			"top50": "上位50%",
+			"topRank": "上位%{rank}%",
+			"bottom50": "下位50%",
+			"loginRequired": "ログインが必要です",
+			"nasuriDiary": "ナスリの日記",
+			"collectMetaball": "メタボールを獲得する",
+			"attendCheck": "出欠確認",
+			"ads": "広告",
+			"viewResult": "結果を見る",
+			"metaball": "%{metaballCount} メタボール",
+			"completeAttend": "出欠確認完了！\n${10メタボール}を獲得しました。",
+			"searchAds": "広告を探しています",
+			"completeAds": "広告視聴完了！\n${5メタボール}を獲得しました。",
+			"accumulatedMetaball": "今まで集めたメタボール",
+			"history": "履歴",
+			"noMetaballEarned": "まだ集めたメタボールがありません。",
+			"collectMetaballMission": "ミッションに参加してメタボールを集めよう！",
+			"noMetaballUsed": "まだ消費したメタボールがありません。",
+			"whatIsMetaball": "メタボールとは？",
+			"metaballIs": "未知の空間I-LANDと世界をつなぐ通路でありながら\n無限の可能性を持つエネルギーの集合体「メタボール」\n\nI-MATEはMnet Plusのあちこちに隠れているメタボールを集めて \n参加者のI-LANDでの生活をサポートすることができます。",
+			"howMetaballUsed": "メタボールはどうやって使いますか？",
+			"cheerByMetaball": "I-MATEは持っているメタボールを使って\n応援したい参加者をサポートしてください！",
+			"asManyMetaball": "応援したい参加者には\n持っているメタボールの分だけ、制限なく使用できます。",
+			"howMetaballCollect": "メタボールはどうやって集めますか？",
+			"earnMetaball": "%{metaballCount}メタボール獲得可能",
+			"earn20MetaballWithEvent": "2つ同時に参加すると最大20メタボール獲得可能",
+			"noCooltime": "広告は一日に最大25回まで視聴できます。",
+			"canAdsRestrict": "広告を最後まで視聴すると、メタボールを獲得できます。",
+			"emptyVideoInFilter": "このフィルターに一致する動画はまだありません。",
+			"eliminated": "脱落者",
+			"currentLocation": "現在位置",
+			"supportStatus": "サポート状況",
+			"ranking": "順位",
+			"locationForRound": "エピソード別位置",
+			"rankingTrand": "順位トレンド",
+			"supportToI": "あなたの${「I」に特別な応援を}\nプレゼントしてください！",
+			"myMetaball": "保有メタボール",
+			"achieved": "達成",
+			"supportCompleted": "サポート完了",
+			"enterMetaballCount": "%{applicantName}にサポートする\nメタボールの数を入力してください",
+			"currentMetaball": "集めたメタボール数",
+			"supportMetaball": "%{applicantName}に%{metaballCount}メタボールをサポートする",
+			"enterName": "名前を入力",
+			"metaballInsufficient": "お持ちのメタボールの数が足りません",
+			"achiveStatus": "達成状況",
+			"support1": "1次サポート",
+			"support2": "2次サポート",
+			"period": "サポート期間",
+			"maxPeopleCount": "最大%{peopleCount}名",
+			"support3": "3次サポート",
+			"rank": {
+				"st": "%{rank}位",
+				"nd": "%{rank}位",
+				"rd": "%{rank}位",
+				"th": "%{rank}位"
+			},
+			"forDays": "%{period}日間",
+			"note": "注意事項",
+			"supportWarn1": "各回のサポートは100%達成時に選ばれます。最大提供人数を超えた場合は、達成時点を基準に先着順で選定されます。",
+			"supportWarn2": "サポート達成に必要なメタボールの数は毎回異なります。参加者それぞれがもらったメタボールは、次回に繰り越し・累積されません。",
+			"supportWarn3": "参加者それぞれのサポート達成率は1日1回更新され、達成基準を超えたメタボールは累積されません。",
+			"supportWarn4": "各回のサポート達成基準に基づき、参加者には「最大サポート達成率」の限度があります。「最大サポート達成率」は毎回異なることがあります。",
+			"supportWarn5": "番組から脱落した参加者は、サポート基準を達成をしてもサポートを受けることはできません。",
+			"supportWarn6": "ポリシーに違反したり、正当でない手段でサポートに参加した場合、使用したMETA BALLを没収されたり、使用が取り消されることがあります。",
+			"supportWarn7": "各回のサポート内容は、当社の都合により変更する場合がございます。",
+			"supportedApplicants": "サポート達成した参加者",
+			"supportEnded": "該当の%{supportNumber}ートは終了しました。",
+			"ing": "進行中",
+			"failure": "失敗",
+			"ready": "準備中",
+			"adLoading": "広告読み込み中",
+			"notSupported": "現在のバージョンではサポートされていない機能です。アプリを最新バージョンにアップデートしてください。",
+			"completed": "完了",
+			"metaballEarned": "メタボール獲得！",
+			"supportApplyAt": "サポートされたメタボールは\r\n毎日0時(KST)に反映されます。"
+		},
+		"recommendedVideo": "おすすめ動画"
+	},
+	"button": {
+		"voteHistory": "投票履歴を確認する",
+		"nightPushSetting": "おやすみ時間モード",
+		"headerFix": "TOP POST",
+		"termsUpdate": {
+			"checkUpdate": "Review changed terms and conditions"
+		},
+		"pluschat": {
+			"move": "Move"
+		},
+		"ad": {
+			"inquiry": "広告出稿"
+		},
+		"allow": "許可",
+		"checkPermissionRequest": "権限許可を確認する",
+		"saveImage": "画像を保存",
+		"share": "共有する",
+		"common": {
+			"off": "オフ"
+		},
+		"startWithEmail": "メールアドレスで続ける",
+		"reset": "再設定",
+		"confirmPassword": "パスワード確認",
+		"signup": "同意して加入する",
+		"resendEmail": "認証メール再送",
+		"backToLogin": "ログイン画面に戻る",
+		"backToHome": "ホーム画面に戻る",
+		"connectSocialToMnetPlus": "Mnet Plusアカウントと連携",
+		"socialSignUp": "簡単登録",
+		"socialConnect": "連携",
+		"socialDisconnect": "解除",
+		"viewVoteCertificate": "View your Certificate",
+		"iland": {
+			"oldest": "古い順",
+			"applicants": "参加者",
+			"vote": "投票",
+			"mission": "ミッション",
+			"media": "メディア",
+			"talk": "トーク",
+			"prev": "戻る",
+			"next": "次へ",
+			"join": "入場",
+			"receive": "確認する",
+			"participate": "参加する",
+			"view": "見る",
+			"guide": "案内",
+			"all": "全体",
+			"earned": "獲得",
+			"used": "消費",
+			"viewAds": "広告を見る",
+			"joinVote": "投票に参加する",
+			"support": "サポート",
+			"marketingEvent": "イベントに参加する",
+			"doSupport": "サポートする",
+			"exclusive": "Exclusive",
+			"byApplicant": "参加者別",
+			"collect": "集める",
+			"cancel": "キャンセル",
+			"confirm": "確認"
+		}
+	},
+	"liveChat": {
+		"title": "LIVE CHAT",
+		"placeholder": "メッセージを送る",
+		"cooltime": "メッセージを繰り返して送ることはできません。",
+		"connecting": "LIVE CHATに接続しています。"
+	},
+	"tooltip": {
+		"liveChat": "LIVE CHATでアーティストを応援してみましょう！",
+		"recentLogin": "最近のログイン",
+		"socialLogin": {
+			"title": "SNSアカウント連携設定のご案内",
+			"easyLogin": "SNSアカウントとMnet Plusアカウントを連携すると、簡単にログインできます。",
+			"cannotMultiple": "同じMnet Plusアカウントで複数のSNSアカウントと連携することはできません。"
+		}
+	},
+	"vtogether": {
+		"limit": {
+			"locale": "この動画は、お住まいの地域では視聴できません。"
+		}
+	},
+	"profile": {
+		"logouted": {
+			"greeting": "こんにちは！",
+			"guide": "新規会員登録もしくはログインしてください"
+		},
+		"signupButton": "会員登録",
+		"signup": {
+			"title": "会員登録"
+		},
+		"announcementsButton": "お知らせ",
+		"helpCenterButton": "お問い合わせ",
+		"terms": "利用規約",
+		"privacy": "個人情報処理方針",
+		"license": "Open Source License",
+		"youth": "青少年保護政策"
+	},
+	"navigation": {
+		"title": {
+			"signup": "会員登録",
+			"profile": "プロフィール",
+			"voteCert": "投票済証明書"
+		}
+	},
+	"setting": {
+		"language": {
+			"title": "言語設定"
+		},
+		"notification": {
+			"title": "通知設定"
+		},
+		"serviceNotification": {
+			"title": "サービス通知",
+			"serviceNotification": "サービス通知設定",
+			"announcement": "サービスのお知らせとご案内事項"
+		},
+		"communityNotification": {
+			"communityNotification": "コミュニティ通知設定",
+			"noJoinCommunity": "登録したコミュニティがありません。",
+			"goToCommunity": "コミュニティ見学",
+			"myFeed": {
+				"title": "マイフィード通知",
+				"postThread": "コメントや返信が登録された時",
+				"like": "「いいね」が押された時",
+				"artistLike": "アーティストから「いいね」を押された時"
+			},
+			"artistFeed": {
+				"title": "アーティストフィード通知",
+				"writePost": "アーティストの新規記事作成",
+				"postThread": "アーティストの新規コメントや返信"
+			},
+			"contents": {
+				"title": "コンテンツ通知",
+				"vtogether": "新規V-together",
+				"liveEvent": "新規ライブイベント",
+				"officialPost": "新規オフィシャルコンテンツ",
+				"vote": "新規投票開始",
+				"plusLive": "Plus LIVE 放送開始"
+			},
+			"title": "コミュニティ通知",
+			"community": {
+				"announcement": "コミュニティ告知事項",
+				"pointBox": "ファンポイント通知"
+			}
+		},
+		"notificationMethodSetting": {
+			"title": "アプリの通知設定"
+		},
+		"app": {
+			"version": "バージョン情報"
+		},
+		"screenSetting": {
+			"sectionTitle": "画面設定",
+			"title": "コミュニティ画面"
+		}
+	},
+	"login": {
+		"email": {
+			"placeholder": "メールアドレス"
+		},
+		"password": {
+			"placeholder": "パスワード"
+		},
+		"signupGuide": "まだアカウントをお持ちではないですか？",
+		"findPasswordGuide": "パスワードをお忘れですか？",
+		"needLoginTitle": "先にログインしてください。",
+		"selectAccount": "ログインアカウントを選択してください。",
+		"error": {
+			"passwordNotMatch": "パスワードが一致しません。(%{errorCount}/5)"
+		}
+	},
+	"signup": {
+		"email": {
+			"placeholder": "メールアドレス"
+		},
+		"password": {
+			"placeholder": "パスワード"
+		},
+		"terms": {
+			"service": "Mnet Plusの利用規約および個人情報収集・利用に同意し、人気コンテンツおよびプロモーションのお知らせを受け取ります。",
+			"notification": "人気コンテンツやプロモーション情報を受け取る（選択）",
+			"agreeAll": "すべて同意します。",
+			"required": {
+				"service": "[必須] サービス利用規約に同意",
+				"privacy": "[必須] 個人情報の収集・利用に同意"
+			},
+			"age": "${[必須]} 14歳以上です。"
+		},
+		"confirmPassword": {
+			"placeholder": "パスワード確認"
+		},
+		"code": {
+			"guide": "[送信]ボタンを押すと、メールに認証コードをお送りします。",
+			"verification": {
+				"label": "メール認証"
+			},
+			"placeholder": "6桁のコード",
+			"sendButton": "送信",
+			"resendButton": "再送信",
+			"sent": "認証コードメールを送信しました。",
+			"sentGuide": "1分後メールアドレスの修正と認証コードの再送信ができます。",
+			"verifyButton": "認証する",
+			"verifySuccess": "認証が完了しました。",
+			"verifyFail": "認証コードが一致しません。",
+			"codeSent": "メールに認証コードを送信しました（有効期限60分）。メールが届かない場合は、迷惑メールフォルダをご確認ください。"
+		},
+		"loginButton": "ログイン",
+		"loginGuide": "すでにアカウントをお持ちですか？",
+		"complete": {
+			"title": "Mnet Plus会員登録完了！",
+			"subtitle": "世界中のK-POPファンとつながる空間、Mnet Plus！\n独占コンテンツや様々な投票に今すぐ参加してください！",
+			"toServiceMainButton": "ホームへ"
+		},
+		"birthdate": {
+			"guide": "生年月日を入力してください。",
+			"inputPlaceholder": "生年月日"
+		},
+		"gender": {
+			"guide": "あなたの性別を入力してください。"
+		}
+	},
+	"findPassword": {
+		"email": {
+			"placeholder": "メールアドレス"
+		},
+		"title": "パスワードをお忘れですか？",
+		"code": {
+			"placeholder": "6桁のコード"
+		},
+		"subtitle": "１．会員登録時に使用したメールアドレスをご入力ください。\n２．[送信]ボタンを押してください。\n３．メールに送られた6桁の認証コードを入力し、[認証する]ボタンを押してください。"
+	},
+	"profileEdit": {
+		"information": {
+			"title": "アカウント情報",
+			"username": "ユーザー名",
+			"changeButton": "変更",
+			"changeUsernamePlaceholder": "ユーザー名変更"
+		},
+		"security": {
+			"title": "セキュリティ",
+			"changePassword": "パスワード変更",
+			"deleteAccount": "アカウント削除"
+		},
+		"notification": {
+			"title": "お知らせ",
+			"description": "プロモーション通知の受信に同意します。"
+		},
+		"logoutButton": "ログアウト",
+		"emailSheet": {
+			"description": "会員登録に使用したメールアドレスは削除・変更できません。",
+			"verified": "認証済み"
+		},
+		"passwordSheet": {
+			"title": "パスワード変更",
+			"currentPasswordPlaceholder": "現在のパスワード",
+			"currentPasswordLabel": "現在のパスワードを入力してください。",
+			"label": "新しいパスワードを入力してください。",
+			"passwordPlaceholder": "新しいパスワード",
+			"passwordConfirmPlaceholder": "パスワード確認",
+			"passwordMatchError": "パスワードが一致しません。"
+		},
+		"deleteAccount": {
+			"deleteButton": "削除",
+			"warning": {
+				"title": "アカウント削除"
+			}
+		}
+	},
+	"error": {
+		"password": {
+			"8to20": "8～20文字",
+			"characterConditions": "少なくとも文字、数字、特殊文字を1つ以上を入力してください。"
+		},
+		"passwordSameWithPrevious": "過去のパスワードを入力しました。セキュリティーのため、新しいパスワードを設定してください。"
+	},
+	"account": {
+		"delete": {
+			"title": "アカウント削除",
+			"phase2": {
+				"subtitle": "本当にアカウントを削除しますか？",
+				"body": "アカウントを削除すると",
+				"bullet1": "このアカウントではMnet Plusにログインできなくなります。",
+				"bullet2": "アカウントが削除されても、作成したコメントや投稿は削除されません。",
+				"footnote": "続けますか？",
+				"bullet3": "このアカウントでMnetプラスに接続されたサービスにもログインできません。"
+			},
+			"phase1": {
+				"subtitle": "削除する前に確認してください。",
+				"body": "アカウントはMnet Plusコミュニティのほか、Mnet Plusサービス、CJ ENMが提供するサービス、Mnet Plusと提携した外部サービスでも使用する統合アカウントです。 \n \n アカウントを削除すると、アカウント情報およびサービス利用記録を含むすべての情報が削除されます。 \n \n 退会後はアカウントでログインすることができないため、Mnet Plusサービスのほか、連携して利用していたサービスもすべて利用できなくなります。",
+				"footnote": "削除されたアカウント情報とサービス利用記録は復旧できません。慎重に判断した上で削除してください。"
+			},
+			"connectedService": {
+				"warning": "アカウントを削除すると次のサービスを利用できなくなり、データの復旧はできません。",
+				"confirmList": "利用できなくなるサービス項目についてすべて確認しました。",
+				"confirmDelete": "上記サービスの利用記録および個人情報データの復旧はできません。"
+			}
+		},
+		"dormant": {
+			"notify": {
+				"subtitle": "再びお越しいただきました会員様、ようこそ！",
+				"desc1": "会員様のアカウントは長期間ご利用がないため、休眠状態に転換されました。",
+				"date": "休眠転換日：%{year}年%{month}月%{date}日",
+				"desc2": "[休眠解除] ボタンを押し、メール認証を行えばサービスを再度ご利用いただけます。",
+				"activate": "休眠解除",
+				"title": "休眠アカウントのご案内"
+			},
+			"activate": {
+				"title": "休眠アカウントの解除",
+				"desc1": "1．[送信]ボタンを押してください。",
+				"desc2": "2．メールに記載されている6桁の認証コードを入力し、[認証する]ボタンを押してください。"
+			},
+			"activated": {
+				"common": "休眠解除が完了しました。",
+				"passwordReset": "パスワード再設定による休眠解除が完了しました。"
+			}
+		}
+	},
+	"deleteAccount": {
+		"password": {
+			"placeholder": "パスワード"
+		}
+	},
+	"sighup": {
+		"birthdate": {
+			"warning": {
+				"age": "Mnet Plusの使用基準を満たしていない年齢です。"
+			}
+		}
+	},
+	"connectedService": {
+		"manage": "連携サービス管理",
+		"title": "連携サービス",
+		"empty": "連携されているサービスがありません。",
+		"connectedDate": "%{connectedAt}に連携済み",
+		"disconnect": "連携解除",
+		"presentedLive": {
+			"guide": {
+				"deleteData": "Mnet Plusとのアカウント連携が解除され、すべての利用記録が削除されます。"
+			},
+			"ask": {
+				"disconnect": "該当サービスと統合アカウントの連携を解除しますか？"
+			},
+			"warn": {
+				"subscribe": "該当サービスの有料利用券がある場合、情報を削除する前に払い戻しの申請を行ってください。\n退会後は払い戻し申請ができない可能性があります。"
+			}
+		},
+		"disconnectAndDelete": "連携解除およびデータ削除",
+		"ask": {
+			"delete": "本当にすべての情報を削除しますか？",
+			"delete2": "本当に%{serviceName}のすべての情報を削除しますか？"
+		},
+		"plustalk": {
+			"warn": {
+				"disconnect": "Mnet Plusとのアカウント接続が解除され、Plus Chatからのすべての利用記録が削除され、該当サービスへのログインができません。",
+				"subscribe": "アカウントの接続を解除する前に、購読中の商品を確認してください。"
+			},
+			"guide": {
+				"reconnect": "(Plus Chatサービスを再利用するためには、Plus Chatログイン後、利用/接続同意を行ってください。)",
+				"subscribe": {
+					"unsubscribe": "統合アカウントの接続解約とは別に、購読解約および払い戻しは各os別のApp Storeを通じて可能です。",
+					"subscribeRight": "統合アカウントを解約すると、現在利用中だった購読権は使用できなくなります。 （同じアカウントでログインしても、以前のサブスクリプション データは残っていません。）",
+					"empty": "購読中の商品なし"
+				}
+			}
+		}
+	},
+	"title": {
+		"signup": {
+			"terms": "${highlight.mnet.tint}サービスのご利用を希望する場合は、${highlight.terms.bold}があります。"
+		},
+		"terms": {
+			"update": {
+				"privacy": {
+					"rivision": "Revision of the Mnet Plus Privacy Policy"
+				}
+			}
+		}
+	},
+	"highlight": {
+		"mnet": {
+			"tint": "Mnet Plus"
+		},
+		"terms": {
+			"bold": "本規約に同意していただく必要"
+		},
+		"privacy": "the personal information processing policy and use",
+		"additionalItems": "additional items"
+	},
+	"gender": {
+		"female": "女",
+		"male": "男",
+		"unknown": "その他",
+		"gender": "Gender"
+	},
+	"ask": {
+		"terms": {
+			"update": {
+				"privacy": {
+					"agree": "Do you agree to ${privacy} as above?"
+				}
+			}
+		},
+		"preference": {
+			"tellMe": "あなたの好みを教えてください。"
+		},
+		"emailReceive": "メールが受信されていませんか？",
+		"signUpWithSocial": "連携するアカウントがなかったら、新規登録しますか？"
+	},
+	"form": {
+		"terms": {
+			"update": {
+				"privacy": {
+					"birthdate": "1. Please enter the date of birth. (Required)",
+					"gender": "2. Please enter your gender. (Required)"
+				}
+			}
+		},
+		"error": {
+			"email": "Please re-enter your email address."
+		}
+	},
+	"preference": {
+		"preference1": "好みのアーティストタイプ1",
+		"preference2": "好みのアーティストタイプ2",
+		"genre": "ジャンル",
+		"mood": "雰囲気",
+		"content1": "好みのコンテンツ1",
+		"content2": "好みのコンテンツ2",
+		"content3": "好みのコンテンツ3",
+		"keyword": "好み"
+	},
+	"fanPoint": {
+		"pointBox": {
+			"balance": "%{allPoint}ポイント保有中",
+			"title": {
+				"join": "新規登録ポイントが支給されました。",
+				"checkIn": "%{checkInDays}日目の登録ポイントを支給いたしました。",
+				"gratitude": "活動感謝ポイントが支給されました。",
+				"activity": "%{month}月%{day}日の活動ポイントを支給いたしました。",
+				"default": "Fan Pointが支給されました。"
+			},
+			"body": {
+				"join": "楽しさいっぱいの%{communityName}コミュニティにご参加いただき、ありがとうございます！よりお楽しみいただけるよう、感謝ポイントを支給いたします。",
+				"checkIn": "一緒ならもっと楽しい！%{checkInDays}日目の感謝ポイントを支給いたします。",
+				"gratitude": "%{nickname}さんのおかげでコミュニティも成長中です！これからもよろしくお願いします！",
+				"activity": "%{month}月%{day}日の活動ポイントを支給いたしました。",
+				"default": "Fan Pointが支給いたしました。"
+			},
+			"point": "%{amount}ポイント"
+		}
+	},
+	"fanpoint": {
+		"pointbox": {
+			"marketing": {
+				"hashtag": {
+					"title": "Fan Pointハッシュタグイベントに当選！",
+					"body": "Fan Pointイベント当選、おめでとうございます!"
+				},
+				"event": {
+					"title": "Fan Point イベントに当選！",
+					"body": "Fan Pointイベント当選、おめでとうございます!"
+				}
+			}
+		},
+		"ranking": {
+			"period": "* 直近30日集計となっております。"
+		}
+	},
+	"chatPoll": {
+		"untilClose": "Chat Poll 終了まで残り",
+		"submit": "%{count}個をご選択くださいました。送信しますか？",
+		"completed": "提出が完了しました。",
+		"completed2": "参加していただきありがとうございます。",
+		"button": {
+			"submit": "提出する"
+		}
+	},
+	"poll": {
+		"alreadyvoted": "すでに提出を完了しました。"
+	},
+	"notifications": {
+		"join": {
+			"reward": {
+				"fanpoint": "%{days}日目の感謝ポイントが支給されました。\n ポイントボックスを確認してください！"
+			}
+		},
+		"point": {
+			"reward": {
+				"fanpoint": "ポイントボックスにプレゼントが届きました。ポイントボックスを確認してください！"
+			},
+			"expr": {
+				"alarm": "7日後に失効予定のファンポイントがあります。"
+			},
+			"tx": {
+				"in": "ファンポイントが貯まりました。",
+				"out": "ファンポイントが使用されました。"
+			}
+		},
+		"artist": {
+			"writePost": "%{artistName}様がポストを作成しました。",
+			"writeComment": "%{artistName}様がコメントを作成しました。",
+			"likePost": "%{artistName}様があなたのポストに高評価をつけました。",
+			"likeComment": "%{artistName}様があなたのコメントに高評価をつけました。",
+			"likeReply": "%{artistName}さんがあなたの返信にいいねしました。"
+		},
+		"feedback": {
+			"post": "%{authorName}さんがあなたの投稿にコメントしました。",
+			"comment": "%{authorName}さんがあなたのコメントに返信しました。"
+		},
+		"like": {
+			"post": {
+				"single": "%{authorName}様があなたのポストに高評価をつけました。",
+				"sum": "%{authorName}さん他%{count}人のユーザーがあなたの投稿にいいねしました。"
+			},
+			"comment": {
+				"sum": "%{authorName}さん他%{count}人のユーザーがあなたのコメントにいいねしました。",
+				"single": "%{authorName}様があなたのコメントに高評価をつけました。"
+			},
+			"reply": {
+				"single": "%{authorName}さんがあなたの返信にいいねしました。",
+				"sum": "%{authorName}さん他%{count}人のユーザーがあなたの返信にいいねしました。"
+			}
+		},
+		"new": {
+			"vtogether": "V-togetherオン",
+			"liveevent": "ライブイベントオン",
+			"officialpost": "新しいオフィシャルコンテンツ",
+			"vote": "投票が始まりました",
+			"event": "新しいイベント"
+		},
+		"service": {
+			"announcement": "お知らせ"
+		},
+		"community": {
+			"announcement": "コミュニティ通知"
+		}
+	},
+	"date": {
+		"today": "今日",
+		"yesterday": "昨日"
+	},
+	"notification": {
+		"empty": {
+			"common": "登録された通知がありません。"
+		}
+	},
+	"notificaitons": {
+		"point": {
+			"expr": {
+				"alarm": "7日後に失効予定のファンポイントがあります。"
+			}
+		}
+	},
+	"urgentModal": {
+		"dontShow": "今日は表示しない",
+		"close": "閉じる"
+	},
+	"footer": {
+		"contactUs": "広告のお問い合わせ",
+		"ceo": "代表取締役 : Yoon Sang Hyun",
+		"address": "住所: (03926) ソウル市麻浦区上岩山路66",
+		"buisnessRegistrationNumber": "事業者登録番号 : 106-81-51510",
+		"personalInformationManager": "個人情報保護責任者 : Kim Ji Won",
+		"representativeNumber": "代表番号 : 1644-2525",
+		"hostingServiceProvider": "ホスティングサービス提供者 : STAYGE Labs, Inc."
+	},
+	"artist": {
+		"profile": {
+			"likeImage": "いいね画像",
+			"background": "背景画像"
+		},
+		"feed": {
+			"post": "投稿",
+			"comment": "コメント",
+			"like": "いいね"
+		},
+		"floating": {
+			"button": {
+				"title": "日本K-POPのためのショップ"
+			}
+		}
+	},
+	"sheet": {
+		"screenSetting": {
+			"title": "コミュニティ画面設定",
+			"subtitle": "すべてのコミュニティに適用されます"
+		}
+	},
+	"screenSetting": {
+		"dark": "ダークモード",
+		"light": "ライトモード",
+		"system": "機器設定"
+	},
+	"msg:content": {
+		"forbidden": {
+			"word": "メッセージに禁則語が含まれています。<%{forbiddenWords}>"
+		}
+	},
+	"userBlock": {
+		"buttonTitle": "ブロック",
+		"chat": {
+			"user": {
+				"alert": "%{userName}さんをブロックしますか？ブロックすると、チャットルームの当該ユーザーのメッセージがすべて非表示になります。",
+				"result": "ユーザーがブロックされました。"
+			},
+			"content": {
+				"alert": "このチャットとユーザーを通報しますか？",
+				"alreadyReported": "すでに通報したチャットです。"
+			}
+		},
+		"user": {
+			"blocked": {
+				"comment": "ブロックしたユーザーのコメントです。",
+				"post": "ブロックしたユーザーの投稿です。",
+				"user": "ブロックされたユーザー"
+			},
+			"invincibleUser": "サービス運営者とアーティストはブロックできません。",
+			"unblock": {
+				"buttonTitle": "ブロック解除",
+				"alert": "ブロックを解除すると、このコミュニティの当該ユーザーの投稿とコメントがすべて表示されます。"
+			},
+			"alert": "このユーザーをブロックしますか？"
+		},
+		"admin": {
+			"block": {
+				"user": "Block User"
+			},
+			"guide": {
+				"block": {
+					"user": "When blocking a user, unblocking is only possible on the admin page.",
+					"success": "Blocking is completed.",
+					"blockedUser": "Account already blocked by your communiry."
+				}
+			}
+		}
+	},
+	"newTerms": {
+		"body": {
+			"footnote": "If you wish to delete your account, you can proceed by clicking this ${link}, and press the 'Delete Account' button.",
+			"content": "The amended Mnet Plus Privacy Policy is effective from %{effectiveDate}. The Mnet Plus service is available after agreeing to the collection and the use of the required personal information by clicking the \"Yes, I agree\" button."
+		},
+		"alert": {
+			"disagree": "If you do not wish to agree, the service will not be available and you will be automatically logged out."
+		},
+		"title": "Please agree to the new Privacy Policy!"
+	},
+	"marketing": {
+		"title": {
+			"privacy": "[選択] イベント・お得な情報をEメールとプッシュ通知をお受け取りいただけます。",
+			"section": "マーケティング同意",
+			"menu": "マーケティング情報受信同意"
+		},
+		"body": {
+			"disconsented": "Mnet Plusマーケティング情報受信拒否処理が完了しました。",
+			"consented": "Mnet Plusマーケティング情報の受信が許可されました。"
+		}
+	},
+	"section": {
+		"title": {
+			"point": "ポイント",
+			"pocExclusive": "独占コンテンツ"
+		}
+	},
+	"menu": {
+		"title": {
+			"pointManage": "ポイント詳細",
+			"fanPoint": "ファンポイント",
+			"pointHistory": "ファンポイント実績",
+			"pointGuide": "ファンポイントガイド"
+		}
+	},
+	"likes": {
+		"empty": {
+			"common": "いいねを押したコンテンツがありません。"
+		}
+	},
+	"announcement": {
+		"empty": {
+			"common": "登録されたお知らせがありません。"
+		}
+	},
+	"tab": {
+		"label": {
+			"home": "ホーム",
+			"community": "Communities",
+			"notification": "Notifications",
+			"my": "プロフィール",
+			"artist": "アーティスト",
+			"mnet": "Mnet",
+			"concert": "コンサート"
+		}
+	},
+	"exitADModal": {
+		"exit": "Are you sure you want to exit?"
+	},
+	"dsec": {
+		"account": {
+			"changeAfter30days": "３０日後に変更"
+		},
+		"enterMnetPlusAccount": "SNSと連携するMnet Plusのアカウント情報を入力してください。",
+		"iland": {
+			"tapToCheckApplicant": "「参加者」と「メディア」をクリックして\n参加者24名のプロフィールと  \nPerformance Video映像を確認してください。",
+			"modal": {
+				"intro": {
+					"nasuriCute": "自己紹介をしてなかったね！\n\nナスリは、メタボールの特別なエネルギーで生まれた \nかわいい子ギツネだよ！\nI-LANDERの夢を叶え、\nみんなに幸せを届けるんだ🎁",
+					"joinMe": "これから一緒だよ？I-MATE！"
+				}
+			}
+		}
+	},
+	"offlineVote": {
+		"guide": {
+			"title": "KCON HONG KONG 2024の会場で\n受け取った投票コードを入力してください。\n\n投票コードの確認後、\n${Worldwide KCONers’ Choice}の投票に\n参加できます。",
+			"note": {
+				"title": "【注意事項】",
+				"body1": "1.KCON HONG KONG 2024で受け取った投票コードを\n入力してください。",
+				"body2": "2.投票コードは1人1枚の発行となり、紛失した場合には再発行はできません。",
+				"body3": "3.KCON HONG KONG 2024の現場に来場せずに\n不正な手段で投票コードを入手した場合、不利益が\n発生する可能性があります。",
+				"body4": "4.大文字と小文字を区分して入力してください。"
+			},
+			"winnerCriteria": {
+				"title": "【受賞者選定基準】",
+				"body": "KCON 現場観客投票70%+事後投票30%\n(事後投票の詳細は追ってお知らせする予定です。)"
+			},
+			"voteNote": {
+				"body": "1.デバイスごとに1回の投票が可能です。\n2.投票を提出した後は修正できません。\n3.異常な方法で行われた投票は有効な投票とは見なされません。"
+			},
+			"instructions": "投票参加方法"
+		},
+		"code": {
+			"period": {
+				"title": "投票コードの入力期間",
+				"period": "Mar 30, 10:00 - Apr 7, 23:59 (KST)"
+			}
+		},
+		"vote": {
+			"period": {
+				"title": "投票期間",
+				"period": "Apr 1, 18:00 - Apr 7, 23:59 (KST)"
+			},
+			"title": "Worldwide KCONers’ Choice\nKCON 現場観客投票",
+			"subtitle": "KCON HONG KONG 2024で\n最もアイコニックなシーンを演出した\nアーティストに投票してください。"
+		},
+		"doEnterCode": "投票コードを入力する",
+		"enterCode": "投票コード入力",
+		"alert": {
+			"codeEntered": "投票コード入力が完了しました。",
+			"voteOpenAt": "%{date}から投票が始まります。"
+		},
+		"placeholder": {
+			"code": "コード入力"
+		}
+	},
+	"purchase": {
+		"payment": {
+			"method": "決済方法",
+			"status": "決済ステータス",
+			"details": "決済情報",
+			"date": "決済日"
+		},
+		"order": {
+			"total": "決済金額"
+		},
+		"information": "※本商品は購入後すぐに有効となり、払い戻しはできませんので予めご了承ください。",
+		"btn": {
+			"ticket": {
+				"page": "チケット予約サイトへアクセス"
+			}
+		}
+	},
+	"program": {
+		"mcountdown": "MCOUNTDOWN",
+		"iland2": "I-LAND2"
+	},
+	"formError": {
+		"email": {
+			"empty": "メールアドレスを入力してください。",
+			"format": "‘example@email.com’のような形式で入力してください。"
+		},
+		"password": {
+			"length": "8~20文字",
+			"character": "少なくとも1つの文字を含む",
+			"number": "少なくとも1つの数字を含む",
+			"specialCharacter": "少なくとも1つの特殊文字を含む (`~!@#$%^&*|'\";:/?\\-,%_\"含めて)"
+		}
+	},
+	"tootip": {
+		"socialLogin": {
+			"disconnect": "連携を解除すると、ログイン機能のみが解除され、既存のMnet Plusアカウントでは引き続きログインが可能です。"
+		}
+	},
+	"name": {
+		"google": "Google",
+		"apple": "Apple",
+		"kakao": "Kakao",
+		"line": "LINE"
+	},
+	"mama": {
+		"superfan": {
+			"intro": {
+				"desc1": "MAMA AWARDS Fans' Choice のノミネートを選ぶ投票権を持つ特別なファン",
+				"desc2": "MAMA SUPER FAN IDカード発行の特典",
+				"desc3": "MnetのグローバルK-POPイベントへの1年間の招待抽選",
+				"subDesc": "*イベントの詳細は主催者の都合により予告なく変更される場合があります。",
+				"visit": "スーパーファンギャラリーに入場"
+			},
+			"hub": {
+				"applicant": {
+					"button": "スーパーファンへ応募"
+				},
+				"section1": {
+					"title": "MAMA スーパーファンコミュニティ",
+					"subTitle": "スーパーファンになってMAMA AWARDS Fans' Choice候補を選んでください！",
+					"text3": "슈퍼팬 1차 투표가 시작되었습니다.",
+					"text2": "VOTE",
+					"button": "슈퍼팬 1차 투표"
+				},
+				"section2": {
+					"title": "MAMA スーパーファンとは何ですか？",
+					"subTitle": "MAMA スーパーファン情報まとめ",
+					"text3": "나의 아티스트를 응원해 주세요!",
+					"button": "바로가기"
+				}
+			},
+			"gallery": {
+				"title": "スーパーファンギャラリー",
+				"ranking": "アーティスト TOP 20",
+				"reset": "毎日００時（KST）アップデート",
+				"info": "アーティストがハッシュタグされたフィードに「いいね」を押すと応援するアーティストのランキングを上げられます！",
+				"pick": "Mnet Plus Pick",
+				"empty": {
+					"title": "まだ投稿されたポストがありません",
+					"subTitle": "フィードに投稿してみよう!"
+				},
+				"posting": {
+					"guide": {
+						"title": "作成ガイド",
+						"desc": "自分がK-POPスーパーファンであることを証明できる写真を投稿してください。\nK-POPと関連ある写真はすべてOKです。",
+						"example": "例）公式ファンクラブの写真、音楽番組の投票認証スクショ、アルバムやグッズの写真、コンサートの感想、ストリーミングスクショなど"
+					},
+					"notice": {
+						"title": "注意事項",
+						"desc1": "他人に不快感を与える言葉や暴言などはご遠慮ください。",
+						"desc2": "運営ポリシーに反する内容が含まれている場合、事前に通知することなく修正・削除される場合があります。"
+					}
+				},
+				"header": "MAMA ギャラリー",
+				"buzz": "本日掲示板のテーマ",
+				"modal": {
+					"desc": "2024 MAMA AWARDSを心待ちにしていますか？MAMAギャラリーが皆さんのMAMAトークの場になります！\n\n2024 MAMA AWARDS、アーティストなどK-POPに関するさまざまな話題をグローバルファンと一緒に語り合いましょう！"
+				}
+			},
+			"applicant": {
+				"title": "スーパーファン応募者",
+				"empty": {
+					"title": "まだ応募状況がありません",
+					"subTitle": "スーパーファンに応募しましょう!"
+				},
+				"ranking": "スーパーファンのランキング",
+				"status": "応募現状",
+				"currentTop": "スーパーファン TOP 10",
+				"reset": "累計ランキングで毎日00時 (KST) 更新",
+				"info": "私が投稿したフィードが「いいね」をたくさん受け取り、スーパーファンのランキングでたくさんランクインするほど、スーパーファン特典の当選確率が上がります！"
+			},
+			"profile": {
+				"empty": {
+					"comment": {
+						"title": "まだ作成されたコメントがありません。",
+						"subTitle": "ポストにコメントを投稿しましょう!"
+					},
+					"like": {
+						"title": "まだ「いいね」した投稿がありません",
+						"subTitle": "ポストに「いいね」しましょう!"
+					}
+				},
+				"allPost": "活動概要",
+				"post": "ポスト",
+				"comment": "コメント",
+				"like": "いいね",
+				"notApl": "スーパーファンになってMAMA AWARDS Fans' Choice候補を選んでください！",
+				"count": {
+					"attendance": "出席回数",
+					"feed": "フィード投稿数",
+					"comment": "コメント作成数",
+					"like": "もらったいいね"
+				},
+				"artist": {
+					"desc": "応援するアーティストを選択してください。",
+					"button": "アーティストを選択する",
+					"select": "選択したアーティストは\n修正できません。"
+				},
+				"idCard": {
+					"button": "MAMA スーパーファンIDカード",
+					"user": "ユーザー名",
+					"serial": "シリアルナンバー"
+				}
+			},
+			"ranking": {
+				"empty": {
+					"title": "ランキングの情報がありません。",
+					"subTitle": "スーパーファン活動を始めよう!"
+				}
+			},
+			"filter": {
+				"recent": "新着順",
+				"oldest": "古い順",
+				"liked": "いいね順"
+			},
+			"chracter": {
+				"select": "スーパーファンへの旅のため\nキャラクターを選んでください"
+			},
+			"next": "次へ",
+			"previous": "前へ",
+			"apl": {
+				"artist": {
+					"title": "応援するアーティストは誰ですか？",
+					"desc": "一組のアーティストのみ、選択可能です",
+					"input": {
+						"desc": "直接入力したアーティストはランキングに反映されない場合があります。",
+						"title": "直接入力",
+						"placeholder": "「#アーティスト名」の形式で入力してください",
+						"forbidden": "テキストに禁止用語が含まれています。再度入力してください。"
+					}
+				},
+				"why": {
+					"title": "自己紹介とあいさつを記入してください",
+					"desc": "すべてのユーザーに公開されます"
+				},
+				"personal": {
+					"title": "個人情報を入力してください",
+					"desc1": "審査のための収集目的で、外部に公開されません",
+					"desc2": "正確でない情報を入力すると、スーパーファンの選定に制限される場合があります",
+					"name": {
+						"title": "名前*",
+						"placeholder": "名前を入力してください"
+					},
+					"gender": {
+						"title": "性別*",
+						"placeholder": "性別を選択してください"
+					},
+					"birth": {
+						"title": "生まれた年度*",
+						"placeholder": "生まれた年度を選択してください"
+					},
+					"region": {
+						"title": "都道府県*",
+						"placeholder": "国を選択してください"
+					},
+					"agree": "[必要] 個人情報収集に同意"
+				},
+				"preview": {
+					"button": "プレビュー",
+					"desc1": "作成した情報は修正と削除ができません。",
+					"desc2": "広告視聴後に提出されます。"
+				},
+				"submit": "提出する",
+				"complete": {
+					"title": "スーパーファンへの応募が完了しました。",
+					"subTitle": "スーパーファンギャラリーで推しを応援しよう！\n今すぐ活動しましょう！"
+				},
+				"completeButton": "スーパーファンギャラリー\nを作成する",
+				"edit": {
+					"button": "選択"
+				}
+			},
+			"vote": {
+				"artist": {
+					"male": "男性アーティスト",
+					"female": "女性アーティスト"
+				},
+				"sellected": "選択した候補を全部見る",
+				"nomination": "候補選択",
+				"submit": {
+					"txt": "候補提出",
+					"constraint": "Fans' Choice 候補選択は男性アーティスト、女性アーティスト各々5チームずつ選択したうえ、提出可能です。",
+					"confirm": "候補選択を提出した後、修正はできません。今選択した候補で提出しますか?"
+				},
+				"cheer": "MAMAのスーパーファンだけ候補選定参加が可能です。\nMAMAギャラリーでグローバルファンたちと一緒に応援してください。",
+				"notice": {
+					"title": "[候補選定時注意事項]",
+					"desc": "· 1人1回 男女各々5チームずつ選定後提出必修\n·候補提出後修正不可 \n·このリストのスクショ及び流出禁止",
+					"period": "提出期間： 24. 09. 16 00:00 ~ 24. 09. 23 23:59 (KST)"
+				},
+				"placeholder": {
+					"male": "男性アーティストを検索",
+					"female": "女性アーティストを検索"
+				},
+				"already": {
+					"used": {
+						"device": "すでに候補選定を完了しました。"
+					}
+				}
+			},
+			"history": "スーパーファンの履歴",
+			"title": "スーパーファン"
+		},
+		"go": {
+			"to": {
+				"gallery": "MAMA ギャラリーを見る"
+			}
+		},
+		"media": {
+			"header": "MAMA Clip",
+			"post": {
+				"empty": "まだ動画がありません。"
+			},
+			"category": {
+				"all": "全て",
+				"exclusive": "Exclusive",
+				"live": "LIVE",
+				"highlight": "ハイライト",
+				"teaser": "ティーザ",
+				"behind": "ビハインド",
+				"shorts": "Shorts",
+				"fancam": "ファンカム",
+				"stagecam": "STAGE",
+				"etc": "その他"
+			}
+		},
+		"vote": {
+			"participate": "投票に参加する",
+			"share": {
+				"certificate": "投票認定証を共有する"
+			},
+			"fans": {
+				"choice": {
+					"1st": "Fans' Choice 1次投票する"
+				}
+			},
+			"earn": {
+				"awards": "毎日投票してイベントに参加する"
+			},
+			"enjoy": {
+				"awards": "2024 MAMA AWARDSをもっと楽しむ"
+			},
+			"with": {
+				"visa": "VISAと2024 MAMAが一緒にする投票"
+			},
+			"total": {
+				"votes": "計累計投票数",
+				"count2": "票",
+				"count": "%{totalCount}票"
+			},
+			"completed": {
+				"btn": "投票終了",
+				"today": "本日の投票を完了しました!"
+			},
+			"description": "Fans' Choice部門は今年一年間全世界のK-POPファンの支えを最ももらったチームに受賞されます。",
+			"day": {
+				"n": "投票 %{day}日目"
+			},
+			"fave": {
+				"today": "本日応援するアーティストに投票してください。"
+			},
+			"male": {
+				"artist": "男子アーティスト"
+			},
+			"female": {
+				"artist": "女子アーティスト"
+			},
+			"sort": {
+				"votes": "得票順",
+				"alphabetical": "名前順"
+			},
+			"update": {
+				"time": "%{time} アップデートされました。"
+			},
+			"btn": "投票する",
+			"check": {
+				"before": "投票の際必ずご確認ください!",
+				"save": "選んだアーティストを次回も投票する",
+				"personalinfo": {
+					"title": "2024 MAMA AWARDS投票参加のための個人情報収集/利用同意",
+					"description": "個人情報として、情報主体は個人情報の収集/利用を拒否する権利があります。ただし、個人情報の収集/利用を拒否される場合、2024 MAMA AWARDS の投票参加はできません。",
+					"content1": "収集/利用項目 : 携帯電話 Device ID",
+					"content2": "収集/利用目的:2024 MAMA AWARDS投票の有効性チェック",
+					"content3": "保管期間:投票終了日から30日以内に削除"
+				}
+			},
+			"once": {
+				"per": {
+					"person": "1日1つのIDにつき1回の投票が可能です。"
+				}
+			},
+			"select": {
+				"maximum": {
+					"count": "1回投票の際、男女アーティスト各々最低1チーム～最大%{maximum}チームに投票可能です。"
+				},
+				"duplicate": {
+					"not": {
+						"allowed": "(同一アーティスト重複投票不可)"
+					}
+				}
+			},
+			"submit": {
+				"check": {
+					"notice": "最終提出後、投票完了案内が確認されたら、投票が完了されます。",
+					"abnormal": "(正常ではない方法及び接近で投票された票は無効になります。)"
+				}
+			},
+			"toast": {
+				"maximum": "最大%{maximum}チームまで選択可能です。"
+			},
+			"alert": {
+				"leave": "選択したアーティストは保存できません。それでもここから出ますか?"
+			},
+			"confirm": {
+				"cancel": "選び直す"
+			},
+			"notice": {
+				"cannot": {
+					"changed": "投票提出後、結果は修正できません。"
+				},
+				"ad": {
+					"complete": "続いて出る広告を最後まで見たら投票が完了されます。"
+				},
+				"save": {
+					"submit": "投票が提出完了されたら選択したアーティストが保存されます。"
+				}
+			},
+			"final": {
+				"submit": "最終提出"
+			},
+			"view": {
+				"certificate": "投票認定証を見る"
+			},
+			"last": {
+				"update": "最後のアップデート"
+			},
+			"left": {
+				"time": "%{voteTitle} 終了まで残り時間",
+				"time2": "%{voteTitle} 終了まで残り時間"
+			},
+			"already": {
+				"voted": {
+					"today": "今日はもう投票を完了しました。ギャラリー活動またはMAMAポイントを集めてみましょう!"
+				}
+			},
+			"todays": {
+				"title": "今日の投票",
+				"subtitle": "今日残りの投票もお忘れなく!",
+				"next": {
+					"vote": {
+						"timer": "%{n}秒後次の投票画面に移動します。"
+					}
+				},
+				"btn": "投票する"
+			},
+			"result": {
+				"now": "リアルタイム投票現状"
+			},
+			"information": {
+				"multi": "1回投票の際、男女各1チームの候補に投票可能です。",
+				"single": "1回投票の際、1チームの候補に投票可能です。"
+			},
+			"hub": {
+				"desc": "今年最も愛されたアーティストに与える"
+			},
+			"after": {
+				"time": "%{time} 後投票できます!"
+			},
+			"end": {
+				"time": "投票終了まで"
+			},
+			"complete": {
+				"btn": "投票終了",
+				"btn2": "選択完了"
+			},
+			"point": {
+				"popup": {
+					"desc": "MAMA現場未公開 exclusive コンテンツが皆さんをお待ちしております。\n今すぐMAMAポイントを集めましょう!"
+				}
+			},
+			"nominees": {
+				"artist": "候補アーティスト"
+			},
+			"abnormal": {
+				"detected": "不正な投票試行が検出され、投票できません。"
+			}
+		},
+		"points": {
+			"title": "MAMAポイント",
+			"collect": "MAMAポイントを集めてイベントに参加しましょう",
+			"earned": "MAMAポイント%{points}点を獲得しました。"
+		},
+		"point": {
+			"entry": {
+				"done": {
+					"media": {
+						"title": "MAMA Clip",
+						"subTitle": "MAMAの華やかな瞬間を確認しましょう!",
+						"button": "MAMA Clipンツを見る"
+					},
+					"title": "応募が完了しました!",
+					"subTitle": "当選者は別途イーメールでご案内いたします。",
+					"desc": "通知はプロフィール→マーケティング通知設定でいつでも変更できます。",
+					"giftCard": "人生ショット専門 押しピのための",
+					"buds3Pro": "音楽は私の人生押しピのための",
+					"s24Ultra": "軽く楽しむ 押しピのための",
+					"title2": "2024 MAMA AWARDSを楽しみにしながら"
+				},
+				"banner": {
+					"title": "推し活アイテム応募が始まりました!",
+					"subTitle": "10月 26日 ~ 2024年 10月 31日 (KST)"
+				},
+				"button": "応募する",
+				"item": {
+					"pre1": "軽く楽しむ 😎",
+					"pre2": "音楽は私の人生",
+					"pre3": "人生ショット専門📸",
+					"post": "押しピのための"
+				},
+				"desc1": "*景品はランダムで抽選され、当選者に別途連絡予定",
+				"desc2": "*応募完了の後、他の景品に変更はできません。",
+				"title": "欲しい推しアイテムに応募しましょう!",
+				"subTitle": "応募期間 : 2024年 10月 26日 ~ 2024年 10月 31日 (KST)",
+				"alert": {
+					"title": "応募は10月26日（KST）に開始します。",
+					"body": "今は応募当選確率を高めるためにMAMAポイントを集めましょう！",
+					"title2": "Fans’ Choice 1次投票期間にポイントを集めた方のみ応募可能です。",
+					"body2": "2024年11月1日(KST)から新しいイベントがありますので必ず参加してください!"
+				},
+				"more": {
+					"title": "2024 MAMA AWARDS ポイントイベントのための個人情報収集/利用同意",
+					"body1": "収集/利用項目：Mnet Plus イーメール、使用者名、獲得したMAMAポイント、MAMAポイント獲得のため行った活動記録、応募したイベントアイテム",
+					"body2": "収集/利用目的：イベント当選案内及び景品配送",
+					"body3": "保管期間：イベント終了日から30日以内に削除",
+					"body4": "[個人情報委託]",
+					"body5": "個人情報委託元：(株)Communique",
+					"body6": "委託業務目的：イベント当選案内及び景品配送",
+					"body7": "保有・利用期間：イベント終了日から30日以内に削除",
+					"desc": "*個人情報提供の主体は個人情報収集及び利用に関する同意を拒否することができます。拒否する場合、イベント参加が制限されます。"
+				},
+				"confirm": {
+					"btn": "通知をもらう"
+				}
+			},
+			"header": {
+				"title": "MAMAポイント",
+				"info": "ご案内",
+				"eventInfo": "イベント案内"
+			},
+			"intro": {
+				"subTitle": "2024 MAMA WARDSを一足先に楽しむ方法",
+				"title": "MAMAポイントを集める"
+			},
+			"my": {
+				"title": "私のMAMAポイント"
+			},
+			"banner": {
+				"subTitle": "たくさん集めるほど推し活アイテム当選確率UP!",
+				"title": "MAMAポイントイベント",
+				"button": "詳しく見る"
+			},
+			"list": {
+				"title": "MAMAポイントを集める",
+				"point": "MAMA ポイント%{N}点",
+				"vote": {
+					"need": "投票に参加してください"
+				}
+			},
+			"history": {
+				"title": "履歴"
+			},
+			"info": {
+				"title": "MAMAポイントはどうやって集めますか？",
+				"point": "MAMAポイント %{N} 獲得可能",
+				"ad": "広告視聴を完了した時点でポイントの獲得になります。",
+				"vote": "Fans' Choice 投票提出を完了した時点でポイントの獲得になります。",
+				"visaVote": "Visa Fans' Choice 投票提出を完了した時点でポイントの獲得になります。",
+				"share": "多様なSNSに共有するとポイントの獲得ができます。",
+				"post": "MAMAギャラリーにフィードを投稿するとポイントの獲得ができます。\n(１日１回限定)"
+			},
+			"event": {
+				"title": "参加方法",
+				"subTitle": "MAMAポイントを集める期間とイベント応募期間は異なりますので、以下のイベント期間を必ずご確認ください。",
+				"share": "イベントを共有する",
+				"desc": "*MAMAポイントを集める期間後アイテム応募期間に応募しないと参加として認定されません。イベントアイテム応募期間に必ずご希望のアイテムに応募してください。",
+				"entry": {
+					"title": "応募期間と当選案内をお見逃しなく🎁",
+					"desc": "マーケティング情報の受信同意をされるとイベント関連及び2024年MAMA AWARDSのニュースを誰より早くもらうことができます。",
+					"agree": "マーケティング情報の受信同意"
+				}
+			},
+			"event1": {
+				"title": "MAMAポイントを集める",
+				"subTitle": "2024年 10月 14日 ~ 2024年 10月 25日 (KST)",
+				"desc": "毎日ミッションを完了し\nMAMAポイントを集める",
+				"button": "Collect MAMA Points"
+			},
+			"event2": {
+				"title": "推し活アイテムに応募する",
+				"subTitle": "2024年 10月 26日 ~ 2024年 10月 31日 (KST)",
+				"desc": "応募期間内に欲しいアイテムを\n選んで応募する"
+			},
+			"support": {
+				"top": "上位%{N}%",
+				"point": "%{N}点"
+			},
+			"toast": {
+				"reward": "MAMAポイント%{N}点を獲得しました。"
+			},
+			"vote": {
+				"finish": "投票終了"
+			},
+			"item": {
+				"vote": "参加する",
+				"share": "参加する"
+			}
+		},
+		"point2": {
+			"title": "MAMAポイント2次",
+			"banner": {
+				"title": "現在のポイント",
+				"current0": "今から始まりましょうか?",
+				"current10": "思い立ったが吉日!",
+				"current20": "もう少し頑張りましょう!",
+				"current30": "頑張っています!",
+				"current40": "やっぱり!さすがです!",
+				"current50": "素敵です!",
+				"current60": "もう少し頑張りましょう!",
+				"current70": "ワクワク、残りわずか",
+				"current80": "うわ!すごいです!",
+				"current90": "もうすぐ独占コンテンツが見られます!",
+				"attain": "達成率",
+				"finish": {
+					"title": "MAMAポイント100％達成!",
+					"desc": "MAMA現場の生の姿が見られる未公開exclusiveコンテンツが公開予定です!\n少しお待ちください!",
+					"button": "MAMA現場未公開コンテンツを見る"
+				},
+				"login": "ログリン後MAMAポイントを集め\n未公開Exclusiveコンテンツを楽しみましょう!"
+			},
+			"info": {
+				"title": "MAMAポイント2次イベント",
+				"desc": "MAMA現場未公開exclusiveコンテンツが皆さんをお待ちしております📺\n今すぐMAMAポイントを集めましょう!",
+				"period": "ポイント集め期間 : 2024. 11. 01 ~ 今後案内予定"
+			}
+		},
+		"kconers": {
+			"title": "Worldwide KCONers' Choice",
+			"online": "オンライン投票",
+			"subtitle": "KCONで最もアイコニックなステージを見せたアーティストを選定してください!",
+			"desciption": "2024年各地域のKCONで行われたKCON現場投票TOP10パフォーマンス動画を視聴し、2024年一年間KCONで最もアイコニックなステージを見せたアーティストを選定してください。\n\n各地域のKCON観客が参加した現場投票とオンライン投票を合算し、最終受賞者が決定されます。",
+			"notice1": {
+				"title": "1.候補選定基準"
+			},
+			"notice2": {
+				"title": "2.受賞者選定基準",
+				"description1": "KCON現場投票70％ + オンライン投票30％\n(現場投票数とオンライン投票数を合わせて最終受賞者決定)"
+			},
+			"notice3": {
+				"title": "3.注意事項",
+				"description1": "正常じゃない方法で集計された投票は最終集計から外されます。",
+				"description2": "1機器1ID1投票可能です。"
+			},
+			"alert": {
+				"title": "提出後、修正できません。今選択したアーティストで提出しますか?"
+			}
+		},
+		"kcoenrs": {
+			"notice1": {
+				"description1": "2024年行われたKCONのラインアップアーティストの中、現場観客の投票で選定されたTOP10アーティスト\n\n- KCON HONG KONG 2024 (Mar 30 - Mar 31)\n- KCON JAPAN 2024 (May 10 - May 12)\n- KCON LA 2024 (July 26 - 28)\n- KCON GERMANY 2024 (Sep 28 - Sep 29)"
+			}
+		},
+		"hub": {
+			"event": {
+				"section": {
+					"title": "毎日投票してイベントを楽しみましょう"
+				}
+			}
+		}
+	},
+	"stf": {
+		"desc": {
+			"intro": "In Stage Fighter, public voting for stage assessments\nare conducted in the form of seat booking.\n\nOut of the 4 classes of seats VIP / R / S / A,\nin which area would you watch the stage?\n\nSelect your preferred seat to vote.",
+			"voteTicketing": "Vote-Ticketing",
+			"stageWillBe": "Stages will be evaluated based on your seating class\nBook vote-tickets for the stage, now",
+			"tapTheSeat": "Tap the seating zone to book your seat.",
+			"seatPoint": "%{seatName}: %{point} points",
+			"noSeatLimit": "No seat limit",
+			"noLimit": "No limit",
+			"dancerAssessment": "Dancer Assessment",
+			"voteYourMVP": "Pick the dancer who rocked the stage",
+			"canVoteOneDancer": "You can only vote for one dancer."
+		},
+		"button": {
+			"voteNow": "VOTE NOW",
+			"seatTicketing": "Vote-Ticketing for Seat Classes",
+			"title": "Next Synopsis",
+			"last": {
+				"title": "Vote"
+			}
+		},
+		"voteGuide": {
+			"title": "[Stage Voting Notice]",
+			"item1": "In Stage Fighter, public voting for stage assessments is conducted in the form of seat booking.",
+			"item2": "Out of the 4 classes of seats VIP / R / S / A, vote for your preferred seat of which you would watch the stage."
+		},
+		"alert": {
+			"voteFor": "Vote for %{castName} in %{seatName} seat?"
+		},
+		"intro": {
+			"content1": "In a lavish celebration of dukes and nobles,\na rebellion is ignited by the loyal servants in a quest to climb up the social class. As the nobles fight to preserve and the butlers to take, the class warfare escalates into a catastrophe.",
+			"content2": "Children of the top 0.1% of elite families work tirelessly to enter a prestigious university in the pressure of\ntheir parents’ high expectations. Yet, the children decide to run from the torturous competition and find their true selves.",
+			"content3": "In a survival game to obtain the ultimate power through dance, dancers are confused as they come to realize that they are partners intertwined by dance. To unite or to fight? What choices will the dancers make?",
+			"content4": "While an imprisoned man is yearning for an escape\nfor his unexplained confinement, his revenge seeking captor continues to force oppression to destroy him to his deepest soul. What faith awaits him in his struggle for freedom?"
+		},
+		"gnb": {
+			"synopsis": "Synopsis"
+		}
+	},
+	"poc": {
+		"gnb": {
+			"support": "サポート",
+			"programInfo": "番組情報",
+			"mission": "ミッション",
+			"pointHistory": "ミッション",
+			"guide": "案内",
+			"history": "履歴",
+			"applicantList": "アーティスト",
+			"information": "番組情報"
+		},
+		"casts": "キャスト",
+		"point": {
+			"remain": "保有 %{pointName}",
+			"totalUsed": "使用した%{pointName}"
+		},
+		"pointHistory": {
+			"all": "全体",
+			"income": "獲得",
+			"used": "消費",
+			"emptyIncome": "まだ獲得した%{pointName}がありません",
+			"emptyUsed": "まだ費やした%{pointName}がありません"
+		},
+		"support": {
+			"achieved": "%{round}次サポート達成",
+			"closed": "서포트 종료",
+			"allClosed": "모든 서포트가 종료되었습니다",
+			"thanksToSupport": "그동안 서포트에 참여해주셔서 감사합니다",
+			"openSoon": "もうすぐサポートが始まります。\n今しばらくお待ちください。",
+			"search": "検索",
+			"dialog": {
+				"inputPoint": "[%{applicantName}]へサポートする%{pointName}の個数を入力してください",
+				"pointBalance": "現在の%{pointName}"
+			},
+			"progressAchieved": "%{progress} 達成"
+		},
+		"desc": {
+			"searchingAd": "広告を探しています",
+			"noSearchResult": "検索結果がありません。"
+		},
+		"alert": {
+			"mission": {
+				"dailyComplete": {
+					"title": "出欠確認完了！\n[%{reward} %{pointName}]を獲得しました。",
+					"body": "%{today} 出欠完了"
+				},
+				"adComplete": {
+					"title": "広告視聴完了!\n[%{reward} %{pointName}]を獲得しました。",
+					"body": "残された広告回数 %{achieveCount}/%{maxRewardCount}"
+				}
+			},
+			"supportTo": "[%{applicantName}]へ [%{amount} %{pointName}]をサポートします。",
+			"supportDone": {
+				"title": "サポートが完了しました",
+				"body": "サポートされた %{pointName}は毎日0時(KST)に反映されます。"
+			},
+			"supportFail": {
+				"balance": "保有する%{pointName}が足りないです。"
+			},
+			"pointToAccess": "%{pointName}を集め%{minPoint}個以上\nサポートした利用者のみ入場可能です。"
+		},
+		"button": {
+			"support": "サポートする",
+			"collectPoint": "%{pointName}を集める"
+		}
+	},
+	"mple": {
+		"point": {
+			"name": "Mpleポイント",
+			"tooltip": {
+				"title": "無料Mpleポイント!"
+			},
+			"accumulation": "Mpleポイントをためる",
+			"history": "利用詳細"
+		}
+	},
+	"badge": {
+		"iland": {
+			"onAir": "ON-AIR"
+		}
+	},
+	"speech": {
+		"nasuri": {
+			"beenWaiting": "待ってたよ",
+			"justBeginning": "これから始まるよ"
+		}
+	}
+}
